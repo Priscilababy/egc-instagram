@@ -15,8 +15,9 @@ Uso típico (ver ejemplo_ventilador.py y ejemplo_neutros.py):
 Reglas de diseño (NO romperlas):
 - Texto mínimo 32 px. Títulos 58-64 px. Rótulos principales 40-60 px.
 - Logo EGC siempre abajo a la izquierda (firma()).
-- Colores AEA: fase castaño; celeste SOLO neutro; verde-amarillo SOLO PE.
-  Retornos y viajeros: negro o rojo, en punteado.
+- Colores AEA (Tabla 770.10.XIII): fase castaño; celeste SOLO neutro; verde-amarillo SOLO PE.
+  Retornos y viajeros: color NO reservado, punteado (RET gris, RET2 violeta).
+  No dibujar retornos en negro ni rojo: son colores de fase (ver conocimiento/03).
 - Nada de texto que se superponga. Revisar el PNG antes de publicar.
 """
 import base64
@@ -35,8 +36,10 @@ CEL = '#5BC4F0'       # neutro (celeste)
 CEL_TXT = '#2A8FD0'   # texto del neutro
 VERDE = '#22A04B'     # PE
 AMAR_PE = '#F2CE1A'   # franja amarilla del PE
-NEG = '#1E1E1E'       # retorno / viajero
-ROJO = '#D7141A'      # retorno alternativo / "mal"
+RET = '#6E6E6E'       # retorno / viajero (gris: color no reservado)
+RET2 = '#8E44AD'      # segundo retorno / viajero (violeta: color no reservado)
+NEG = '#1E1E1E'       # negro = fase S (L2). No usar para retornos
+ROJO = '#D7141A'      # chip "MAL" y alertas. No usar para retornos (rojo = fase T)
 VERDE_OK = '#1E8E48'  # "bien"
 GRIS = '#8A95A3'
 W = 12                # grosor de cable

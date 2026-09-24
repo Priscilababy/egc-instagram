@@ -11,9 +11,9 @@ s += tablero()
 s += cable([(440, 363), (440, 450), (260, 450), (260, 503)], CAST)
 s += cable([(700, 363), (700, 800), (780, 800), (780, 863)], CEL)
 s += cable_pe([(920, 363), (920, 863)])
-# Retornos (punteados): punto 1 -> motor (negro), punto 2 -> luz (rojo)
-s += cable([(150, 806), (150, 850), (545, 850), (545, 863)], NEG, punteado=True)
-s += cable([(370, 806), (370, 828), (660, 828), (660, 863)], ROJO, punteado=True)
+# Retornos (punteados, color no reservado): punto 1 -> motor (gris), punto 2 -> luz (violeta)
+s += cable([(150, 806), (150, 850), (545, 850), (545, 863)], RET, punteado=True)
+s += cable([(370, 806), (370, 828), (660, 828), (660, 863)], RET2, punteado=True)
 
 # Llave de 2 puntos
 s += caja(60, 520, 400, 270, 'LLAVE DE 2 PUNTOS')
@@ -26,12 +26,12 @@ for x in (150, 370):
           f'<circle cx="{x}" cy="744" r="10" fill="#FFF" stroke="{NAVY}" stroke-width="5"/>'
           f'<line x1="{x}" y1="754" x2="{x}" y2="790" stroke="{NAVY}" stroke-width="5"/>')
 s += texto(106, 718, '1', 44, ancla='middle') + texto(414, 718, '2', 44, ancla='middle')
-s += borne(260, 520, CAST) + borne(150, 790, NEG) + borne(370, 790, ROJO)
+s += borne(260, 520, CAST) + borne(150, 790, RET) + borne(370, 790, RET2)
 
 # Bornera del ventilador
 s += f'<rect x="480" y="880" width="540" height="110" rx="14" fill="#F6F8FA" stroke="{NAVY}" stroke-width="5"/>'
-s += borne(545, 880, NEG) + borne(660, 880, ROJO) + borne(780, 880, CEL) + borne(920, 880, VERDE)
-s += (texto(545, 950, 'MOTOR', 32, NEG, 'middle') + texto(660, 950, 'LUZ', 32, ROJO, 'middle')
+s += borne(545, 880, RET) + borne(660, 880, RET2) + borne(780, 880, CEL) + borne(920, 880, VERDE)
+s += (texto(545, 950, 'MOTOR', 32, RET, 'middle') + texto(660, 950, 'LUZ', 32, RET2, 'middle')
       + texto(780, 950, 'N', 32, CEL_TXT, 'middle') + texto(920, 950, 'PE', 32, VERDE, 'middle'))
 
 # Dibujo del ventilador con luz encendida
