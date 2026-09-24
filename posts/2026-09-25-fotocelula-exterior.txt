@@ -1,0 +1,20 @@
+La fotocélula prende la luz exterior sola, sin que nadie toque una llave.
+
+Se usa en luz de jardín, frente de casa, garage o cartelería: enciende cuando cae la luz natural al atardecer y apaga sola de día. Ahorra energía y evita depender de que alguien se acuerde de accionarla.
+
+Cómo se conecta:
+- La fase que sale del termomagnético entra al borne L de la fotocélula.
+- La fotocélula conmuta esa fase y la entrega por su salida (C) hasta la luminaria.
+- El neutro va directo del tablero a la bornera de la luminaria, sin pasar por la fotocélula.
+- El conductor de protección (PE) va directo a la masa metálica de la luminaria.
+
+Detalles que se olvidan en obra:
+- Ubicá el sensor donde reciba luz natural directa y lejos del haz de su propia luminaria, para que no quede prendiendo y apagando en loop por su propia luz.
+- Revisá la carga máxima en watts que admite el modelo antes de colgarle varias luminarias.
+- Las conexiones van a la intemperie: dejalas bien aisladas, la humedad es la principal causa de falla en estos equipos.
+
+Marco: reglamentación AEA 90364. Diferencial de 30 mA en el circuito y masa de la luminaria conectada a tierra.
+
+Guardalo para la próxima instalación. ¿Vos ponés la fotocélula integrada a la luminaria o aparte, en la pared?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #fotocelula #iluminacionexterior #tableroelectrico
