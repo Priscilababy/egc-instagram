@@ -24,6 +24,20 @@ La prioridad absoluta es la **exactitud técnica**. Es mejor saltear un día que
 
 ## Paso a paso (seguilo en orden)
 
+`main` es la fuente de verdad de `temas.md` y `publicados.md`. Todo termina integrado en `main`.
+
+### 0. Integrar ramas pendientes en main
+Antes de todo, integrá en `main` cualquier rama `claude/*` que tenga commits que no estén en `main`:
+```bash
+git fetch origin
+git checkout main && git pull origin main
+for r in $(git branch -r --list 'origin/claude/*'); do
+  if [ -n "$(git log --oneline main..$r)" ]; then git merge --no-edit "$r"; fi
+done
+git push origin main
+```
+Si hay conflictos en `temas.md` o `publicados.md`, conservá las líneas de ambos lados. Trabajá el resto de la corrida a partir de este `main` actualizado.
+
 ### 1. Calcular la fecha
 ```bash
 MANANA=$(TZ=America/Argentina/Buenos_Aires date -d tomorrow +%F)
@@ -39,6 +53,7 @@ Alterná formatos: no uses dos placas "MAL / BIEN" seguidas.
 
 ### 4. Verificar la parte técnica
 - Buscá en la web y confirmá cada dato que vayas a afirmar. Fuentes preferidas: AEA, IRAM, IEC, ENRE, entes reguladores provinciales, universidades, colegios de ingenieros, fabricantes reconocidos.
+- **Verificá el aparato real:** cuántos bornes tiene y qué necesita para funcionar, y dibujalos todos. Fotocélulas, sensores de movimiento, temporizadores y relojes electrónicos **necesitan neutro para alimentar su electrónica**: el neutro va a su borne N y también directo a la carga. Si los cables propios del equipo tienen colores de fábrica, aclarar que se confirman en el manual del modelo.
 - **No inventes números de artículo.** Si no verificaste el número exacto, escribí solo "reglamentación AEA 90364".
 - Si un dato no se puede verificar, no se afirma.
 - Si el tema completo no se puede verificar con seguridad, marcalo `[?]` en `temas.md` con el motivo y pasá al siguiente.
@@ -59,6 +74,7 @@ Alterná formatos: no uses dos placas "MAL / BIEN" seguidas.
 Abrí el PNG y revisá, uno por uno:
 - [ ] Ningún texto se superpone ni queda cortado.
 - [ ] Todo el texto mide 32 px o más (se tiene que leer en un celular).
+- [ ] El texto del recuadro amarillo queda completo dentro del borde (`mensaje()` ajusta el ancho a la línea más larga; si el recuadro invade otro elemento, acortá las líneas).
 - [ ] El logo de EGC está abajo a la izquierda.
 - [ ] Colores AEA correctos (ver reglas).
 - [ ] El esquema es **eléctricamente correcto**: la llave corta la fase; el neutro nunca pasa por una llave unipolar; el PE va directo a las masas; ningún cable une dos fases o fase con neutro; ningún cable cruza a otro de forma ambigua.
@@ -83,9 +99,13 @@ Guardalo en `posts/AAAA-MM-DD-slug.txt`. Reglas:
 ```bash
 git add posts/ generador/ temas.md publicados.md
 git commit -m "Posteo ${MANANA}: <tema>"
-git push origin HEAD:main
+git push origin HEAD            # tu rama de trabajo
+git fetch origin && git checkout main && git pull origin main
+git merge --no-edit <tu-rama>
+git push origin main
+git ls-remote origin main       # tiene que mostrar el hash de tu último commit (git rev-parse HEAD)
 ```
-Si el push a `main` es rechazado, hacé push a `claude/posts` y usá esa rama en la URL.
+La URL de la imagen se arma siempre con `main`. Si el push a `main` es rechazado, anotá el error exacto en el resumen, usá tu rama en la URL y avisalo.
 
 ### 9. Verificar la URL pública
 ```bash
@@ -122,7 +142,7 @@ Armá el JSON con Python (`json.dumps`) para que los saltos de línea y acentos 
 - Confirmá con `getScheduledPosts` que el posteo aparece para mañana a las 10:00.
 - En `publicados.md` agregá una línea: `- AAAA-MM-DD · <tema> · <formato> · posts/<archivo>.png · <plannerUrl>`
 - En `temas.md` marcá el tema como `[x]`.
-- Commit y push de esos cambios.
+- Commit, merge en `main` y push de esos cambios (igual que en el paso 8). Verificá con `git ls-remote origin main` que `main` tiene tu último commit. **Ninguna corrida termina sin esto.**
 
 ### 12. Resumen final
 Terminá con un resumen corto: tema, fuentes consultadas, archivo, URL, fecha y hora programada, y el `plannerUrl`.

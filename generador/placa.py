@@ -105,8 +105,20 @@ def texto(x, y, t, tam=40, color=NAVY, ancla='start', negrita=True):
     return f'<text x="{x}" y="{y}" font-size="{tam}"{peso} fill="{color}" text-anchor="{ancla}">{t}</text>'
 
 
-def mensaje(lineas, x=60, y=890, ancho=390, tam=40):
-    """Recuadro amarillo con la idea clave (máx. 3 líneas cortas)."""
+def ancho_texto(t, tam, negrita=True):
+    """Ancho en px de un texto con Liberation Sans (Pillow si está; si no, estimación conservadora)."""
+    try:
+        from PIL import ImageFont
+        archivo = 'LiberationSans-Bold.ttf' if negrita else 'LiberationSans-Regular.ttf'
+        return ImageFont.truetype(os.path.join(AQUI, 'fuentes', archivo), tam).getlength(t)
+    except Exception:
+        return len(t) * tam * 0.62
+
+
+def mensaje(lineas, x=60, y=890, ancho=None, tam=40):
+    """Recuadro amarillo con la idea clave (máx. 3 líneas cortas). El ancho se ajusta a la línea más larga."""
+    if ancho is None:
+        ancho = int(max(ancho_texto(l, tam) for l in lineas) + 2 * 26 + 10)
     alto = 50 + 60 * len(lineas)
     s = f'<rect x="{x}" y="{y}" width="{ancho}" height="{alto}" rx="18" fill="#FFF6D6" stroke="{AMARILLO}" stroke-width="4"/>'
     for i, l in enumerate(lineas):

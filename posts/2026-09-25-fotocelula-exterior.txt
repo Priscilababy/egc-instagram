@@ -4,14 +4,15 @@ Se usa en luz de jardín, frente de casa, garage o cartelería: enciende cuando 
 
 Cómo se conecta:
 - La fase que sale del termomagnético entra al borne L de la fotocélula.
-- La fotocélula conmuta esa fase y la entrega por su salida (C) hasta la luminaria.
-- El neutro va directo del tablero a la bornera de la luminaria, sin pasar por la fotocélula.
+- El neutro va al borne N de la fotocélula: alimenta su electrónica. Sin neutro, el sensor no funciona.
+- La fotocélula conmuta la fase y la entrega por su borne CARGA hasta la luminaria.
+- El neutro también va directo a la bornera de la luminaria. La fotocélula nunca corta el neutro.
 - El conductor de protección (PE) va directo a la masa metálica de la luminaria.
 
 Detalles que se olvidan en obra:
+- Los cables propios del equipo suelen venir en negro (fase), blanco (neutro) y rojo (carga), pero no es universal: confirmalo en el manual del modelo antes de conectar.
 - Ubicá el sensor donde reciba luz natural directa y lejos del haz de su propia luminaria, para que no quede prendiendo y apagando en loop por su propia luz.
-- Revisá la carga máxima en watts que admite el modelo antes de colgarle varias luminarias.
-- Las conexiones van a la intemperie: dejalas bien aisladas, la humedad es la principal causa de falla en estos equipos.
+- Revisá la carga máxima en watts que admite el modelo y, como va a la intemperie, dejá las conexiones bien aisladas contra el agua y la humedad.
 
 Marco: reglamentación AEA 90364. Diferencial de 30 mA en el circuito y masa de la luminaria conectada a tierra.
 
