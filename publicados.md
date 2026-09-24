@@ -12,3 +12,4 @@ La rutina lee esta lista para no repetir temas.
 
 ## Con Metricool
 - 2026-09-24 · Ventilador de techo con luz · CONEXIÓN · 2026-09-24-ventilador-de-techo.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=7241380420455712172
+- 2026-09-25 · Fotocélula para luz exterior · CONEXIÓN · 2026-09-25-fotocelula-exterior.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-996624459815564329
