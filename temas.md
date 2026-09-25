@@ -5,7 +5,7 @@ Tipo: **CONEXIÓN** = cómo se conecta · **MAL/BIEN** = error común.
 La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar temas cuando quieras.
 
 - [x] CONEXIÓN · Fotocélula para luz exterior (fase, neutro, retorno a la luminaria)
-- [ ] MAL/BIEN · La llave corta la fase, nunca el neutro (portalámparas con tensión con la luz apagada)
+- [x] MAL/BIEN · La llave corta la fase, nunca el neutro (portalámparas con tensión con la luz apagada)
 - [ ] CONEXIÓN · Automático de escalera: varios pulsadores y un temporizador en el tablero
 - [ ] CONEXIÓN · Bomba de agua con automático de tanque (flotante eléctrico)
 - [ ] CONEXIÓN · Tablero monofásico de vivienda: cabecera, diferencial, termomagnéticos por circuito, barras N y PE
