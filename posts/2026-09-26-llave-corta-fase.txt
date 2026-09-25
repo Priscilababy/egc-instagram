@@ -1,0 +1,19 @@
+La llave "apaga" la luz, pero el portalámparas puede seguir con tensión. Pasa cuando el unipolar corta el neutro en vez de la fase.
+
+Aplica a cualquier punto de luz con llave simple: si te confundís de conductor, el circuito que parece apagado no está realmente sin tensión.
+
+Cómo se conecta:
+- La fase entra a un borne de la llave y sale por el otro hacia el portalámparas.
+- El neutro va directo del tablero al portalámparas, sin pasar por ninguna llave.
+- Con la llave accionada, la fase se corta antes de llegar a la lámpara: apagada, el portalámparas queda sin tensión.
+
+Detalles que se pasan por alto en obra:
+- Si la llave queda en el neutro, la luz se apaga igual, pero la fase sigue llegando al portalámparas: al cambiar la lámpara pensando que está apagada, te podés llevar una descarga.
+- Antes de conectar la llave, identificá con tester o buscapolos cuál conductor del tablero es la fase.
+- El cable entre la llave y el portalámparas es un retorno: no lleva color de fase, ni celeste, ni verde-amarillo. Usá un color no reservado.
+
+Marco: reglamentación AEA 90364. El circuito terminal de iluminación lleva diferencial de 30 mA como protección complementaria contra contactos directos.
+
+Guardalo para la próxima instalación. ¿Te tocó alguna vez un portalámparas con tensión estando la luz apagada?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #llaves #seguridadelectrica
