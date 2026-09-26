@@ -1,0 +1,21 @@
+¿Instalaste un automático de escalera y la luz queda tenue o parpadea con todo apagado? El problema casi siempre es el neutro mal llevado.
+
+El automático de escalera (temporizador o "minutería") deja la luz prendida un tiempo fijo después de apretar cualquier pulsador, y se apaga solo. Se usa en escaleras, pasillos largos y palieres donde no conviene depender de que alguien apague la luz.
+
+Cómo se conecta:
+- La fase del tablero entra al borne L del temporizador y también alimenta a todos los pulsadores, en paralelo.
+- Cada pulsador es solo una orden: al apretarlo, manda esa fase a un borne de entrada del relé (no es fase de fuerza, es señal de comando).
+- El neutro va al borne N del temporizador -su electrónica lo necesita para funcionar- y además sigue directo hasta la luminaria.
+- La salida del temporizador (fase ya conmutada) va a la luminaria; el PE va directo a la masa del artefacto.
+
+Detalles que se pasan por alto en obra:
+- Si no le das neutro al temporizador, no anda: parpadea, no arranca o queda con tensión residual en la luminaria por la corriente de fuga de la electrónica.
+- Los pulsadores van todos en paralelo entre sí, nunca en serie: cualquiera tiene que poder encender.
+- El cable que sale de los pulsadores hacia el relé no es fase de tablero ni neutro: va en un color no reservado (nunca castaño, negro, rojo, celeste ni verde-amarillo).
+- Revisá siempre la hoja de bornes del modelo: algunos temporizadores traen bornes rotulados distinto (P, S1, entrada de mando).
+
+Marco: reglamentación AEA 90364. El circuito lleva diferencial de 30 mA como cualquier otro terminal, y la masa de la luminaria va al PE.
+
+Guardalo para la próxima instalación de escalera o pasillo. ¿Te tocó algún temporizador que no arrancaba por falta de neutro?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #automaticodeescalera #tableroelectrico
