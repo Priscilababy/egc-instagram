@@ -15,3 +15,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-09-25 · Fotocélula para luz exterior · CONEXIÓN · 2026-09-25-fotocelula-exterior.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-996624459815564329
 - 2026-09-26 · La llave corta la fase, nunca el neutro · MAL/BIEN · posts/2026-09-26-llave-corta-fase.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=2698780045200803344
 - 2026-09-27 · Automático de escalera (pulsadores + temporizador) · CONEXIÓN · posts/2026-09-27-automatico-escalera.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=8766740031261788527
+- 2026-09-28 · Bomba de agua con automático de tanque (flotante eléctrico) · CONEXIÓN · posts/2026-09-28-bomba-flotante.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-715597815179097410
