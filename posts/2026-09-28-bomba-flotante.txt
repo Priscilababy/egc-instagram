@@ -1,0 +1,21 @@
+El flotante del tanque nunca va conectado directo a 220 V.
+
+Se usa para que la bomba de agua arranque y pare sola según el nivel del tanque, sin que nadie tenga que abrir ni cerrar la llave a mano.
+
+Cómo se conecta:
+- Un transformador de seguridad baja la fase y el neutro del tablero a 24 V (MBTS).
+- El flotante, dentro del tanque, trabaja en ese circuito de 24 V: sin riesgo aunque esté mojado.
+- Esos 24 V alimentan la bobina de un contactor.
+- El contactor, ya en 220 V, corta fase y neutro juntos para arrancar y parar el motor de la bomba.
+- El PE va directo a la masa del motor, sin pasar por el contactor ni por el transformador.
+
+Detalles que se olvidan en obra:
+- El transformador tiene que ser de seguridad (nunca un autotransformador): primario y secundario separados.
+- Las masas del circuito de 24 V no se conectan a tierra.
+- La protección de sobrecarga del motor es dedicada: ni el térmico ni un fusible común la reemplazan.
+
+Marco: reglamentación AEA 90364. Diferencial de 30 mA en el circuito y masas a tierra.
+
+Guardalo para la próxima instalación. ¿Vos cómo resolvés el arranque de la bomba en tu zona?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #bombadeagua #tableroelectrico
