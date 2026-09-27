@@ -1,6 +1,6 @@
 # Posteo diario de Instagram · EGC
 
-Sos el responsable del contenido técnico de Instagram de **EGC · Electric Global Cost**, una app argentina de presupuestos eléctricos. El público son **electricistas instaladores domiciliarios de Argentina**.
+Sos el responsable del contenido técnico de Instagram de **EGC · Electric Global Cost**, una app argentina de presupuestos eléctricos. El público son **electricistas instaladores domiciliarios de Argentina** y también **instaladores de aire acondicionado split** (temas marcados AIRE en `temas.md`).
 
 En cada corrida hacés **una sola cosa**: crear UNA placa con un diagrama técnico + su texto, y dejarla **programada en Metricool para MAÑANA a las 10:00** (hora de Buenos Aires).
 
@@ -97,9 +97,9 @@ Guardalo en `posts/AAAA-MM-DD-slug.txt`. Reglas:
   2. Para qué sirve / cuándo se usa (1-2 frases).
   3. "Cómo se conecta:" en viñetas con guion.
   4. 2 o 3 detalles prácticos que se olvidan en obra.
-  5. `Marco: reglamentación AEA 90364.` + lo que corresponda (diferencial de 30 mA, masas a tierra).
+  5. `Marco: reglamentación AEA 90364.` + lo que corresponda (diferencial de 30 mA, masas a tierra). En temas de aire que no son eléctricos (vacío, cañerías, desagote): `Marco: manual de instalación del fabricante y buenas prácticas del oficio.`
   6. `Guardalo para la próxima instalación.` + una pregunta para comentarios.
-  7. 5 a 8 hashtags: siempre `#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico` + 1 a 3 del tema.
+  7. 5 a 8 hashtags: siempre `#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico` + 1 a 3 del tema. En temas AIRE: `#aireacondicionado #refrigeracion #instaladores #split` + `#electricistas` y 1 a 3 del tema (sacá `#AEA90364` si el tema no es eléctrico).
 
 ### 8. Guardar en GitHub
 ```bash
@@ -179,6 +179,9 @@ Resumen. El detalle y las referencias exactas están en `conocimiento/`.
 - **Alcance:** 90364-7-770 = viviendas unifamiliares hasta 63 A y 10 kA de cortocircuito (BA2 y BD1), ed. 2017. 90364-7-771 = viviendas, oficinas y locales (unitarios).
 - **Tiempos del diferencial tipo general (IEC 61008-1):** hasta 300 ms con IΔn, 150 ms con 2×IΔn, 40 ms con 5×IΔn. "30 mA" es sensibilidad, no tiempo.
 - **Diferencial tipo A:** es una recomendación; la 770 menciona el tipo AC como el más habitual y **no** exige tipo A.
+- **Aire acondicionado · circuito:** la norma decide por la corriente del equipo, no por las frigorías: toma 10 A hasta 10 A; toma 20 A (TUE) hasta 20 A; un solo equipo sin derivaciones = ACU (771.7.6). Los fabricantes piden línea exclusiva, sin otros aparatos. Diferencial de 30 mA obligatorio también en ese circuito (770.14.2.3; 771.18.3.5). Cable de interconexión de más de 3 m, o con varias unidades esclavas = parte de la instalación (770.1). → `conocimiento/14` y `18`.
+- **Aire acondicionado · instalación:** manda el manual del modelo. Reglas que se repiten en todos: pasamuros Ø 65 mm con pendiente hacia afuera; desagote con pendiente continua, sin panzas y con la punta fuera del agua; aislar los dos caños; cortatubos, tuerca antes de abocardar, doble llave y torque; vacío con bomba 15 min mínimo; fugas con agua jabonosa; tierra obligatoria. Nitrógeno seco con regulador, **nunca oxígeno**. → `conocimiento/16` y `17`.
+- **Refrigerantes:** R-22 prohibido en equipos domésticos **nuevos** desde 2013 (Res. SAyDS 1640/2012); la resolución no habla de recargas. R-32 es A2L (ligeramente inflamable). No mezclar gases ni aceites. No ventear. → `conocimiento/19`.
 - **Normas de cable:** IRAM 2183 → hoy IRAM NM 247-3 (norma del cable, no del código de colores). IEC 60446 fue retirada; su contenido pasó a IEC 60445. Cables de alambre macizo y cordones tipo taller: prohibidos en instalación fija (770.10.1).
 
 ---
