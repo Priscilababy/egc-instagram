@@ -1,0 +1,21 @@
+En un tablero monofásico, el neutro también pasa por cada protección.
+
+El tablero es el corazón de la vivienda: desde ahí se protege y se maniobra cada circuito. Un tablero bien armado te ahorra llamados y riesgos.
+
+Cómo se conecta:
+- Cabecera: termomagnética bipolar de 63 A como máximo, con los dos polos protegidos. Corta fase y neutro.
+- Diferencial de 30 mA, bipolar: fase y neutro pasan por él.
+- Una termomagnética bipolar por cada circuito: IUG hasta 16 A, TUG hasta 20 A, TUE hasta 32 A.
+- Lo que sale por un diferencial vuelve por ese mismo diferencial: sin bornera de neutro común aguas abajo de varios.
+- Barra de PE con un borne para cada circuito, puesta a tierra con toma propia de 40 ohm o menos.
+
+Detalles que se olvidan en obra:
+- No se permiten termomagnéticas unipolares, "1P+N" ni "neutro pasante" en monofásico.
+- Secciones mínimas: 1,5 mm² en IUG y 2,5 mm² en TUG y TUE.
+- Un solo cable por borne, salvo que el borne esté hecho para más. Y reserva libre del 20 % en el gabinete.
+
+Marco: reglamentación AEA 90364. Diferencial de 30 mA en todos los circuitos terminales y masas a tierra.
+
+Guardalo para la próxima instalación. ¿Cuántos circuitos suelen llevar los tableros que armás?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #tableroelectrico #diferencial
