@@ -1,0 +1,20 @@
+Dos lámparas, una sola llave: si las conectás en serie, ninguna trabaja como corresponde.
+
+Cuando una llave comanda más de una lámpara, las lámparas se conectan en paralelo. Así cada una recibe la tensión completa de la red y funciona sola.
+
+Cómo se conecta:
+- La fase entra a la llave y sale hacia las dos lámparas.
+- Del borne de salida de la llave se derivan los dos cables, uno a cada lámpara.
+- El neutro va directo del tablero a cada lámpara, sin pasar por la llave.
+
+Detalles que se pasan por alto en obra:
+- En serie la tensión se reparte entre las lámparas: con dos lámparas de filamento de 220 V iguales, cada una recibe unos 110 V y alumbran mucho menos.
+- Si son distintas, el reparto no es parejo y una queda con más tensión que la otra.
+- En serie, si una se quema, se abre el circuito y se apagan las dos. En paralelo, la otra sigue encendida.
+- El cable entre la llave y las lámparas es un retorno: no lleva color de fase, ni celeste, ni verde-amarillo. Usá un color no reservado.
+
+Marco: reglamentación AEA 90364. El circuito terminal de iluminación lleva diferencial de 30 mA como protección complementaria contra contactos directos.
+
+Guardalo para la próxima instalación. ¿Te tocó encontrar lámparas en serie en alguna instalación vieja?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #iluminacion #llaves
