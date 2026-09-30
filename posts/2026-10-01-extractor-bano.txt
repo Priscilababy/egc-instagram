@@ -1,0 +1,21 @@
+Extractor de baño que prende con la luz: una llave, dos cargas, un solo retorno.
+
+Sirve para que el extractor arranque cada vez que se enciende la luz del baño. El extractor puede ir en el circuito de iluminación: cuenta como una boca de iluminación.
+
+Cómo se conecta:
+- La fase del tablero entra al común de la llave unipolar. La llave corta la fase, nunca el neutro.
+- Del borne de salida de la llave sale un retorno que se deriva a la luz y al extractor, en paralelo.
+- El neutro va del tablero directo a la luz y al extractor, sin pasar por la llave.
+- Si el extractor trae borne de PE, se conecta al conductor de protección.
+
+Detalles que se pasan por alto en obra:
+- El retorno no lleva color de fase, ni celeste, ni verde-amarillo. Usá un color no reservado.
+- Los modelos con temporizador o sensor de humedad necesitan el neutro en su borne para alimentar la electrónica. Bornes y colores de fábrica: confirmalos en el manual del modelo.
+- Caudal orientativo: volumen del baño dividido los minutos por renovación (de 5 a 7 en un baño). Un baño de 10 m³ con 6 minutos da unos 100 m³/h. Es un valor de referencia: manda el fabricante del extractor.
+- El extractor de cielorraso se cuelga de la losa y su salida no tiene que dejar entrar agua.
+
+Marco: reglamentación AEA 90364. El circuito terminal de iluminación lleva diferencial de 30 mA. Las zonas del baño tienen requisitos propios: verificá la reglamentación para el lugar de instalación.
+
+Guardalo para la próxima instalación. ¿Conectás el extractor con la luz o con llave aparte?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #extractor #iluminacion
