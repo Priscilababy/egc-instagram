@@ -18,3 +18,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-09-28 · Bomba de agua con automático de tanque (flotante eléctrico) · CONEXIÓN · posts/2026-09-28-bomba-flotante.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-715597815179097410
 - 2026-09-29 · Tablero monofásico de vivienda · CONEXIÓN · posts/2026-09-29-tablero-monofasico.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=3584607425157156070
 - 2026-09-30 · Lámparas en serie vs. en paralelo desde una misma llave · MAL/BIEN · posts/2026-09-30-lamparas-serie-paralelo.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-5500613568209925525
+- 2026-10-01 · Extractor de baño que prende junto con la luz · CONEXIÓN · posts/2026-10-01-extractor-bano.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-5913508192241235929
