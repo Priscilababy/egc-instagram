@@ -11,7 +11,7 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [x] CONEXIÓN · Tablero monofásico de vivienda: cabecera, diferencial, termomagnéticos por circuito, barras N y PE
 - [x] MAL/BIEN · Lámparas en serie vs. en paralelo desde una misma llave
 - [x] CONEXIÓN · Extractor de baño que prende junto con la luz
-- [ ] CONEXIÓN · Puesta a tierra: jabalina, caja de inspección y conductor hasta la barra PE
+- [x] CONEXIÓN · Puesta a tierra: jabalina, caja de inspección y conductor hasta la barra PE
 - [ ] MAL/BIEN · Llave de combinación con común y viajero cambiados
 - [ ] CONEXIÓN · Sensor de movimiento con llave de anulación (automático / siempre encendido)
 - [ ] CONEXIÓN · Reloj programador (timer) para iluminación
