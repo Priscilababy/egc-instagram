@@ -1,0 +1,21 @@
+Puesta a tierra: de la jabalina a la barra PE, con cámara de inspección para poder medirla.
+
+Sirve para que las masas de la vivienda tengan una tierra propia, con resistencia de 40 Ω como máximo. En el esquema TT, el diferencial de 30 mA trabaja apoyado en esa toma de tierra.
+
+Cómo se conecta:
+- Jabalina IRAM 2309 (acero-cobre) o IRAM 2310 (acero cincado), enterrada dentro del inmueble.
+- La unión entre la jabalina y el cable de puesta a tierra se hace dentro de una cámara de inspección, con tapa removible a nivel del piso terminado.
+- En la cámara, el cable se conecta sobre una barra de cobre con puente removible, para poder desconectar y medir.
+- Cable de puesta a tierra verde-amarillo de 4 mm² como mínimo, hasta la barra PE del tablero principal. Se recomienda que entre por el tablero principal.
+
+Detalles que se pasan por alto en obra:
+- El cable de puesta a tierra va independiente del conductor PE de los circuitos, aunque compartan canalización. Los dos llegan a la barra.
+- La resistencia se mide con la toma desconectada de la instalación, preferentemente con telurímetro. Si no abrís el puente, estás midiendo otra cosa.
+- La toma de protección tiene que quedar separada de la tierra de servicio de la distribuidora. La distancia depende del largo y el diámetro de la jabalina.
+- Conviene ubicar la cámara en un lugar no transitado y despejado, para poder abrirla y medir.
+
+Marco: reglamentación AEA 90364. Todas las masas al PE y diferencial de 30 mA en los circuitos terminales.
+
+Guardalo para la próxima instalación. ¿Qué resistencia te dio la última jabalina que mediste?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #puestaatierra #jabalina
