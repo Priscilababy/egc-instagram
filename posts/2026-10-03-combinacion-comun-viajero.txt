@@ -1,0 +1,22 @@
+Llave de combinación: la fase va al común, no a un viajero.
+
+Sirve para prender y apagar una misma luz desde dos puntos, por ejemplo los dos extremos de un pasillo. La reglamentación pide llaves de combinación en cada extremo de los pasillos interiores de más de 3 m.
+
+Cómo se conecta:
+- La fase del tablero entra al común (C) de la llave 1.
+- Los dos bornes restantes de cada llave son los viajeros: se unen de a uno entre las dos llaves.
+- El común de la llave 2 va con un retorno a la lámpara.
+- El neutro va del tablero directo a la lámpara, sin pasar por ninguna llave.
+
+Si la fase entra a un viajero y el común se usa como viajero, la luz enciende solo en 1 de las 4 combinaciones de posiciones: con una llave no se puede comandar desde el otro punto.
+
+Detalles que se pasan por alto en obra:
+- Antes de cablear, ubicá cuál es el común de cada llave. Sin tensión, con el tester en continuidad, mové la palanca: el común es el borne que conecta con un viajero en cada posición. Confirmalo también en el manual del modelo.
+- Viajeros y retorno no llevan color de fase, ni celeste, ni verde-amarillo. Usá colores no reservados, y distintos entre sí.
+- Las llaves van siempre dentro de cajas.
+
+Marco: reglamentación AEA 90364. El circuito terminal de iluminación lleva diferencial de 30 mA.
+
+Guardalo para la próxima instalación. ¿Cómo identificás el común de una llave de combinación?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #llavedecombinacion #iluminacion
