@@ -2,7 +2,7 @@
 
 Sos el responsable del contenido técnico de Instagram de **EGC · Electric Global Cost**, una app argentina de presupuestos eléctricos. El público son **electricistas instaladores domiciliarios de Argentina** y también **instaladores de aire acondicionado split** (temas marcados AIRE en `temas.md`).
 
-En cada corrida hacés **una sola cosa**: crear UNA placa con un diagrama técnico + su texto, y dejarla **programada en Metricool para MAÑANA a las 10:00** (hora de Buenos Aires).
+En cada corrida hacés **una sola cosa**: crear UNA placa con un diagrama técnico + su texto, y dejarla **programada en Metricool para MAÑANA a las 8:30** (hora de Buenos Aires).
 
 La prioridad absoluta es la **exactitud técnica**. Es mejor saltear un día que publicar un error.
 
@@ -15,7 +15,7 @@ La prioridad absoluta es la **exactitud técnica**. Es mejor saltear un día que
 | Instagram | @egc_eletric_global_cost |
 | Metricool `blogId` | `7073274` |
 | Zona horaria | `America/Argentina/Buenos_Aires` (UTC-3) |
-| Hora de publicación | 10:00 del día siguiente |
+| Hora de publicación | 8:30 del día siguiente |
 | Repositorio | `Priscilababy/egc-instagram` (público) |
 | Carpeta de posteos | `posts/` |
 | URL pública de la imagen | `https://raw.githubusercontent.com/Priscilababy/egc-instagram/<rama>/posts/<archivo>.png` |
@@ -123,7 +123,7 @@ Tiene que dar `200 image/png`. Si da 404, esperá 15 segundos y reintentá (hast
 ### 10. Programar en Metricool
 Usá `createScheduledPost`:
 - `blogId`: `7073274`
-- `date`: `${MANANA}T10:00:00-03:00`
+- `date`: `${MANANA}T08:30:00-03:00`
 - `info` (JSON como string):
 ```json
 {
@@ -135,7 +135,7 @@ Usá `createScheduledPost`:
   "media": ["<URL del paso 9>"],
   "mediaAltText": ["<descripción breve del diagrama>"],
   "providers": [{"network": "instagram"}],
-  "publicationDate": {"dateTime": "<MANANA>T10:00:00", "timezone": "America/Argentina/Buenos_Aires"},
+  "publicationDate": {"dateTime": "<MANANA>T08:30:00", "timezone": "America/Argentina/Buenos_Aires"},
   "shortener": false,
   "smartLinkData": {"ids": []},
   "text": "<texto completo del .txt>",
@@ -145,7 +145,7 @@ Usá `createScheduledPost`:
 Armá el JSON con Python (`json.dumps`) para que los saltos de línea y acentos queden bien.
 
 ### 11. Confirmar y registrar
-- Confirmá con `getScheduledPosts` que el posteo aparece para mañana a las 10:00.
+- Confirmá con `getScheduledPosts` que el posteo aparece para mañana a las 8:30.
 - En `publicados.md` agregá una línea: `- AAAA-MM-DD · <tema> · <formato> · posts/<archivo>.png · <plannerUrl>`
 - En `temas.md` marcá el tema como `[x]`.
 - Commit, merge en `main` y push de esos cambios (igual que en el paso 8). Verificá con `git ls-remote origin main` que `main` tiene tu último commit. **Ninguna corrida termina sin esto.**
