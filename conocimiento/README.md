@@ -42,6 +42,14 @@ Las armó Claude leyendo los documentos que juntó Fran. Los documentos original
 | [20-aire-acondicionado-mantenimiento-y-diagnostico.md](20-aire-acondicionado-mantenimiento-y-diagnostico.md) | Rutina de mantenimiento, qué medir, diagnóstico por síntomas, garantía |
 | [21-extraccion-y-ventilacion-domiciliaria.md](21-extraccion-y-ventilacion-domiciliaria.md) | Extractores de baño y cocina: renovaciones de aire e instalación (fuente de confiabilidad baja) |
 | [22-presupuesto-aire-acondicionado.md](22-presupuesto-aire-acondicionado.md) | Ítems para presupuestar instalación, parte eléctrica y mantenimiento de splits (base para la app) |
+| [23-puesta-a-tierra-terreno-electrodos-y-calculo.md](23-puesta-a-tierra-terreno-electrodos-y-calculo.md) | Resistividad del terreno, cuánto da una jabalina, configuraciones, equipotencialización, casos de obra sin PE |
+| [24-sobretensiones-categorias-y-dps.md](24-sobretensiones-categorias-y-dps.md) | Origen de las sobretensiones, nivel ceráunico, categorías I a IV, DPS y varistores |
+| [25-motores-alimentacion-proteccion-y-mantenimiento.md](25-motores-alimentacion-proteccion-y-mantenimiento.md) | Cable al 125 %, seccionador con candado, arranque, altura, sobrecalentamiento, mantenimiento |
+| [26-tableros-poder-de-corte-indicacion-y-borneras.md](26-tableros-poder-de-corte-indicacion-y-borneras.md) | Icn / Ics de termomagnéticas, luces piloto e instrumentos, borneras, temperatura del tablero |
+| [27-bombeo-de-agua-en-edificios.md](27-bombeo-de-agua-en-edificios.md) | Cisterna, dos bombas con alternancia, flotantes, tablero de bombas, tierra de la cañería, purgado |
+| [28-eficiencia-energetica-y-factor-de-potencia.md](28-eficiencia-energetica-y-factor-de-potencia.md) | AEA 90364-8 (zonificación, clases EIEC) y conceptos de corrección del factor de potencia |
+| [29-protocolo-srt-900-incumbencias-y-seguridad-de-productos.md](29-protocolo-srt-900-incumbencias-y-seguridad-de-productos.md) | Res. SRT 900/15: qué hace el electricista y qué el de Higiene y Seguridad; productos inseguros |
+| [30-ambitos-especiales-cercas-y-estaciones-de-servicio.md](30-ambitos-especiales-cercas-y-estaciones-de-servicio.md) | Cercas electrificadas (barrera, distancias) y estaciones de servicio (Sección 790) |
 
 ## Avisos sobre temas de `temas.md`
 
@@ -67,3 +75,18 @@ Antes de armar estos temas, leé la ficha indicada. Algunos cambian por completo
 - **Tomacorriente con descarga a tierra:** la posición de cada borne es de IRAM 2071, que **no** está en esta biblioteca. Verificar antes de dibujar.
 - **Selectividad, DPS, protector de tensión:** fichas 05 y 06.
 - **Timbre / portero:** MBTF o MBTS cambian si las masas van a tierra → ficha 10.
+
+## Avisos sobre el Lote 3 (fichas 23 a 30)
+
+Las fichas 23 a 30 salen de **artículos de revista** (fuente SECUNDARIA). Si chocan con las fichas 01 a 22, ganan las fichas 01 a 22.
+
+- **Flotantes de tanque a 48 V:** un artículo lo dice; **no usar**. La 770 pide **MBTS** → ficha 10.
+- **Cable de puesta a tierra de 2,5 mm²:** un artículo lo admite; en vivienda el mínimo es **4 mm²** → ficha 06.
+- **Monofásico "hasta 14 kW":** no usar. La 770 recomienda trifásico por encima de 7 kVA o 32 A → ficha 02.
+- **Tabla de categorías de sobretensión (I a IV):** para la red argentina usar la fila 230/400 V (6 / 4 / 2,5 / 1,5 kV) y verificarla antes de publicar → ficha 24.
+- **DPS:** ninguna fuente de la biblioteca trae clases, Up ni ubicación. No completar con memoria → fichas 05 y 24.
+- **Motores:** no inferir que alcanza con la termomagnética; la sobrecarga necesita protección **dedicada** → fichas 05 y 25.
+- **Protocolo SRT 900/15:** no afirmar que hacen falta dos firmas ni quién puede firmar en cada provincia → ficha 29.
+- **Prueba mensual del diferencial:** es recomendación del **fabricante**, no de la AEA → ficha 23.
+- **Cláusulas 771, 558, 443:** las citan los artículos pero no están verificadas en esta biblioteca; citar "reglamentación AEA 90364".
+- **Purgado de bomba:** usar el orden corregido de la ficha 27 (todas las tapas puestas antes de encender, nunca en seco).

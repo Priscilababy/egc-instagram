@@ -36,6 +36,38 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 | Ordenanza 3419/83 de Rosario (reglamento de instalaciones eléctricas interiores) | **NO USAR** (técnicamente) | Texto de 1983, incompleto (remite a un reglamento que no transcribe). Sigue publicado en rosario.gob.ar; no se encontró norma que lo derogue. Superado por la AEA: retorno **negro**, fase roja, neutro azul, tierra con cable desnudo, 15 A para 2,5 mm². Solo sirve como dato histórico. |
 | Nota web "Tratamiento de aire: Norma IRAM 80400" (2022) | Fuera de ámbito | Calidad de aire en establecimientos de **salud**, no domicilios. |
 
+## Lote 3 · artículos de la revista Ingeniería Eléctrica (recibido el 2026-10-02)
+
+38 artículos convertidos de PDF a texto. Todos son **SECUNDARIA**: sirven si no contradicen a las fichas 01 a 22. Base de las fichas 23 a 30. De ninguno se copió texto: solo datos en palabras propias. **No** se copiaron correos, sitios personales, marcas ni promociones que traen los artículos.
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| Farina, "Sistema de puesta a tierra", partes 1, 2, 4, 5, 6 y 7 (2022-2023) | SECUNDARIA | 23 | Buena base de resistividad, electrodos y cálculo. Errores: unidad "Ω/m" (es Ω·m), fórmulas de cortocircuito mal transcriptas (parte 6), 30 °C de referencia (la 770 usa 40 °C), conductor de PAT de 2,5 mm² (la 770 pide 4 mm²). Todas sus cláusulas son de la **771**. |
+| Farina, "Sistema de puesta a tierra", parte 3 (2022) | Fuera de ámbito | 23 | Neutro de transformadores y generadores (media tensión). Solo se rescata la mención de IRAM 2379. |
+| Miravalles, "Tierras extrañas" (2021) | SECUNDARIA (opinión y práctica) | 23 | **No usar** su prueba del PE anulando el diferencial (riesgosa, no normalizada). |
+| Miravalles, "Calefacción eléctrica y falta de puesta a tierra" (2022) | SECUNDARIA (opinión y práctica) | 23 | "Adaptadores prohibidos" sin cláusula: no afirmar. |
+| Farina, "Protección contra las sobretensiones", parte 1 (2024) | SECUNDARIA | 26 | El título no coincide: trata de **sobrecorrientes** (Icn / Ics). |
+| Farina, "Protección contra las sobretensiones", partes 2, 3 y 4 (2024-2025) | SECUNDARIA | 24 | Parte 3: umbrales AQ invertidos (gana ficha 05). Parte 4: fila "220-240 V con punto medio" no aplica en Argentina; verificar la Tabla 44.3 antes de publicar. |
+| Santos y otros, "Los varistores de óxido metálico" (2026) | SECUNDARIA (confiabilidad alta en lo conceptual) | 24 | Autores vinculados a un fabricante. Trae un correo personal: no copiar. |
+| Farina, "Accidentes eléctricos" (2026) | Opinión | — | Sin datos técnicos. |
+| Nota institucional sobre productos eléctricos inseguros (2026) | SECUNDARIA (baja) | 29 | Porcentaje de incendios sin fuente: no usar. QR obligatorio: verificar. |
+| Nota sobre un laboratorio de ensayos eléctricos (2026) | Fuera de ámbito | — | Comercial y de media tensión. |
+| Farina, "Alimentación de los motores eléctricos trifásicos según la reglamentación de la AEA" (2024) | SECUNDARIA (alta, con reservas) | 25 | Sección 558 no verificada. Dice que la protección de cortocircuito "no se menciona": en vivienda sí la exige la 770. |
+| Farina, "Tableros, canalización y motores eléctricos" (2026) | SECUNDARIA | 25 | General. |
+| Notas de un fabricante de motores: mono o trifásico (2021), motor de baja tensión (2025), ola de calor (2025), altura (2025), mantenimiento (2026), sobrecalentamiento (2026) | SECUNDARIA (fabricante) | 25 | **No usar** "monofásico hasta 14 kW" ni "el monofásico ahorra consumo". Valores de altura: orientativos del fabricante. |
+| Nota de un fabricante de bombas, "Bomba centrífuga: paso a paso para purgarla" (2022) | SECUNDARIA (fabricante) | 27 | Manda encender antes de poner la tapa: se reordenó en la ficha. |
+| Berizzo, "Motor de inducción asincrónico" (2021) | SECUNDARIA | 25 | Solo conceptos de 50 Hz y V/Hz. Tolerancia de frecuencia 5-10 %: no usar. Alta frecuencia: fuera de ámbito. |
+| Berizzo (traducción de Miller), "Ondas de torque en motores eléctricos" (2025) | Fuera de ámbito | — | Teoría avanzada; traducción de un tercero. |
+| Farina, "Medición e indicación en tableros eléctricos" (2023) | SECUNDARIA | 26 | Usa "BA4" para no idóneos: error (ver ficha 09). |
+| Farina, "Borneras" (2023) | SECUNDARIA (baja) | 26 | Pocos datos concretos. |
+| Nota de un fabricante sobre control de temperatura y humedad en tableros (2026) | SECUNDARIA (catálogo) | 26 | Sin valores recomendados. |
+| Farina, "Sistema de agua en los inmuebles de propiedad horizontal" (octubre 2019) | SECUNDARIA | 27 | **No usar** "control hasta 48 V": la 770 pide MBTS (ficha 10). No menciona diferencial ni falta de fase. |
+| Piumetto, "Algunas cuestiones técnicas acerca de la eficiencia energética" (2024) | SECUNDARIA | 28 | Redactado por la revista a partir de una charla. |
+| Nota de un fabricante, "Corrección del factor de potencia: algunos conceptos clave" (2026) | SECUNDARIA (baja-media) | 28 | Sin números. "Mayor consumo de energía" es impreciso. |
+| Mendivil, "El electricista matriculado y el profesional de Higiene y Seguridad" (2026) | SECUNDARIA | 29 | Firma conjunta = interpretación del autor. Validez de 12 meses: verificar. Estadística local y promoción de evento: no usar. |
+| Farina, "Protección de inmuebles", partes 1 y 2 (2022-2023) | SECUNDARIA | 30 | Transcribe la 771B.9 (escribe "90365": error). |
+| Farina, "Mantenimiento e inspección en estaciones de servicio" (2022) | SECUNDARIA (ámbito especial) | 30 | Sección 790. Sin plazos numéricos. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
@@ -45,3 +77,7 @@ Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
 - AEA 92305 (protección contra rayos).
 - IRAM 2071 (tomacorrientes 2P+T: posición de los bornes).
 - IEC 61008 / 61009 (diferenciales), IEC 60898-1 (termomagnéticas).
+- AEA 90364-3 (influencias externas, AQ), 90364-4-43 (sobrecorrientes), 90364-4-44 (sobretensiones, 442 y 443), 90364-5 (sección 558 motores, 552), 90364-8 (eficiencia energética), 90364-7-790 (estaciones de servicio). Citadas en el Lote 3.
+- IEC 61643-11 (DPS), IEC 60038 (tensiones normalizadas), IEC 60721 (condiciones ambientales), IEC 60034-1 (motores).
+- IRAM 2379 (esquemas de conexión a tierra), IRAM 2004 (conductores de cobre desnudo).
+- Resolución SRT 900/2015 (texto completo), Ley 19.587 y Decreto 351/79.
