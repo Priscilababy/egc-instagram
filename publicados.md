@@ -20,3 +20,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-09-30 · Lámparas en serie vs. en paralelo desde una misma llave · MAL/BIEN · posts/2026-09-30-lamparas-serie-paralelo.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-5500613568209925525
 - 2026-10-01 · Extractor de baño que prende junto con la luz · CONEXIÓN · posts/2026-10-01-extractor-bano.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-5913508192241235929
 - 2026-10-02 · Puesta a tierra: jabalina, cámara de inspección y cable hasta la barra PE · CONEXIÓN · posts/2026-10-02-puesta-a-tierra.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-401672816058154100
+- 2026-10-03 · Llave de combinación: fase al común, no a un viajero · MAL/BIEN · posts/2026-10-03-combinacion-comun-viajero.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-3413779854484223928
