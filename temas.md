@@ -13,7 +13,7 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [x] CONEXIÓN · Extractor de baño que prende junto con la luz
 - [x] CONEXIÓN · Puesta a tierra: jabalina, caja de inspección y conductor hasta la barra PE
 - [x] MAL/BIEN · Llave de combinación con común y viajero cambiados
-- [ ] CONEXIÓN · Sensor de movimiento con llave de anulación (automático / siempre encendido)
+- [x] CONEXIÓN · Sensor de movimiento con llave de anulación (automático / siempre encendido)
 - [ ] CONEXIÓN · Reloj programador (timer) para iluminación
 - [ ] CONEXIÓN · Tira LED: 220 V → fuente → 12 V, polaridad y protección
 - [ ] CONEXIÓN · Circuito dedicado para termotanque eléctrico
