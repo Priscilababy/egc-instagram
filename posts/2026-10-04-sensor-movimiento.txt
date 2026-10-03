@@ -1,0 +1,21 @@
+Sensor de movimiento con llave de anulación: que la luz no dependa solo del sensor.
+
+Sirve para pasillos, cocheras o escaleras donde la luz se enciende sola al detectar movimiento, pero a veces hace falta dejarla fija (limpieza, trabajos, un evento). La llave de anulación puentea al sensor.
+
+Cómo se conecta:
+- La fase del tablero va al borne L del sensor y, derivada, a una llave unipolar.
+- El neutro va al borne N del sensor (alimenta su electrónica) y también directo a la luminaria.
+- La salida CARGA del sensor y la salida de la llave se unen y van a la luminaria: la llave queda en paralelo con el contacto del sensor.
+- Llave cerrada: luz fija. Llave abierta: manda el sensor.
+- El PE va directo a la masa de la luminaria.
+
+Detalles que se pasan por alto en obra:
+- Sin neutro en el borne N el sensor no funciona: no alcanza con llevar solo la fase.
+- La llave corta la fase, nunca el neutro. El retorno no lleva color de fase, ni celeste, ni verde-amarillo: usá un color no reservado.
+- Los cables propios del sensor pueden venir de fábrica en otros colores y algunos modelos ya traen modo de anulación propio. Bornes, colores y carga máxima: confirmalos en el manual del modelo.
+
+Marco: reglamentación AEA 90364. El circuito terminal lleva diferencial de 30 mA y las masas van a tierra.
+
+Guardalo para la próxima instalación. ¿Dónde te piden más sensores: pasillos, cocheras o escaleras?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #sensordemovimiento #iluminacion
