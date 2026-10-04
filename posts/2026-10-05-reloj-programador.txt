@@ -1,0 +1,20 @@
+Reloj programador para iluminación: que la luz se prenda y se apague sola, sin depender de nadie.
+
+Sirve para luces de frente, cocheras, vidrieras o galerías que tienen que funcionar en un horario fijo. El reloj tiene un contacto interno que conmuta la fase hacia la luminaria.
+
+Cómo se conecta:
+- La fase del tablero va al borne L del reloj.
+- El neutro va al borne N del reloj (alimenta su electrónica) y también directo a la luminaria.
+- La salida del reloj es la que conmuta la fase y va al borne de fase de la luminaria.
+- El PE va directo a la masa de la luminaria.
+
+Detalles que se pasan por alto en obra:
+- Sin neutro en el borne N el reloj no funciona: no alcanza con llevar solo la fase.
+- El retorno hacia la luminaria no lleva color de fase, ni celeste, ni verde-amarillo: usá un color no reservado.
+- Los bornes, los colores de fábrica y la carga máxima del contacto cambian según el modelo: confirmalos en el manual antes de conectar.
+
+Marco: reglamentación AEA 90364. El circuito terminal lleva diferencial de 30 mA y las masas van a tierra.
+
+Guardalo para la próxima instalación. ¿Qué usás más para automatizar luces: reloj, fotocélula o sensor?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #relojprogramador #iluminacion

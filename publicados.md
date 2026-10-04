@@ -22,3 +22,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-10-02 · Puesta a tierra: jabalina, cámara de inspección y cable hasta la barra PE · CONEXIÓN · posts/2026-10-02-puesta-a-tierra.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-401672816058154100
 - 2026-10-03 · Llave de combinación: fase al común, no a un viajero · MAL/BIEN · posts/2026-10-03-combinacion-comun-viajero.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-3413779854484223928
 - 2026-10-04 · Sensor de movimiento con llave de anulación · CONEXIÓN · posts/2026-10-04-sensor-movimiento.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=2921350691731817943
+- 2026-10-05 · Reloj programador (timer) para iluminación · CONEXIÓN · posts/2026-10-05-reloj-programador.png · PENDIENTE_LINK
