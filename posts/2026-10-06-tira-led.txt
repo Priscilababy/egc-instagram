@@ -1,0 +1,23 @@
+Una tira LED de 12 V nunca se conecta directo a los 220 V: necesita una fuente en el medio.
+
+La fuente baja la tensión y la tira trabaja en muy baja tensión. Es el caso típico de iluminación decorativa en cocinas, estantes, cielorrasos y vidrieras.
+
+Cómo se conecta:
+- La llave unipolar corta la fase, nunca el neutro: la fase va a la llave y de la llave al borne L de la fuente.
+- El neutro va directo al borne N de la fuente.
+- Si la fuente tiene borne de tierra (PE), se conecta al PE.
+- De la salida de 12 V, el + de la fuente va al + de la tira y el - al -. Ambos están marcados en la fuente y en la tira.
+
+Detalles que se pasan por alto en obra:
+- Usá una fuente con primario y secundario separados (transformador de seguridad IEC 61558). Nunca un autotransformador.
+- La potencia de la fuente tiene que alcanzar para toda la tira: sumá los watts de todos los metros que cuelgan de ella.
+- A 12 V la corriente es alta. Si el cable entre fuente y tira es largo o fino, cae tensión y la tira se ve más tenue al final.
+- Si el cable entre fuente y tira pasa de 3 m, es parte de la instalación: aislación y sección adecuadas, y protección contra sobrecarga y cortocircuito.
+- El cable de 12 V va en un caño separado del de 220 V.
+- Los bornes y colores de fábrica de la fuente cambian según el modelo: confirmalos en el manual.
+
+Marco: reglamentación AEA 90364. El circuito terminal lleva diferencial de 30 mA y las masas van a tierra.
+
+Guardalo para la próxima instalación. ¿Qué fuente usás más: de chapa, de plástico o con transformador?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #tiraled #iluminacion
