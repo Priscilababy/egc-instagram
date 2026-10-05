@@ -23,3 +23,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-10-03 · Llave de combinación: fase al común, no a un viajero · MAL/BIEN · posts/2026-10-03-combinacion-comun-viajero.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-3413779854484223928
 - 2026-10-04 · Sensor de movimiento con llave de anulación · CONEXIÓN · posts/2026-10-04-sensor-movimiento.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=2921350691731817943
 - 2026-10-05 · Reloj programador (timer) para iluminación · CONEXIÓN · posts/2026-10-05-reloj-programador.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-393379876248924560
+- 2026-10-06 · Tira LED a 12 V: fuente, llave y polaridad · CONEXIÓN · posts/2026-10-06-tira-led.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-3594167849117791123
