@@ -1,0 +1,23 @@
+El circuito del termotanque se elige por la corriente de la placa, no por los litros.
+
+El termotanque es una carga fija y de consumo sostenido: conviene darle su propio circuito, con un solo equipo y sin derivaciones, en vez de colgarlo de un tomacorriente compartido.
+
+Cómo se conecta:
+- Leé la potencia en la placa del equipo y calculá la corriente: watts divididos 220 V.
+- Hasta 10 A alcanza una toma 2P+T de 10 A. Entre 10 A y 20 A, toma 2P+T de 20 A en circuito TUE. Un solo equipo sin derivaciones, por conexión fija, es un circuito de uso específico.
+- Desde el tablero: diferencial de 30 mA y termomagnética bipolar.
+- La fase va al borne L, el neutro al N y el conductor de protección al PE del equipo.
+- Cable de 2,5 mm² como mínimo. Con 2,5 mm² en caño, la térmica no pasa de 20 A.
+
+Detalles que se pasan por alto en obra:
+- Siempre se verifica corriente del equipo, calibre de la térmica y corriente admisible del cable, en ese orden.
+- Si el recorrido es largo, calculá la caída de tensión: el máximo es 3 % en circuitos terminales.
+- Un circuito de uso específico va en caño propio, sin compartirlo con otros circuitos.
+- El PE no se saltea: ante una falla, la masa del equipo puede electrificar la cañería de agua.
+- Los bornes y su ubicación cambian según el modelo: confirmalos en el manual del fabricante.
+
+Marco: reglamentación AEA 90364. El circuito terminal lleva diferencial de 30 mA y las masas van a tierra.
+
+Guardalo para la próxima instalación. ¿Qué te encontrás más en obra: termotanque con toma o con conexión fija?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #termotanque
