@@ -16,7 +16,7 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [x] CONEXIÓN · Sensor de movimiento con llave de anulación (automático / siempre encendido)
 - [x] CONEXIÓN · Reloj programador (timer) para iluminación
 - [x] CONEXIÓN · Tira LED: 220 V → fuente → 12 V, polaridad y protección
-- [ ] CONEXIÓN · Circuito dedicado para termotanque eléctrico
+- [x] CONEXIÓN · Circuito dedicado para termotanque eléctrico
 - [ ] CONEXIÓN · Circuito especial para aire acondicionado split
 - [ ] MAL/BIEN · Carcasa metálica sin conductor de protección vs. con PE
 - [ ] CONEXIÓN · Tomacorriente con descarga a tierra (verificar la posición de cada borne en IRAM 2071 antes de dibujar)
