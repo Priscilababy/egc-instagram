@@ -1,12 +1,12 @@
 El circuito del split se elige por la corriente del equipo, no por las frigorías.
 
-La norma no dice "a partir de tantas frigorías, circuito propio": decide por la corriente de la placa y el tipo de toma. Además, todos los fabricantes piden línea exclusiva, sin otros aparatos ni alargues.
+La norma no dice "a partir de tantas frigorías, circuito propio": decide por la corriente de la placa y el tipo de toma. Además, los fabricantes piden línea exclusiva, sin otros aparatos ni alargues.
 
 Cómo se conecta:
 - Leé la corriente en la placa del equipo (unidad que lleva la alimentación, según el manual del modelo).
 - Hasta 10 A, toma 2P+T de 10 A. Hasta 20 A, toma 2P+T de 20 A en circuito TUE. Un solo equipo sin derivaciones por conexión fija es un circuito de uso específico.
 - Desde el tablero: diferencial de 30 mA y termomagnética bipolar con los dos polos protegidos.
-- Fase al borne L, neutro al N y conductor de protección al PE, en las dos unidades.
+- Fase al borne L, neutro al N y conductor de protección al PE. El PE llega a las dos unidades.
 - Cable de 2,5 mm² como mínimo, con la sección que pida la corriente del equipo.
 
 Detalles que se pasan por alto en obra:

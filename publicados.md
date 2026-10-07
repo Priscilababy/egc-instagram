@@ -25,3 +25,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-10-05 · Reloj programador (timer) para iluminación · CONEXIÓN · posts/2026-10-05-reloj-programador.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-393379876248924560
 - 2026-10-06 · Tira LED a 12 V: fuente, llave y polaridad · CONEXIÓN · posts/2026-10-06-tira-led.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-3594167849117791123
 - 2026-10-07 · Circuito dedicado para termotanque eléctrico · CONEXIÓN · posts/2026-10-07-termotanque.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=7369140844947591122
+- 2026-10-08 · Circuito especial para aire acondicionado split · CONEXIÓN · posts/2026-10-08-circuito-split.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-9166718941208689422
