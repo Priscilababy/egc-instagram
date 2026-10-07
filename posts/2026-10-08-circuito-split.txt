@@ -1,0 +1,22 @@
+El circuito del split se elige por la corriente del equipo, no por las frigorías.
+
+La norma no dice "a partir de tantas frigorías, circuito propio": decide por la corriente de la placa y el tipo de toma. Además, todos los fabricantes piden línea exclusiva, sin otros aparatos ni alargues.
+
+Cómo se conecta:
+- Leé la corriente en la placa del equipo (unidad que lleva la alimentación, según el manual del modelo).
+- Hasta 10 A, toma 2P+T de 10 A. Hasta 20 A, toma 2P+T de 20 A en circuito TUE. Un solo equipo sin derivaciones por conexión fija es un circuito de uso específico.
+- Desde el tablero: diferencial de 30 mA y termomagnética bipolar con los dos polos protegidos.
+- Fase al borne L, neutro al N y conductor de protección al PE, en las dos unidades.
+- Cable de 2,5 mm² como mínimo, con la sección que pida la corriente del equipo.
+
+Detalles que se pasan por alto en obra:
+- Corriente del equipo, calibre de la térmica y corriente admisible del cable, en ese orden. Con 2,5 mm² en caño, la térmica no pasa de 20 A.
+- El diferencial de 30 mA también va en el circuito del aire, aunque ningún manual lo mencione.
+- El interruptor debe cortar todos los polos, y varios fabricantes piden 3 mm de separación de contactos.
+- La cantidad de hilos entre unidad interior y exterior depende del modelo: confirmá los bornes en el manual.
+
+Marco: reglamentación AEA 90364. El circuito terminal lleva diferencial de 30 mA y las masas van a tierra.
+
+Guardalo para la próxima instalación. ¿Qué te encontrás más en obra: split con toma compartida o con línea exclusiva?
+
+#aireacondicionado #refrigeracion #instaladores #split #electricistas #AEA90364
