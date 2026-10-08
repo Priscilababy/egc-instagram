@@ -1,0 +1,21 @@
+Una carcasa metálica sin cable PE es una trampa esperando a que alguien la toque.
+
+Si la aislación de un artefacto falla y la fase toca la carcasa, sin PE la carcasa queda con tensión y no pasa nada hasta que una persona la toca: ahí se cierra el circuito, y es a través de su cuerpo. Con PE, esa falla vuelve por el conductor de protección a tierra y el diferencial corta el circuito.
+
+Cómo se conecta:
+- El conductor verde-amarillo va desde la barra PE del tablero hasta el borne de tierra del artefacto.
+- El PE recorre todo el circuito, incluidas las cajas y bocas, y se conecta sin cortarlo.
+- Cajas, gabinetes y caños metálicos se conectan con derivaciones verde-amarillo de 2,5 mm² como mínimo.
+- En el tablero, diferencial de 30 mA en el circuito.
+
+Detalles que se pasan por alto en obra:
+- Un toma de tres espigas con la espiga de tierra sin conectar a nada da una falsa sensación de seguridad.
+- Las masas se conectan por derivación, nunca en serie ("guirnalda").
+- No uses canillas ni caños metálicos como "tierra": su continuidad es incierta.
+- La toma de tierra de la vivienda tiene que medir 40 Ω o menos, medida con telurímetro.
+
+Marco: reglamentación AEA 90364-7-770. En esquema TT, la protección contra contactos indirectos es el diferencial, y las masas van a tierra por el PE.
+
+Guardalo para la próxima instalación. ¿Cuál es el caso más raro de falta de PE que te encontraste en una obra?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #puestaatierra #conductorPE
