@@ -1,0 +1,21 @@
+El timbre con pulsador se alimenta a través de un transformador de seguridad.
+
+Sirve para el llamador de una vivienda: el pulsador cierra un circuito de baja tensión y suena el timbre. La fuente se cuelga del circuito de iluminación y cuenta como una boca.
+
+Cómo se conecta:
+- Fase y neutro del circuito de iluminación al primario del transformador.
+- Del secundario sale un cable al pulsador, del pulsador al timbre y del timbre de vuelta al secundario: todo en serie.
+- Transformador de seguridad de hasta 24 V, con primario y secundario separados. Nunca un autotransformador.
+- Si el circuito es MBTS, las masas del timbre y del secundario no se ponen a tierra.
+
+Detalles que se pasan por alto en obra:
+- Fuente certificada: transformador IEC 61558-2-6 o fuente IEC 61558-2-16 para que sea MBTS.
+- Los cables de baja tensión van en caño separado de los de 220 V.
+- Si el timbre se alimenta en MBTF (no MBTS), toda parte metálica va a tierra y el PE acompaña al circuito.
+- Los retornos y cables del secundario no van en colores de fase, neutro ni PE. Confirmá los bornes del timbre en el manual del modelo.
+
+Marco: reglamentación AEA 90364. El circuito de iluminación del que cuelga la fuente lleva diferencial de 30 mA.
+
+Guardalo para la próxima instalación. ¿Qué tensión de secundario te encontrás más en los timbres de obra?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #timbre #MBTS

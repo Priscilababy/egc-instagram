@@ -19,8 +19,8 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [x] CONEXIÓN · Circuito dedicado para termotanque eléctrico
 - [x] CONEXIÓN · Circuito especial para aire acondicionado split
 - [x] MAL/BIEN · Carcasa metálica sin conductor de protección vs. con PE
-- [ ] CONEXIÓN · Tomacorriente con descarga a tierra (verificar la posición de cada borne en IRAM 2071 antes de dibujar)
-- [ ] CONEXIÓN · Timbre con pulsador
+- [?] CONEXIÓN · Tomacorriente con descarga a tierra (verificar la posición de cada borne en IRAM 2071 antes de dibujar) — 2026-10-10: IRAM 2071 no está en conocimiento/ y no se verificó la posición de los bornes; pendiente de ficha.
+- [x] CONEXIÓN · Timbre con pulsador
 - [ ] CONEXIÓN · Contactor con pulsadores de marcha y parada (enclavamiento)
 - [ ] CONEXIÓN · Selectividad: diferencial selectivo (S) aguas arriba y 30 mA aguas abajo
 - [ ] CONEXIÓN · Protector de tensión (sobretensión / subtensión) en el tablero
