@@ -1,0 +1,23 @@
+Un pulsador de marcha, uno de parada y el contactor se queda enclavado solo.
+
+Sirve para arrancar y parar una carga (por ejemplo un motor) con pulsadores, sin que el contactor se suelte al soltar MARCHA. Eso se logra con el contacto auxiliar del propio contactor.
+
+Cómo se conecta (circuito de mando):
+- Fase del circuito al pulsador de PARADA, que es normalmente cerrado (NC).
+- De PARADA salen dos caminos en paralelo: el pulsador de MARCHA (normalmente abierto, NA) y el contacto auxiliar 13-14 del contactor (NA).
+- Los dos caminos se juntan y van al borne A1 de la bobina.
+- El neutro va directo al borne A2 de la bobina.
+- Al apretar MARCHA la bobina se energiza, el contactor cierra y el 13-14 se cierra: sostiene la bobina aunque sueltes MARCHA.
+- Al apretar PARADA se corta la alimentación de la bobina y el contactor se suelta.
+
+Detalles que se olvidan en obra:
+- PARADA siempre NC y en serie con la bobina: si se corta un cable del mando, el contactor se suelta.
+- Confirmá en la bobina la tensión de mando (220 V o la que indique) y las marcas de los bornes en el manual del modelo.
+- Los cables de mando entre pulsadores y bobina no llevan colores de fase, neutro ni PE.
+- Si el contactor maneja un motor monofásico, la maniobra tiene que abrir fase y neutro. La sobrecarga del motor necesita protección dedicada: la termomagnética no alcanza.
+
+Marco: reglamentación AEA 90364 (motores: AEA 90364-7-770, 770.13.3). Circuito con diferencial de 30 mA y masas a tierra.
+
+Guardalo para la próxima instalación. ¿Qué tensión de bobina te encontrás más en obra?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #contactor #automatismos
