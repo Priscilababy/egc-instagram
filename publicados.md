@@ -28,3 +28,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-10-08 · Circuito especial para aire acondicionado split · CONEXIÓN · posts/2026-10-08-circuito-split.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-9166718941208689422
 - 2026-10-09 · Carcasa metálica sin PE vs con PE · MAL/BIEN · posts/2026-10-09-carcasa-sin-pe.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=3839204418755445997
 - 2026-10-10 · Timbre con pulsador (transformador de seguridad, MBTS) · CONEXIÓN · posts/2026-10-10-timbre-pulsador.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=8106544158618829822
+- 2026-10-11 · Contactor con pulsadores de marcha y parada (enclavamiento) · CONEXIÓN · posts/2026-10-11-contactor-marcha-parada.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-6456933883385658268
