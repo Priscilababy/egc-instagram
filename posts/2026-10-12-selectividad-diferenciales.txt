@@ -1,0 +1,19 @@
+Si tu diferencial de 30 mA y el de cabecera saltan juntos, te quedás sin luz en toda la casa por una falla en un solo circuito.
+
+Eso se evita con selectividad: dos diferenciales en serie, donde dispara primero el que está más cerca de la falla. Sirve cuando hay un tablero principal y uno seccional.
+
+Cómo se conecta:
+- Tablero principal: cabecera bipolar y, aguas abajo, un diferencial bipolar de hasta 300 mA, selectivo (marcado S).
+- Tablero seccional: diferencial bipolar de 30 mA, no retardado, y una termomagnética bipolar por cada circuito.
+- Fase y neutro pasan por todos los aparatos. Lo que sale por un diferencial vuelve por ese mismo diferencial.
+
+Detalles que se olvidan en obra:
+- El de 30 mA va siempre en los circuitos terminales y es instantáneo: la selectividad la da el de aguas arriba, no el de abajo.
+- El de 300 mA entre tablero principal y seccional se recomienda selectivo (S) respecto de los de 30 mA de aguas abajo.
+- Con la toma de tierra en 40 ohm o menos, tanto el de 300 mA como el de 30 mA cumplen el objetivo de 24 V de tensión de contacto. Medí la tierra.
+
+Marco: reglamentación AEA 90364. Diferencial de 30 mA en todos los circuitos terminales y masas a tierra.
+
+Guardalo para la próxima instalación. ¿Usás diferencial selectivo cuando armás un seccional?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #diferencial #selectividad
