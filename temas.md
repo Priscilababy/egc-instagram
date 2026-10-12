@@ -23,9 +23,9 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [x] CONEXIÓN · Timbre con pulsador
 - [x] CONEXIÓN · Contactor con pulsadores de marcha y parada (enclavamiento)
 - [x] CONEXIÓN · Selectividad: diferencial selectivo (S) aguas arriba y 30 mA aguas abajo
-- [ ] CONEXIÓN · Protector de tensión (sobretensión / subtensión) en el tablero
-- [ ] CONEXIÓN · Descargador de sobretensiones (DPS) en el tablero de vivienda
-- [ ] MAL/BIEN · Empalme retorcido con cinta vs. borne o conector adecuado
+- [?] CONEXIÓN · Protector de tensión (sobretensión / subtensión) en el tablero — 2026-10-13: las fichas solo dicen que la protección contra sobretensiones permanentes y subtensiones es recomendable (770.13.1); no traen conexión, umbrales ni retardo del aparato. Pendiente de ficha.
+- [?] CONEXIÓN · Descargador de sobretensiones (DPS) en el tablero de vivienda — 2026-10-13: la ubicación e instalación están en AEA 90364 secciones 443 y 534, que no están en conocimiento/; ninguna ficha trae clases, Up ni conexión. Pendiente de ficha.
+- [x] MAL/BIEN · Empalme retorcido con cinta vs. borne o conector adecuado
 - [ ] CONEXIÓN · Dos lámparas con llave de dos puntos (cada una por separado)
 - [ ] CONEXIÓN · Motor monofásico con capacitor (bomba o ventilador): bornes y conexión
 - [ ] AIRE · MAL/BIEN · Split con alargue vs. línea exclusiva con diferencial y térmica bipolar

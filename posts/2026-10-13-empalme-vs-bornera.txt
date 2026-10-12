@@ -1,0 +1,21 @@
+Seis cables retorcidos con cinta en una caja: eso no es un empalme, es una falla esperando.
+
+La AEA admite el empalme retorcido, pero con límites claros. Pasados esos límites, lo correcto es la bornera.
+
+Qué dice la reglamentación:
+- Cables de menos de 4 mm²: se pueden unir hasta 4 conductores, intercalando y retorciendo las hebras.
+- Cables de 4 mm²: hasta 3 conductores.
+- Más de 4 cables juntos: bornera normalizada.
+- Cables de más de 4 mm²: bornera, manguito de indentar u otra unión que conduzca como mínimo igual que el cable.
+- Toda unión se cubre con aislación equivalente a la del cable y no tiene que quedar sometida a esfuerzos mecánicos.
+
+Detalles que se olvidan en obra:
+- Empalmes y derivaciones nunca dentro del caño: siempre dentro de una caja accesible.
+- Dejá al menos 10 cm de cable en cada caja.
+- En el tablero, un solo cable por borne, salvo que el borne esté hecho para más.
+
+Marco: reglamentación AEA 90364.
+
+Guardalo para la próxima instalación. ¿Vos empalmás o usás bornera cuando se juntan muchos cables?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #empalmes #bornera
