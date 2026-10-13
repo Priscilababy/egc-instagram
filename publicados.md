@@ -31,3 +31,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-10-11 · Contactor con pulsadores de marcha y parada (enclavamiento) · CONEXIÓN · posts/2026-10-11-contactor-marcha-parada.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-6456933883385658268
 - 2026-10-12 · Selectividad: diferencial selectivo (S) de 300 mA aguas arriba y 30 mA aguas abajo · CONEXIÓN · posts/2026-10-12-selectividad-diferenciales.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=1773349083794067387
 - 2026-10-13 · Empalme retorcido (más de 4 cables) vs bornera · MAL/BIEN · posts/2026-10-13-empalme-vs-bornera.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-6608724819073677506
+- 2026-10-14 · Dos lámparas con llave de dos puntos · CONEXIÓN · posts/2026-10-14-dos-lamparas-llave-dos-puntos.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-6089628211658406730
