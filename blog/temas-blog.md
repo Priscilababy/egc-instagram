@@ -8,7 +8,7 @@ Para cambiar el orden, mové las líneas. Para sumar temas, agregalos con sus fi
 Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C y D · baños y duchas (701) · interruptor diferencial · llave de combinación y de cruce · repartidor tetrapolar · intensidad admisible · agrupar circuitos en una cañería.
 
 ## Electricidad
-- [ ] ¿Qué sección de cable va en cada circuito de una vivienda? · fichas: 02, 04
+- [x] ¿Qué sección de cable va en cada circuito de una vivienda? · fichas: 02, 04 → que-seccion-de-cable-va-en-cada-circuito-de-una-vivienda
 - [ ] Caída de tensión en una instalación domiciliaria: cómo se calcula y cuál es el límite · fichas: 04
 - [ ] ¿Qué circuito y qué protección lleva un aire acondicionado split? · fichas: 14, 18
 - [ ] Puesta a tierra en una vivienda: jabalina, 40 Ω y cable de 4 mm² · fichas: 06

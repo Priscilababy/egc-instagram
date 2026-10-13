@@ -1,3 +1,17 @@
 {
-  "notas": []
+  "notas": [
+    {
+      "slug": "que-seccion-de-cable-va-en-cada-circuito-de-una-vivienda",
+      "titulo": "¿Qué sección de cable va en cada circuito de una vivienda?",
+      "descripcion": "Secciones mínimas de la AEA 90364-7-770, corriente admisible y la termomagnética que cada cable soporta, con ejemplos.",
+      "imagen": "blog/img/que-seccion-de-cable-va-en-cada-circuito-de-una-vivienda.png",
+      "creada": "2026-10-13T19:20:00-03:00",
+      "publicar": "2026-10-14T19:00:00-03:00",
+      "fichas": [
+        "02",
+        "04"
+      ],
+      "palabras": 1086
+    }
+  ]
 }
