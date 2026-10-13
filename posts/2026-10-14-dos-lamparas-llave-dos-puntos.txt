@@ -1,0 +1,20 @@
+Dos lámparas, una sola tapa: la llave de dos puntos enciende cada una por separado.
+
+Sirve cuando en el mismo ambiente querés comandar dos luces de forma independiente (por ejemplo, luz general y luz de apoyo) desde un único lugar de la pared.
+
+Cómo se conecta:
+- La fase del tablero va al borne común de la llave.
+- De cada punto de la llave sale un retorno hacia su lámpara.
+- El neutro no pasa por la llave: va directo a las dos lámparas, derivado en una caja.
+- Si la luminaria es metálica, el PE va a su masa.
+
+Detalles que se pasan por alto en obra:
+- La llave corta siempre la fase. Si cortás el neutro, el portalámparas queda con tensión aunque la luz esté apagada.
+- Los retornos no llevan color de fase, ni celeste, ni verde-amarillo: usá un color no reservado y distinto para cada uno, así no se cruzan en la caja.
+- Antes de cerrar, probá cada punto: cada uno tiene que encender solo su lámpara.
+
+Marco: reglamentación AEA 90364. El circuito terminal lleva diferencial de 30 mA y las masas van a tierra.
+
+Guardalo para la próxima instalación. ¿Cómo identificás los retornos en la caja: colores, anillos o cinta?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #llaves #iluminacion
