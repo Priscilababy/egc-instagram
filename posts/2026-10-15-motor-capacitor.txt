@@ -1,0 +1,21 @@
+Motor monofásico con capacitor: la maniobra corta fase y neutro, y el capacitor va en serie con el bobinado auxiliar.
+
+Sirve para bombas, ventiladores y otras cargas con motor monofásico de capacitor permanente. El capacitor desfasa la corriente del bobinado auxiliar para que el motor tenga par de arranque.
+
+Cómo se conecta:
+- Del tablero, fase y neutro pasan por un dispositivo de maniobra bipolar que abre los dos a la vez.
+- La fase sale de la maniobra al borne del bobinado principal.
+- El neutro sale de la maniobra al borne común del motor.
+- El capacitor se conecta entre el borne del principal y el borne del auxiliar: queda en serie con el bobinado auxiliar.
+- El PE va directo al borne de tierra de la carcasa.
+
+Detalles que se olvidan en obra:
+- Los nombres y la posición de los bornes cambian de un modelo a otro: se confirman en la placa o el manual del motor.
+- Si el capacitor se cambia, tiene que ser de los mismos microfaradios y tensión que indica la placa.
+- La sobrecarga del motor necesita protección dedicada: la termomagnética no alcanza.
+
+Marco: reglamentación AEA 90364 (motores: AEA 90364-7-770, 770.13.3). Circuito con diferencial de 30 mA y masas a tierra.
+
+Guardalo para la próxima instalación. ¿Qué motor con capacitor te toca cambiar más seguido?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #motormonofasico #capacitor
