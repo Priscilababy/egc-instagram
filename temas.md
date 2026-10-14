@@ -27,7 +27,7 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [?] CONEXIÓN · Descargador de sobretensiones (DPS) en el tablero de vivienda — 2026-10-13: la ubicación e instalación están en AEA 90364 secciones 443 y 534, que no están en conocimiento/; ninguna ficha trae clases, Up ni conexión. Pendiente de ficha.
 - [x] MAL/BIEN · Empalme retorcido con cinta vs. borne o conector adecuado
 - [x] CONEXIÓN · Dos lámparas con llave de dos puntos (cada una por separado)
-- [ ] CONEXIÓN · Motor monofásico con capacitor (bomba o ventilador): bornes y conexión
+- [x] CONEXIÓN · Motor monofásico con capacitor (bomba o ventilador): bornes y conexión
 - [ ] AIRE · MAL/BIEN · Split con alargue vs. línea exclusiva con diferencial y térmica bipolar
 - [ ] AIRE · MAL/BIEN · Desagote de condensado con panza vs. pendiente continua hacia afuera
 - [ ] AIRE · CONEXIÓN · Cable entre unidad interior y exterior: bornes, PE y bucle de goteo (confirmar bornes en el manual del modelo)
