@@ -9,7 +9,7 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 
 ## Electricidad
 - [x] ¿Qué sección de cable va en cada circuito de una vivienda? · fichas: 02, 04 → que-seccion-de-cable-va-en-cada-circuito-de-una-vivienda
-- [ ] Caída de tensión en una instalación domiciliaria: cómo se calcula y cuál es el límite · fichas: 04
+- [x] Caída de tensión en una instalación domiciliaria: cómo se calcula y cuál es el límite · fichas: 04 → caida-de-tension-en-instalacion-domiciliaria-calculo-y-limite
 - [ ] ¿Qué circuito y qué protección lleva un aire acondicionado split? · fichas: 14, 18
 - [ ] Puesta a tierra en una vivienda: jabalina, 40 Ω y cable de 4 mm² · fichas: 06
 - [ ] Colores de los cables según la AEA: fase, neutro, tierra y retornos · fichas: 03

@@ -12,6 +12,18 @@
         "04"
       ],
       "palabras": 1086
+    },
+    {
+      "slug": "caida-de-tension-en-instalacion-domiciliaria-calculo-y-limite",
+      "titulo": "Caída de tensión en una instalación domiciliaria: cómo se calcula y cuál es el límite",
+      "descripcion": "El límite es 3 % en iluminación y tomas. Cómo calcularla con la tabla de la AEA 90364-7-770 y qué hacer cuando no cumple.",
+      "imagen": "blog/img/caida-de-tension-en-instalacion-domiciliaria-calculo-y-limite.png",
+      "creada": "2026-10-15T19:30:00-03:00",
+      "publicar": "2026-10-16T19:00:00-03:00",
+      "fichas": [
+        "04"
+      ],
+      "palabras": 1025
     }
   ]
 }
