@@ -28,7 +28,7 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [x] MAL/BIEN · Empalme retorcido con cinta vs. borne o conector adecuado
 - [x] CONEXIÓN · Dos lámparas con llave de dos puntos (cada una por separado)
 - [x] CONEXIÓN · Motor monofásico con capacitor (bomba o ventilador): bornes y conexión
-- [ ] AIRE · MAL/BIEN · Split con alargue vs. línea exclusiva con diferencial y térmica bipolar
+- [x] AIRE · MAL/BIEN · Split con alargue vs. línea exclusiva con diferencial y térmica bipolar
 - [ ] AIRE · MAL/BIEN · Desagote de condensado con panza vs. pendiente continua hacia afuera
 - [ ] AIRE · CONEXIÓN · Cable entre unidad interior y exterior: bornes, PE y bucle de goteo (confirmar bornes en el manual del modelo)
 - [ ] AIRE · MAL/BIEN · "Purgar" con el gas del equipo vs. vacío con bomba y vacuómetro
