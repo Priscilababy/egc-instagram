@@ -1,0 +1,20 @@
+Split enchufado a un alargue: el error que no se ve hasta que el equipo falla.
+
+Un split se alimenta con una línea propia desde el tablero. Los manuales de los fabricantes piden línea exclusiva, sin otros aparatos y sin alargues; compartirla puede costar la garantía.
+
+Cómo se conecta:
+- Un circuito exclusivo para ese equipo, sin derivaciones: una toma de 20 A en circuito TUE de una sola boca, o conexión fija.
+- Diferencial de 30 mA en ese circuito.
+- Termomagnética bipolar, con los dos polos protegidos.
+- Cable de 2,5 mm² como mínimo, en caño propio, con el PE hasta el equipo.
+
+Detalles que se olvidan en obra:
+- La norma decide por la corriente de la placa del equipo, no por las frigorías: IB ≤ In ≤ Iz. Con 2,5 mm² en caño la térmica no pasa de 20 A.
+- Si la corriente es mayor, se sube la sección del cable antes que el calibre de la térmica.
+- Si la instalación existente no es segura, se frena y se le explica al cliente: es el momento de presupuestar el circuito nuevo.
+
+Marco: reglamentación AEA 90364. Diferencial de 30 mA en todos los circuitos terminales (AEA 90364-7-770, 770.14.2.3) y masas a tierra.
+
+Guardalo para la próxima instalación. ¿Cuántas veces encontraste un split colgado de un alargue?
+
+#electricistas #aireacondicionado #refrigeracion #instaladores #split #instalacioneselectricas #AEA90364
