@@ -1,0 +1,21 @@
+El cable entre la unidad interior y la exterior: el que más se conecta de apuro.
+
+Une las dos unidades del split y, según el modelo, lleva alimentación y señal. La cantidad de hilos cambia entre un equipo solo frío y uno frío-calor, y algunos se alimentan por la interior y otros por la exterior.
+
+Cómo se conecta:
+- Cable de 1,5 mm² como mínimo (lo piden los manuales).
+- Cada hilo va al mismo número de borne en las dos unidades.
+- Los bornes y su función: confirmalos en el manual del modelo.
+- El PE llega a las dos unidades.
+- Los hilos que no se usan, aislados.
+
+Detalles que se olvidan en obra:
+- Hacer un bucle de goteo en el cable que entra a la exterior, para que el agua no corra hacia los bornes.
+- No mezclar fase y neutro ni cruzar el cable de señal con otros; alejarlo de caños calientes, del compresor y de partes móviles.
+- Si el cable mide más de 3 m, o hay varias unidades esclavas, pasa a ser parte de la instalación: aislación, sección y protección según la AEA 90364-7-770.
+
+Marco: reglamentación AEA 90364. Diferencial de 30 mA en el circuito de alimentación y masas a tierra.
+
+Guardalo para la próxima instalación. ¿Cuál es el error de conexión que más viste en una unidad exterior?
+
+#electricistas #aireacondicionado #refrigeracion #instaladores #split #instalacioneselectricas #AEA90364
