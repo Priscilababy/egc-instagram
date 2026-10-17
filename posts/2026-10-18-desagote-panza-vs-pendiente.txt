@@ -1,0 +1,21 @@
+Desagote del split con panza: el agua se acumula y termina goteando adentro.
+
+El condensado que se genera en la unidad interior tiene que salir solo, por gravedad. Cualquier tramo que suba o haga una onda deja agua estancada, y de ahí vienen las pérdidas en la pared y el equipo que gotea.
+
+Cómo se hace:
+- Pendiente continua hacia afuera en toda la manguera, sin panzas, ondas ni tramos que suban (los cuatro manuales lo piden).
+- La punta queda libre: nunca dentro del agua ni de un recipiente.
+- Por el pasamuros la manguera va abajo de los caños, y el pasamuros baja hacia afuera.
+- Aislar el tramo que queda dentro del ambiente o de la pared: el agua está fría y condensa por fuera.
+
+Detalles que se olvidan en obra:
+- Probar el desagote volcando agua en la bandeja de la unidad interior antes de cerrar la pared.
+- Tapar el orificio de drenaje que no se usa.
+- Si descarga a un desagüe cloacal, poner sifón para que no suban olores. Si no hay pendiente natural, bomba de condensado.
+- En equipos frío-calor, en modo calor también drena la unidad exterior.
+
+Marco: manual de instalación del fabricante y buenas prácticas del oficio.
+
+Guardalo para la próxima instalación. ¿Cuál fue el desagote más complicado que te tocó resolver?
+
+#aireacondicionado #refrigeracion #instaladores #split #electricistas #desagote
