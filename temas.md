@@ -29,7 +29,7 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [x] CONEXIÓN · Dos lámparas con llave de dos puntos (cada una por separado)
 - [x] CONEXIÓN · Motor monofásico con capacitor (bomba o ventilador): bornes y conexión
 - [x] AIRE · MAL/BIEN · Split con alargue vs. línea exclusiva con diferencial y térmica bipolar
-- [ ] AIRE · MAL/BIEN · Desagote de condensado con panza vs. pendiente continua hacia afuera
+- [x] AIRE · MAL/BIEN · Desagote de condensado con panza vs. pendiente continua hacia afuera
 - [x] AIRE · CONEXIÓN · Cable entre unidad interior y exterior: bornes, PE y bucle de goteo (confirmar bornes en el manual del modelo)
 - [ ] AIRE · MAL/BIEN · "Purgar" con el gas del equipo vs. vacío con bomba y vacuómetro
 - [ ] AIRE · MAL/BIEN · Pasamuros sin pendiente vs. Ø 65 mm con pendiente hacia afuera
