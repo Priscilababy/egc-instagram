@@ -24,6 +24,21 @@
         "04"
       ],
       "palabras": 1025
+    },
+    {
+      "slug": "que-circuito-y-proteccion-lleva-un-aire-acondicionado-split",
+      "titulo": "¿Qué circuito y qué protección lleva un aire acondicionado split?",
+      "descripcion": "Circuito exclusivo, diferencial de 30 mA, térmica bipolar y cable de 2,5 mm² como mínimo: qué dice la AEA y qué piden los fabricantes.",
+      "imagen": "blog/img/que-circuito-y-proteccion-lleva-un-aire-acondicionado-split.png",
+      "creada": "2026-10-17T19:30:00-03:00",
+      "publicar": "2026-10-18T19:00:00-03:00",
+      "fichas": [
+        "02",
+        "04",
+        "14",
+        "18"
+      ],
+      "palabras": 1329
     }
   ]
 }
