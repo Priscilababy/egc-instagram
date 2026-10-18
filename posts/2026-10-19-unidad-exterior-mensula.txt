@@ -1,0 +1,22 @@
+La unidad exterior en ménsula: lo que se mide antes de colgarla.
+
+Una exterior sin espacio libre recircula su propio aire caliente y trabaja forzada. Los espacios los fija el manual del modelo; esto es lo que se repite entre fabricantes.
+
+Cómo se instala:
+- Libre arriba: 60 cm.
+- Libre a un costado: 60 cm. Del otro lado, entre 10 y 30 cm.
+- Libre adelante, frente a la salida de aire: de 60 a 200 cm según el modelo.
+- Pared sólida (hormigón o ladrillo) que soporte al menos 4 veces el peso de la unidad, con ménsulas niveladas.
+- La alimentación entra por una caja estanca: IP44 si no recibe chorros de agua, IP55 si los recibe. El PE llega a la unidad.
+
+Detalles que se olvidan en obra:
+- Nunca apoyada directo en el piso: va sobre ménsula, base o estructura. Tampoco en un espacio cerrado.
+- Con viento fuerte, la salida de aire a 90° del viento, o con pantalla.
+- Pensá en los vecinos: el aire caliente y el ruido no deben molestarlos.
+- Los bulones y su medida (dos manuales piden de 8 a 10 mm) salen del manual del modelo.
+
+Marco: manual de instalación del fabricante y buenas prácticas del oficio. En la parte eléctrica: reglamentación AEA 90364, diferencial de 30 mA y masas a tierra.
+
+Guardalo para la próxima instalación. ¿Cuál fue la ubicación más complicada que te tocó para una exterior?
+
+#electricistas #aireacondicionado #refrigeracion #instaladores #split #instalacioneselectricas
