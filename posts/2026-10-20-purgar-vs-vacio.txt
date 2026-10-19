@@ -1,0 +1,21 @@
+"Purgar" con el gas del equipo no es hacer vacío: el vacío se hace con bomba.
+
+Después de unir las cañerías, antes de abrir las llaves de servicio, hay que sacar el aire de los caños y de la unidad interior. Se hace con bomba de vacío, nunca soltando gas de la unidad exterior.
+
+Cómo se hace:
+- Bomba y manifold conectados por la válvula de baja.
+- Mínimo 15 minutos, hasta -76 cmHg (vacío total en un manómetro común), que es lo que piden los cuatro manuales.
+- Cerrar, apagar la bomba y esperar unos 5 minutos: la aguja no tiene que subir.
+- Abrir las válvulas de servicio con llave hexagonal hasta el tope, sin forzar, y volver a poner las tapas.
+
+Detalles que se olvidan en obra:
+- El manómetro solo muestra que hay vacío, no cuánto. La buena práctica es medir con vacuómetro: 500 micrones con aceite mineral y 250 con aceite POE (confirmá el tipo en el manual del equipo).
+- Prueba de retención: si la lectura sube y se estabiliza, queda humedad y hay que seguir con la bomba. Si sube sin parar, hay una fuga. Si no se mueve, está listo.
+- Cerrar la válvula hacia el equipo antes de apagar la bomba.
+- Nunca uses el compresor del equipo como bomba de vacío: puede quemarse el motor.
+
+Marco: manual de instalación del fabricante y buenas prácticas del oficio.
+
+Guardalo para la próxima instalación. ¿Medís con vacuómetro o con el manómetro?
+
+#aireacondicionado #refrigeracion #instaladores #split #electricistas #vacio
