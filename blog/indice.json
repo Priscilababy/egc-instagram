@@ -39,6 +39,18 @@
         "18"
       ],
       "palabras": 1329
+    },
+    {
+      "slug": "puesta-a-tierra-en-una-vivienda-jabalina-40-ohm-y-cable-de-4-mm2",
+      "titulo": "Puesta a tierra en una vivienda: jabalina, 40 Ω y cable de 4 mm²",
+      "descripcion": "Toma de tierra de 40 Ω como máximo, cable de PAT de 4 mm² y PE de 2,5 mm²: qué pide la AEA 90364-7-770 en el esquema TT.",
+      "imagen": "blog/img/puesta-a-tierra-en-una-vivienda-jabalina-40-ohm-y-cable-de-4-mm2.png",
+      "creada": "2026-10-19T19:20:00-03:00",
+      "publicar": "2026-10-20T19:00:00-03:00",
+      "fichas": [
+        "06"
+      ],
+      "palabras": 1269
     }
   ]
 }
