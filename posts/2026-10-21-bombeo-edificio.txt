@@ -1,0 +1,23 @@
+Bombeo en edificio: dos bombas, una de reserva, y los flotantes en muy baja tensión.
+
+El esquema típico de propiedad horizontal: cisterna, dos bombas centrífugas, caño de subida con válvula de retención y tanque elevado. El tablero de bombas maneja todo.
+
+Cómo se conecta:
+- Cisterna → dos bombas → válvula de retención cerca de las bombas → tanque elevado.
+- Las bombas se alternan para gastarse parejo. La conmutación puede ser manual o automática.
+- Flotante de cisterna: evita que la bomba arranque o la para si falta agua. Que no trabaje en seco.
+- Flotante del tanque elevado: para la bomba al llegar al nivel máximo.
+- El comando de los flotantes va en MBTS (muy baja tensión de seguridad), nunca a 220 V.
+- Tablero de bombas cerca de las bombas, con selector manual / automático para fallas, puesta en marcha y mantenimiento.
+- Cajas de paso y de bornes estancas.
+
+Detalles que se olvidan en obra:
+- El teflón de las roscas aísla: la cañería de acero puede quedar sin continuidad. Si no la medís, poné puentes entre caños, codos y válvulas, y llevá la cañería a la barra PE del tablero de bombas.
+- Cada motor necesita maniobra que corte fase y neutro (todas las fases en trifásico) y protección de sobrecarga dedicada: la termomagnética y el fusible no alcanzan para eso.
+- Al purgar la bomba: todas las tapas y protecciones puestas antes de energizar, y nunca la hagas funcionar en seco.
+
+Marco: reglamentación AEA 90364. Diferencial de 30 mA y masas a tierra.
+
+Guardalo para la próxima instalación. ¿Cómo resolvés la alternancia de bombas en tus obras: reloj, contactor o relé?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #bombas #MBTS
