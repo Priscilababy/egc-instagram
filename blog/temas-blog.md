@@ -12,7 +12,7 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [x] Caída de tensión en una instalación domiciliaria: cómo se calcula y cuál es el límite · fichas: 04 → caida-de-tension-en-instalacion-domiciliaria-calculo-y-limite
 - [x] ¿Qué circuito y qué protección lleva un aire acondicionado split? · fichas: 14, 18 → que-circuito-y-proteccion-lleva-un-aire-acondicionado-split
 - [x] Puesta a tierra en una vivienda: jabalina, 40 Ω y cable de 4 mm² · fichas: 06 → puesta-a-tierra-en-una-vivienda-jabalina-40-ohm-y-cable-de-4-mm2
-- [ ] Colores de los cables según la AEA: fase, neutro, tierra y retornos · fichas: 03
+- [x] Colores de los cables según la AEA: fase, neutro, tierra y retornos · fichas: 03 → colores-de-los-cables-segun-la-aea-fase-neutro-tierra-y-retornos
 - [ ] IUG, TUG y TUE: qué es cada circuito y qué puede alimentar · fichas: 02
 - [ ] Termotanque eléctrico: qué circuito y qué protección lleva · fichas: 02, 14, 18
 - [ ] Tablero eléctrico de vivienda: ubicación, grado IP y reserva del 20 % · fichas: 09

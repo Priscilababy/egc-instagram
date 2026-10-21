@@ -51,6 +51,18 @@
         "06"
       ],
       "palabras": 1269
+    },
+    {
+      "slug": "colores-de-los-cables-segun-la-aea-fase-neutro-tierra-y-retornos",
+      "titulo": "Colores de los cables según la AEA: fase, neutro, tierra y retornos",
+      "descripcion": "Qué color lleva cada conductor en una vivienda según la AEA 90364-7-770 y de qué color va el retorno de una llave de luz.",
+      "imagen": "blog/img/colores-de-los-cables-segun-la-aea-fase-neutro-tierra-y-retornos.png",
+      "creada": "2026-10-21T19:16:25-03:00",
+      "publicar": "2026-10-22T19:00:00-03:00",
+      "fichas": [
+        "03"
+      ],
+      "palabras": 1026
     }
   ]
 }
