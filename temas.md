@@ -32,7 +32,7 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [x] AIRE · MAL/BIEN · Desagote de condensado con panza vs. pendiente continua hacia afuera
 - [x] AIRE · CONEXIÓN · Cable entre unidad interior y exterior: bornes, PE y bucle de goteo (confirmar bornes en el manual del modelo)
 - [x] AIRE · MAL/BIEN · "Purgar" con el gas del equipo vs. vacío con bomba y vacuómetro
-- [ ] AIRE · MAL/BIEN · Pasamuros sin pendiente vs. Ø 65 mm con pendiente hacia afuera
+- [x] AIRE · MAL/BIEN · Pasamuros sin pendiente vs. Ø 65 mm con pendiente hacia afuera
 - [x] AIRE · CONEXIÓN · Unidad exterior en ménsula: espacios libres y caja estanca IP44/IP55 para la alimentación
 - [ ] AIRE · MAL/BIEN · Tuerca flare apretada a ojo vs. doble llave y torquímetro
 - [x] CONEXIÓN · Bombeo en edificio: cisterna, dos bombas alternadas, flotantes en MBTS y válvula de retención (ficha 27; control en MBTS, nunca 220 V)
