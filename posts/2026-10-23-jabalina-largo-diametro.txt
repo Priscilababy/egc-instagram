@@ -1,0 +1,21 @@
+Jabalina: si necesitás bajar la resistencia de la toma de tierra, sumá largo, no diámetro.
+
+Sirve para decidir qué jabalina poner (o cómo mejorar una que no llega) cuando la toma de tierra no cumple el máximo de 40 Ω del esquema TT.
+
+Cómo se compara:
+- Con un diámetro fijo, pasar de una jabalina de 1,5 m a una de 3 m baja la resistencia alrededor de un 45 %.
+- Con el largo fijo, pasar de 1/2" a 3/4" la baja alrededor de un 5 %.
+- Los valores salen de la tabla de un cálculo teórico con un terreno de referencia. Son orientativos para comparar, no para prometer un resultado.
+- Las jabalinas IRAM 2309 (acero-cobre) e IRAM 2310 (acero cincado) vienen en tramos acoplables.
+
+Detalles que se pasan por alto en obra:
+- La resistencia es proporcional a la resistividad del terreno: en suelo seco o arenoso, una sola jabalina corta puede no alcanzar los 40 Ω.
+- El resultado real depende del terreno (humedad, sales, capas). Lo que vale es la medición final de la toma, preferentemente con telurímetro.
+- Se mide con la toma desconectada de la instalación, por eso la unión va en una cámara de inspección con puente removible.
+- Si con una jabalina no llegás, se pueden usar varias, unidas entre sí con conductor desnudo enterrado.
+
+Marco: reglamentación AEA 90364. Toma de tierra propia de 40 Ω como máximo, todas las masas al PE y diferencial de 30 mA en los circuitos terminales.
+
+Guardalo para la próxima instalación. ¿Qué largo de jabalina te tocó poner en el terreno más difícil?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #puestaatierra #jabalina
