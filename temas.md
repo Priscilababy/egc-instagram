@@ -37,7 +37,7 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] AIRE · MAL/BIEN · Tuerca flare apretada a ojo vs. doble llave y torquímetro
 - [x] CONEXIÓN · Bombeo en edificio: cisterna, dos bombas alternadas, flotantes en MBTS y válvula de retención (ficha 27; control en MBTS, nunca 220 V)
 - [ ] MAL/BIEN · Cañería de agua de acero sin continuidad (teflón en roscas) vs. con puentes y a la barra PE del tablero de bombas (ficha 27)
-- [ ] CONEXIÓN · Jabalina: cuánto bajan los ohms con el largo y cuánto con el diámetro (ficha 23; valores teóricos, el real se mide)
+- [x] CONEXIÓN · Jabalina: cuánto bajan los ohms con el largo y cuánto con el diámetro (ficha 23; valores teóricos, el real se mide)
 - [ ] CONEXIÓN · Resistividad del terreno: la misma jabalina da distinto según el suelo (ficha 23)
 - [ ] CONEXIÓN · Tensión de paso y tensión de contacto: qué son y por qué el objetivo es 24 V (fichas 05 y 23)
 - [ ] CONEXIÓN · Equipotencialización: masas ajenas (agua, gas, estructuras) a la barra equipotencial principal (fichas 06 y 23)
