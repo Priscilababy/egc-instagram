@@ -41,3 +41,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-10-21 · Bombeo en edificio: dos bombas alternadas, flotantes en MBTS y válvula de retención · CONEXIÓN · posts/2026-10-21-bombeo-edificio.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-3794741772146031212
 - 2026-10-22 · Pasamuros sin pendiente vs Ø 65 mm con pendiente hacia afuera · MAL/BIEN · posts/2026-10-22-pasamuros-pendiente.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=4484860250707085106
 - 2026-10-23 · Jabalina: el largo pesa más que el diámetro · CONEXIÓN (gráfico) · posts/2026-10-23-jabalina-largo-diametro.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-8884945198799502971
+- 2026-10-24 · Tuerca flare apretada a ojo vs doble llave y torquímetro · MAL/BIEN · posts/2026-10-24-tuerca-flare-torque.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=7207715474932124432

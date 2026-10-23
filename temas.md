@@ -34,7 +34,7 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [x] AIRE · MAL/BIEN · "Purgar" con el gas del equipo vs. vacío con bomba y vacuómetro
 - [x] AIRE · MAL/BIEN · Pasamuros sin pendiente vs. Ø 65 mm con pendiente hacia afuera
 - [x] AIRE · CONEXIÓN · Unidad exterior en ménsula: espacios libres y caja estanca IP44/IP55 para la alimentación
-- [ ] AIRE · MAL/BIEN · Tuerca flare apretada a ojo vs. doble llave y torquímetro
+- [x] AIRE · MAL/BIEN · Tuerca flare apretada a ojo vs. doble llave y torquímetro
 - [x] CONEXIÓN · Bombeo en edificio: cisterna, dos bombas alternadas, flotantes en MBTS y válvula de retención (ficha 27; control en MBTS, nunca 220 V)
 - [ ] MAL/BIEN · Cañería de agua de acero sin continuidad (teflón en roscas) vs. con puentes y a la barra PE del tablero de bombas (ficha 27)
 - [x] CONEXIÓN · Jabalina: cuánto bajan los ohms con el largo y cuánto con el diámetro (ficha 23; valores teóricos, el real se mide)
