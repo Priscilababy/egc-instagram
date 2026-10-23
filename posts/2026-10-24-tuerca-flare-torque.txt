@@ -1,0 +1,22 @@
+Tuerca flare del split: apretarla a ojo con una sola llave es adivinar. El manual da un torque y hay que respetarlo.
+
+La tuerca flare es la unión abocardada que conecta cada caño de cobre con la válvula de la unidad. Se usa en todas las instalaciones de split, en las dos uniones (líquido y gas) de cada unidad.
+
+Cómo se hace:
+- Cortar el caño a 90° con cortatubos, no con sierra.
+- Sacar la rebaba con escariador, con la punta del caño hacia abajo.
+- Poner la tuerca antes de abocardar.
+- Abocardar con la saliente que indica el manual sobre la matriz.
+- Ajustar primero a mano y después con doble llave: una sostiene el cuerpo de la válvula y la otra aprieta.
+- Cerrar con torquímetro, al valor del manual del modelo.
+
+Detalles que se olvidan en obra:
+- El torque cambia según el diámetro y la marca. En los manuales consultados, 1/4" va de 15 a 18 N·m y 3/8" de 25 a 29 N·m. En 1/2" y 5/8" los valores varían más entre manuales: usá la tabla del modelo que instalás.
+- Ojo con las unidades de la tabla (N·m, N·cm, kgf·cm): una conversión mal leída cambia el apriete por completo.
+- Después de armar, verificá las uniones con agua jabonosa.
+
+Marco: manual de instalación del fabricante y buenas prácticas del oficio.
+
+Guardalo para la próxima instalación. ¿Usás torquímetro en todas las uniones o solo en algunas?
+
+#aireacondicionado #refrigeracion #instaladores #split #electricistas #tuercaflare
