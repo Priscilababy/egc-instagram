@@ -63,6 +63,19 @@
         "03"
       ],
       "palabras": 1026
+    },
+    {
+      "slug": "iug-tug-y-tue-que-es-cada-circuito-y-que-puede-alimentar",
+      "titulo": "IUG, TUG y TUE: qué es cada circuito y qué puede alimentar",
+      "descripcion": "Qué son los circuitos IUG, TUG y TUE según la AEA 90364-7-770, qué alimenta cada uno y cómo se combinan cable y protección.",
+      "imagen": "blog/img/iug-tug-y-tue-que-es-cada-circuito-y-que-puede-alimentar.png",
+      "creada": "2026-10-23T19:16:52-03:00",
+      "publicar": "2026-10-24T19:00:00-03:00",
+      "fichas": [
+        "02",
+        "04"
+      ],
+      "palabras": 1173
     }
   ]
 }
