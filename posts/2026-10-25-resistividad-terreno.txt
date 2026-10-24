@@ -1,0 +1,21 @@
+La misma jabalina da 12 Ω en un terreno y 390 Ω en otro. Depende del suelo, no de la jabalina.
+
+Sirve para entender por qué una jabalina que cumplió en una obra no cumple en la de al lado, y para saber qué esperar antes de clavar.
+
+Cómo se compara:
+- La resistencia de una toma de tierra es proporcional a la resistividad del terreno (se mide en Ω·m).
+- Valores de referencia: pantanoso 30 Ω·m, arcilloso 100, arena húmeda 200, grava húmeda 500, arena o grava seca 1.000, rocoso 3.000.
+- Con una jabalina de 3 m y 5/8" (unos 19 Ω en un terreno de 50 Ω·m), la cuenta da aproximadamente 12 Ω en terreno pantanoso, 39 Ω en arcilloso, 78 Ω en arena húmeda y 390 Ω en arena seca.
+- Son valores calculados para comparar, no para prometer un resultado.
+
+Detalles que se pasan por alto en obra:
+- La resistividad cambia con la humedad, las sales y las capas del suelo: la misma toma puede medir distinto en otra época del año.
+- En terrenos secos, arenosos o rocosos, una sola jabalina corta puede no llegar a los 40 Ω. Probá con más largo o con varias jabalinas unidas con conductor desnudo enterrado.
+- Los rellenos son impredecibles: no asumas el valor de la tabla en un terreno que fue rellenado.
+- Lo que vale es la medición final de la toma con telurímetro, con la toma desconectada de la instalación.
+
+Marco: reglamentación AEA 90364. Toma de tierra propia de 40 Ω como máximo, todas las masas al PE y diferencial de 30 mA en los circuitos terminales.
+
+Guardalo para la próxima instalación. ¿Cuánto te midió la toma en el terreno más seco que te tocó?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #puestaatierra #jabalina
