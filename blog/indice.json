@@ -76,6 +76,20 @@
         "04"
       ],
       "palabras": 1173
+    },
+    {
+      "slug": "termotanque-electrico-que-circuito-y-que-proteccion-lleva",
+      "titulo": "Termotanque eléctrico: qué circuito y qué protección lleva",
+      "descripcion": "El circuito sale de la corriente de la placa: tipo de toma, cable, termomagnética bipolar y diferencial de 30 mA según la AEA 90364.",
+      "imagen": "blog/img/termotanque-electrico-que-circuito-y-que-proteccion-lleva.png",
+      "creada": "2026-10-25T19:30:00-03:00",
+      "publicar": "2026-10-26T19:00:00-03:00",
+      "fichas": [
+        "02",
+        "14",
+        "18"
+      ],
+      "palabras": 1206
     }
   ]
 }
