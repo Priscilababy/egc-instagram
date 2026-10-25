@@ -1,0 +1,20 @@
+El teflón de las roscas aísla: la cañería de acero de las bombas puede quedar sin continuidad y sin tierra.
+
+En un tablero de bombas, el caño de acero es una masa. Si una falla lo energiza y no está unido al PE, queda con tensión y nadie lo nota hasta que alguien lo toca.
+
+Cómo se conecta:
+- Medí la continuidad entre tramos de caño, codos y válvulas.
+- Si no hay continuidad, poné puentes conductores entre caños, codos y válvulas.
+- Llevá la cañería a la barra PE del tablero de bombas.
+- Desde esa barra, a la puesta a tierra general.
+
+Detalles que se olvidan en obra:
+- El teflón de las roscas aísla: no alcanza con que el caño sea de acero.
+- No des por hecha la continuidad: se mide, no se supone.
+- Las masas se conectan por derivación al PE, nunca en serie (guirnalda).
+
+Marco: reglamentación AEA 90364. Todas las masas a tierra y diferencial de 30 mA en los circuitos terminales.
+
+Guardalo para la próxima instalación. ¿Medís la continuidad de la cañería antes de entregar la sala de bombas?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #puestaatierra #bombas
