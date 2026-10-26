@@ -1,0 +1,23 @@
+Tensión de paso y tensión de contacto: dos formas de recibir una descarga sin tocar un cable vivo.
+
+Sirven para entender por qué la puesta a tierra no es solo "que haya una jabalina": lo que importa es qué tensión le queda a una persona cuando algo falla.
+
+Qué es cada una:
+- Tensión de paso: la que hay entre los dos pies, separados unos 0,8 a 1 m.
+- Tensión de contacto: la que hay de la mano a los pies, o de una mano a la otra, cuando se toca una masa (por ejemplo, una carcasa metálica con falla).
+
+Qué se busca en obra:
+- En esquema TT, el objetivo es que la tensión de contacto no pase de 24 V.
+- La única protección por corte automático que se acepta contra contactos indirectos en TT es el diferencial. La termomagnética no sirve para eso.
+- Con diferencial de 30 mA o menos y toma de tierra de 40 Ω o menos, esa parte de la instalación se considera protegida contra contactos indirectos.
+
+Detalles que se pasan por alto en obra:
+- Todas las masas van al PE: una carcasa sin conductor de protección es justo la que queda con tensión.
+- Las masas ajenas (caños metálicos de agua y gas, estructuras, escaleras) se unen a la barra equipotencial principal para evitar diferencias de tensión entre ellas.
+- Los 24 V dependen de que la toma de tierra mida lo que tiene que medir: medila con telurímetro.
+
+Marco: reglamentación AEA 90364. Toma de tierra propia de 40 Ω como máximo, todas las masas al PE y diferencial de 30 mA en los circuitos terminales.
+
+Guardalo para la próxima instalación. ¿Alguna vez encontraste una carcasa con tensión por una toma de tierra que no estaba conectada?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #puestaatierra #diferencial
