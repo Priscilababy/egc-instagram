@@ -90,6 +90,18 @@
         "18"
       ],
       "palabras": 1206
+    },
+    {
+      "slug": "tablero-electrico-de-vivienda-ubicacion-grado-ip-y-reserva-del-20",
+      "titulo": "Tablero eléctrico de vivienda: ubicación, grado IP y reserva del 20 %",
+      "descripcion": "Dónde va el tablero, qué grado IP lleva y por qué se deja 20 % de reserva libre, según la AEA 90364-7-770.",
+      "imagen": "blog/img/tablero-electrico-de-vivienda-ubicacion-grado-ip-y-reserva-del-20.png",
+      "creada": "2026-10-27T19:30:00-03:00",
+      "publicar": "2026-10-28T19:00:00-03:00",
+      "fichas": [
+        "09"
+      ],
+      "palabras": 1093
     }
   ]
 }

@@ -15,7 +15,7 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [x] Colores de los cables según la AEA: fase, neutro, tierra y retornos · fichas: 03 → colores-de-los-cables-segun-la-aea-fase-neutro-tierra-y-retornos
 - [x] IUG, TUG y TUE: qué es cada circuito y qué puede alimentar · fichas: 02 → iug-tug-y-tue-que-es-cada-circuito-y-que-puede-alimentar
 - [x] Termotanque eléctrico: qué circuito y qué protección lleva · fichas: 02, 14, 18 → termotanque-electrico-que-circuito-y-que-proteccion-lleva
-- [ ] Tablero eléctrico de vivienda: ubicación, grado IP y reserva del 20 % · fichas: 09
+- [x] Tablero eléctrico de vivienda: ubicación, grado IP y reserva del 20 % · fichas: 09 → tablero-electrico-de-vivienda-ubicacion-grado-ip-y-reserva-del-20
 - [ ] ¿Por qué en monofásico las termomagnéticas tienen que ser bipolares? · fichas: 05, 09
 - [ ] Empalmes: cuándo se pueden retorcer y cuándo va bornera · fichas: 07
 - [ ] Grados de electrificación de una vivienda: circuitos y bocas mínimas · fichas: 02
