@@ -1,0 +1,23 @@
+Un caño de agua o de gas puede quedar con tensión y nadie se entera hasta que alguien lo toca.
+
+La equipotencialización une todas las partes metálicas a una misma barra, para que no haya diferencia de tensión entre ellas. Se usa en toda vivienda con puesta a tierra, y más todavía donde hay caños metálicos, estructuras o equipos en terraza.
+
+Cómo se conecta:
+- El cable de puesta a tierra viene de la jabalina y llega a la barra equipotencial principal. Sección mínima: 4 mm².
+- Desde la barra principal sale el conductor PE hacia todas las masas de la instalación.
+- Las masas propias (carcasas, cajas, equipos) van al PE.
+- Las masas extrañas (caños metálicos de agua y de gas, estructuras, escaleras y conductos metálicos) se unen a la barra principal con un cable.
+- Los equipos de aire en la terraza, antenas y estructuras metálicas grandes conviene llevarlos directo a la barra principal.
+
+Detalles que se olvidan en obra:
+- Una canilla o un caño metálico no sirven como tierra: su continuidad es incierta, y si más adelante el caño sigue en plástico, la cañería puede quedar electrificada.
+- Si hay una rosca con teflón, la continuidad se pierde: medila o poné un puente.
+- Un toma de tres espigas sin PE conectado da una falsa seguridad.
+
+Sección y color del cable de unión de las masas extrañas: consultar la reglamentación AEA 90364.
+
+Marco: reglamentación AEA 90364. Diferencial de 30 mA y todas las masas a tierra.
+
+Guardalo para la próxima instalación. ¿Qué es lo primero que revisás en una casa vieja: la tierra o los caños?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #puestaatierra #equipotencialidad
