@@ -41,4 +41,4 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [x] CONEXIÓN · Resistividad del terreno: la misma jabalina da distinto según el suelo (ficha 23)
 - [x] CONEXIÓN · Tensión de paso y tensión de contacto: qué son y por qué el objetivo es 24 V (fichas 05 y 23)
 - [x] CONEXIÓN · Equipotencialización: masas ajenas (agua, gas, estructuras) a la barra equipotencial principal (fichas 06 y 23)
-- [ ] CONEXIÓN · Qué tiene adentro un DPS: varistor MOV y desconectador térmico (ficha 24)
+- [x] CONEXIÓN · Qué tiene adentro un DPS: varistor MOV y desconectador térmico (ficha 24)

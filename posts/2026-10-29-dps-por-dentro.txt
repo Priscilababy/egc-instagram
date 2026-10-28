@@ -1,0 +1,22 @@
+Qué tiene adentro un DPS: un varistor y un desconectador térmico, y por eso no es eterno.
+
+El DPS (dispositivo de protección contra sobretensiones) limita las sobretensiones de rayo y de maniobra antes de que lleguen a los equipos. Entender cómo está hecho ayuda a saber cuándo conviene revisarlo.
+
+Cómo está hecho por dentro:
+- Varistor de óxido metálico (MOV): un disco de óxido de zinc. A tensión normal deja pasar solo una fuga de microamperes.
+- Ante una sobretensión, su resistencia baja de megaohms a pocos ohms en nanosegundos, deriva la energía y después vuelve solo a su estado normal.
+- Desconectador térmico en serie con el varistor: abre antes de que el varistor se recaliente y rompa la envoltura.
+- Fusible o termomagnética asociado al DPS, para evitar fallas peligrosas por sobrecarga.
+
+Detalles que se olvidan en obra:
+- El varistor se gasta: con cada impulso grande, con la tensión permanente y con el calor. Al degradarse aumenta la corriente de fuga, se calienta más y puede terminar en cortocircuito o rotura.
+- Por eso conviene revisar el DPS, sobre todo después de tormentas.
+- No alcanza con el varistor: la calidad del DPS depende también de sus conexiones internas y de la envoltura.
+- En la hoja de datos, la tensión máxima permanente (Uc) tiene que superar la tensión máxima de la red con sus tolerancias. Si es baja, el varistor conduce de más y se quema; si es alta, deja pasar más tensión al equipo.
+- Clase, ubicación y conexión del DPS: seguí el manual del fabricante y la reglamentación.
+
+Marco: reglamentación AEA 90364. El DPS tiene que cumplir IEC 61643. Si el inmueble tiene pararrayos, lleva DPS.
+
+Guardalo para la próxima instalación. ¿Alguna vez encontraste un DPS ya quemado después de una tormenta?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #DPS #sobretensiones
