@@ -102,6 +102,19 @@
         "09"
       ],
       "palabras": 1093
+    },
+    {
+      "slug": "por-que-en-monofasico-las-termomagneticas-tienen-que-ser-bipolares",
+      "titulo": "¿Por qué en monofásico las termomagnéticas tienen que ser bipolares?",
+      "descripcion": "La AEA 90364-7-770 pide bipolares con los dos polos protegidos y prohíbe unipolares, 1P+N y neutro pasante en monofásico.",
+      "imagen": "blog/img/por-que-en-monofasico-las-termomagneticas-tienen-que-ser-bipolares.png",
+      "creada": "2026-10-29T19:16:18-03:00",
+      "publicar": "2026-10-30T19:00:00-03:00",
+      "fichas": [
+        "05",
+        "09"
+      ],
+      "palabras": 923
     }
   ]
 }
