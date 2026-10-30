@@ -48,3 +48,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-10-28 · Equipotencialización: masas ajenas a la barra equipotencial principal · CONEXIÓN · posts/2026-10-28-equipotencializacion.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=7472892400179693476
 - 2026-10-29 · Qué tiene adentro un DPS: varistor y desconectador térmico · CONEXIÓN (esquema) · posts/2026-10-29-dps-por-dentro.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=6065495404673650200
 - 2026-10-30 · NO PROGRAMADO · no quedan temas [ ] en temas.md (todos publicados o [?]); hay fichas nuevas (31-34) sin tema asignado
+- 2026-10-31 · NO PROGRAMADO · no quedan temas [ ] en temas.md (todos publicados o [?]); hay fichas 31-34 sin tema asignado
