@@ -68,6 +68,12 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 | Farina, "Protección de inmuebles", partes 1 y 2 (2022-2023) | SECUNDARIA | 30 | Transcribe la 771B.9 (escribe "90365": error). |
 | Farina, "Mantenimiento e inspección en estaciones de servicio" (2022) | SECUNDARIA (ámbito especial) | 30 | Sección 790. Sin plazos numéricos. |
 
+## Lote 4 · estudios técnicos de la AEA (recibido el 2026-10-31)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| Semerdjian, "Análisis del factor F de incremento del potencial de tierra en redes de BT con gestión de neutro TN múltiplemente conectado a tierra", AEA, v1.0, agosto 2023 (8 págs.), https://aea.org.ar/pdfviewer/estudio-factor-f/ | SECUNDARIA | 35 | Estudio técnico publicado por la AEA, no reglamentación. Trata la **red de la distribuidora** (TN), no la vivienda (TT): para la vivienda mandan las fichas 06, 23, 31 y 33. Se apoya en EN 50522:2022 y AEA 90479-1:2020, que **no** están en esta biblioteca. La fórmula de RPAT (ec. 5) no se pudo leer bien: no usarla. "Todos los derechos reservados": no subir el PDF ni copiar texto. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
