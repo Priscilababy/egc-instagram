@@ -115,6 +115,18 @@
         "09"
       ],
       "palabras": 923
+    },
+    {
+      "slug": "empalmes-cuando-se-pueden-retorcer-y-cuando-va-bornera",
+      "titulo": "Empalmes: cuándo se pueden retorcer y cuándo va bornera",
+      "descripcion": "La AEA 90364-7-770 admite retorcer hasta 4 cables de menos de 4 mm². Con más cables o más sección va bornera. Nunca dentro del caño.",
+      "imagen": "blog/img/empalmes-cuando-se-pueden-retorcer-y-cuando-va-bornera.png",
+      "creada": "2026-10-31T19:15:40-03:00",
+      "publicar": "2026-11-01T19:00:00-03:00",
+      "fichas": [
+        "07"
+      ],
+      "palabras": 983
     }
   ]
 }
