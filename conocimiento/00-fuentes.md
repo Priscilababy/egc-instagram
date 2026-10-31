@@ -73,6 +73,7 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 | Documento | Estado | Ficha | Notas |
 |---|---|---|---|
 | Semerdjian, "Análisis del factor F de incremento del potencial de tierra en redes de BT con gestión de neutro TN múltiplemente conectado a tierra", AEA, v1.0, agosto 2023 (8 págs.), https://aea.org.ar/pdfviewer/estudio-factor-f/ | SECUNDARIA | 35 | Estudio técnico publicado por la AEA, no reglamentación. Trata la **red de la distribuidora** (TN), no la vivienda (TT): para la vivienda mandan las fichas 06, 23, 31 y 33. Se apoya en EN 50522:2022 y AEA 90479-1:2020, que **no** están en esta biblioteca. La fórmula de RPAT (ec. 5) no se pudo leer bien: no usarla. "Todos los derechos reservados": no subir el PDF ni copiar texto. |
+| Texto técnico "Evaluación de las incertidumbres de medición" (mediciones directas), con aval de la AEA, recibido el 2026-10-31 (autor no indicado) | SECUNDARIA de confianza | 36 | Resume CIPM INC-1 (1980), GUM (IRAM 35050) y EA-4/02 (IRAM 35051), que **no** están en esta biblioteca. Factores k de la distribución triangular (2,33 / 2,42) no coinciden con la GUM (≈ 1,90 / 2,20): no usarlos sin verificar. Las mediciones indirectas no se recibieron. |
 
 ## Normas citadas que **no** están en esta biblioteca
 
