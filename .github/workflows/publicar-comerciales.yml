@@ -1,0 +1,59 @@
+name: Publicar comerciales en Instagram
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'   # cada 20 minutos: genera placas que falten y publica lo que tenga la hora cumplida
+  push:
+    branches: [main]
+    paths: ['comerciales/placas/**']
+  workflow_dispatch:
+    inputs:
+      prueba:
+        description: 'Solo probar la conexión con Instagram (no publica)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar-comerciales
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Instalar dependencias
+        run: pip install resvg-py pillow
+      - name: Generar placas que falten
+        run: python3 comerciales/generar_placas.py
+      - name: Guardar placas nuevas
+        run: |
+          if [ -n "$(git status --porcelain comerciales/posts)" ]; then
+            git config user.name "egc-bot"
+            git config user.email "egc-bot@users.noreply.github.com"
+            git add comerciales/posts
+            git commit -m "Comercial: placas generadas"
+            for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
+          fi
+      - name: Publicar lo que corresponde
+        if: github.event_name != 'push'
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          PRUEBA: ${{ inputs.prueba && '1' || '0' }}
+        run: python3 comerciales/publicar.py
+      - name: Guardar el registro
+        if: always()
+        run: |
+          if [ -n "$(git status --porcelain comerciales/publicados.md)" ]; then
+            git config user.name "egc-bot"
+            git config user.email "egc-bot@users.noreply.github.com"
+            git add comerciales/publicados.md
+            git commit -m "Comercial: registro de publicación"
+            for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
+          fi
