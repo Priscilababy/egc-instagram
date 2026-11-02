@@ -173,6 +173,13 @@ Terminá con un resumen corto: tema, fichas de `conocimiento/` usadas, otras fue
 
 ---
 
+## Paso extra · Posteo COMERCIAL (no usa Metricool)
+
+Después del paso 12 (aunque el posteo técnico se haya salteado), seguí al pie de la letra `comerciales/COMERCIALES.md`.
+Los comerciales los publica GitHub (workflow `publicar-comerciales.yml`) directo en Instagram: **nunca** los programes en Metricool.
+
+---
+
 ## Si algo falla
 - **Nunca** programes un posteo con imagen o texto sin verificar.
 - Si no podés completar el día, anotá en `publicados.md`: `- AAAA-MM-DD · NO PROGRAMADO · <motivo>` y hacé commit.
