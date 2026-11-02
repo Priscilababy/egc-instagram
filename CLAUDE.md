@@ -15,7 +15,7 @@ La prioridad absoluta es la **exactitud técnica**. Es mejor saltear un día que
 | Instagram | @egc_eletric_global_cost |
 | Metricool `blogId` | `7073274` |
 | Zona horaria | `America/Argentina/Buenos_Aires` (UTC-3) |
-| Hora de publicación | 8:30 del día siguiente |
+| Hora de publicación | 8:30 del día siguiente, solo lunes a viernes, máximo 20 por mes (ver paso 1b) |
 | Repositorio | `Priscilababy/egc-instagram` (público) |
 | Carpeta de posteos | `posts/` |
 | URL pública de la imagen | `https://raw.githubusercontent.com/Priscilababy/egc-instagram/<rama>/posts/<archivo>.png` |
@@ -42,6 +42,24 @@ Si hay conflictos en `temas.md` o `publicados.md`, conservá las líneas de ambo
 ```bash
 MANANA=$(TZ=America/Argentina/Buenos_Aires date -d tomorrow +%F)
 ```
+
+### 1b. Calendario: solo lunes a viernes y máximo 20 por mes
+El plan gratis de Metricool permite **20 posteos por mes**. Para que alcancen todo el mes:
+- Se publica **solo de lunes a viernes**. Sábado y domingo no se publica.
+- Se publican como máximo **los primeros 20 días hábiles** (lunes a viernes) de cada mes.
+
+```bash
+DOW=$(date -d "$MANANA" +%u)   # 1=lunes ... 7=domingo
+HABIL=0; D=$(date -d "$MANANA" +%Y-%m-01)
+while [ "$D" != "$(date -d "$MANANA + 1 day" +%F)" ]; do
+  [ "$(date -d "$D" +%u)" -le 5 ] && HABIL=$((HABIL+1)); D=$(date -d "$D + 1 day" +%F)
+done
+echo "dia=$DOW habil_numero=$HABIL"
+```
+- Si `DOW` es 6 o 7: **no programes nada**. Anotá en `publicados.md`: `- <MANANA> · NO PROGRAMADO · fin de semana`. Terminá el posteo (la nota del blog sigue igual, si corresponde).
+- Si `HABIL` es 21 o más: **no programes nada**. Anotá: `- <MANANA> · NO PROGRAMADO · cupo de 20 del mes cubierto`. Terminá el posteo.
+- Si Metricool devuelve un error de límite de la cuenta, no reintentes: anotá el motivo en `publicados.md`.
+- Si no quedan temas `[ ]` en `temas.md`, empezá el resumen final con **"SIN TEMAS: AGREGAR TEMAS NUEVOS A temas.md"**.
 
 ### 2. Evitar duplicados
 Consultá Metricool con `getScheduledPosts` (blogId `7073274`, desde `${MANANA}T00:00:00-03:00` hasta `${MANANA}T23:59:59-03:00`, timezone `America/Argentina/Buenos_Aires`).
