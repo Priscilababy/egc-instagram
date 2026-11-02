@@ -127,6 +127,18 @@
         "07"
       ],
       "palabras": 983
+    },
+    {
+      "slug": "grados-de-electrificacion-de-una-vivienda-circuitos-y-bocas-minimas",
+      "titulo": "Grados de electrificación de una vivienda: circuitos y bocas mínimas",
+      "descripcion": "El grado sale de la superficie (cubierta + 50 % de semicubierta) y define cuántos circuitos y bocas mínimas pide la AEA 90364-7-770.",
+      "imagen": "blog/img/grados-de-electrificacion-de-una-vivienda-circuitos-y-bocas-minimas.png",
+      "creada": "2026-11-02T19:15:46-03:00",
+      "publicar": "2026-11-03T19:00:00-03:00",
+      "fichas": [
+        "02"
+      ],
+      "palabras": 1082
     }
   ]
 }
