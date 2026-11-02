@@ -1,0 +1,19 @@
+Cargás los circuitos. EGC dibuja el unifilar.
+
+Armar el esquema unifilar a mano lleva horas. En EGC sale solo, a partir de lo que ya cargaste.
+
+Cómo funciona:
+- Cargás cada circuito con su potencia y el largo del recorrido.
+- La calculadora AEA verifica sección, termomagnética y caída de tensión antes de sumarlo al tablero.
+- EGC agrupa los circuitos en diferenciales de 30 mA y dimensiona la línea principal y el interruptor general.
+- Sale un PDF de 2 hojas: el unifilar con simbología IRAM 2010 e IEC 60617, y el cuadro de cargas con los materiales.
+
+Los metros de cable por sección, las termomagnéticas y los diferenciales se suman solos: es la lista para el corralón.
+
+EGC arma el documento; la firma y la responsabilidad son del profesional interviniente. Revisá el esquema antes de firmarlo.
+
+Probala 30 días gratis, sin tarjeta. El link está en la bio.
+
+¿Cuánto tiempo te lleva hoy armar un unifilar?
+
+#electricistas #instalacioneselectricas #unifilar #tableroelectrico #AEA90364 #presupuestos #EGC
