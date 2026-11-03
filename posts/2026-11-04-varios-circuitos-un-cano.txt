@@ -1,0 +1,22 @@
+Varios circuitos en el mismo caño: se puede, pero con cuatro condiciones juntas.
+
+Cuando el caño es largo o hay pocas bajadas, es tentador pasar más de un circuito por el mismo caño. La reglamentación lo permite solo para circuitos de uso general y bajo condiciones precisas.
+
+Cómo se conecta:
+- Hasta 3 circuitos de uso general en un mismo caño.
+- Los 3 de la misma fase y del mismo tablero.
+- La suma de sus termomagnéticas no pasa de 36 A.
+- Entre todos, no más de 15 bocas.
+- Cada circuito lleva todos sus cables en ese caño, incluido el PE.
+
+Detalles que se olvidan en obra:
+- Uso general, uso especial y uso específico van en caños separados.
+- Cada boca sirve a un solo circuito: puede ser caja de paso de otros, pero no de derivación.
+- En las cajas donde se juntan circuitos distintos, identificá los cables (colores o anillos numerados).
+- Con varios circuitos en el caño hay que aplicar el factor de agrupamiento a la corriente admisible: 0,80 con 2 circuitos y 0,70 con 3. Un 2,5 mm² que con 1 circuito admite una térmica de 20 A, con 2 circuitos ya no la admite.
+
+Marco: reglamentación AEA 90364 (AEA 90364-7-770, 770.10.3.8.2). Diferencial de 30 mA en todos los circuitos terminales y todas las masas al PE.
+
+Guardalo para la próxima instalación. ¿Alguna vez tuviste que separar circuitos de un caño en una inspección?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #canalizaciones #cableado
