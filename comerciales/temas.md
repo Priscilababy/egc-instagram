@@ -5,8 +5,8 @@ Fuente única de lo que hace la app: la landing https://egc.globalepika.net.ar/ 
 No prometer nada que la landing no diga. No usar la palabra AAIERIC.
 
 - [x] Tablero y unifilar: cargás los circuitos, EGC dibuja el unifilar (PDF de 2 hojas, IRAM 2010 / IEC 60617)
-- [ ] Presupuesto por WhatsApp en minutos: PDF con tu logo, tu matrícula y qué incluye el precio
-- [ ] Avisos de mantenimiento: "tu próximo trabajo ya lo hiciste" (aire antes del verano, revisión eléctrica anual; nada se envía solo)
+- [x] Presupuesto por WhatsApp en minutos: PDF con tu logo, tu matrícula y qué incluye el precio
+- [x] Avisos de mantenimiento: "tu próximo trabajo ya lo hiciste" (aire antes del verano, revisión eléctrica anual; nada se envía solo)
 - [ ] Protocolo SRT 900/15 desde el celular: una tarjeta por toma, PDF de 3 hojas con el formato del Anexo (la firma es del profesional)
 - [ ] Calculadora AEA: sección del cable, termomagnética y caída de tensión en segundos
 - [ ] Precios al día por IPC con el dato oficial del INDEC, en un toque

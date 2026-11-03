@@ -52,3 +52,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-11-01 · NO PROGRAMADO · no quedan temas [ ] en temas.md (todos publicados o [?]); agregar temas nuevos
 - 2026-11-02 · NO PROGRAMADO · no quedan temas [ ] en temas.md (todos publicados o [?]); agregar temas nuevos (hay fichas 31-36 sin tema asignado)
 - 2026-11-03 · NO CREADO · ya había un posteo de Instagram programado para mañana 8:30 (uuid 6065495404673650200, texto del DPS, creado 2026-11-02); no se duplicó
+- 2026-11-04 · Varios circuitos en el mismo caño: hasta 3 de uso general, 36 A, 15 bocas · CONEXIÓN · posts/2026-11-04-varios-circuitos-un-cano.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=3765826890856089025
