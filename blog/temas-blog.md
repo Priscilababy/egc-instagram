@@ -19,8 +19,8 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [x] ¿Por qué en monofásico las termomagnéticas tienen que ser bipolares? · fichas: 05, 09 → por-que-en-monofasico-las-termomagneticas-tienen-que-ser-bipolares
 - [x] Empalmes: cuándo se pueden retorcer y cuándo va bornera · fichas: 07 → empalmes-cuando-se-pueden-retorcer-y-cuando-va-bornera
 - [x] Grados de electrificación de una vivienda: circuitos y bocas mínimas · fichas: 02 → grados-de-electrificacion-de-una-vivienda-circuitos-y-bocas-minimas
-- [ ] ¿De qué color va el retorno de una llave de luz? · fichas: 03
-- [ ] Cuántas jabalinas hacen falta y cuánto da cada una según el terreno · fichas: 06, 23
+- [=] ¿De qué color va el retorno de una llave de luz? · fichas: 03 (ya cubierto en la nota de colores de los cables)
+- [x] Cuántas jabalinas hacen falta y cuánto da cada una según el terreno · fichas: 06, 23 → cuantas-jabalinas-hacen-falta-y-cuanto-da-cada-una-segun-el-terreno
 - [ ] Caños, cajas y cables prohibidos en una instalación domiciliaria · fichas: 07
 - [ ] Alturas de tomas y llaves: qué dice la reglamentación · fichas: 08
 - [ ] Flotante de tanque de agua: por qué el comando va en muy baja tensión de seguridad · fichas: 10

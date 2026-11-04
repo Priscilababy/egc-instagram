@@ -139,6 +139,19 @@
         "02"
       ],
       "palabras": 1082
+    },
+    {
+      "slug": "cuantas-jabalinas-hacen-falta-y-cuanto-da-cada-una-segun-el-terreno",
+      "titulo": "Cuántas jabalinas hacen falta y cuánto da cada una según el terreno",
+      "descripcion": "La norma fija 40 Ω como máximo y se verifica midiendo: el largo de la jabalina pesa más que el diámetro y el terreno decide cuántas hacen falta.",
+      "imagen": "blog/img/cuantas-jabalinas-hacen-falta-y-cuanto-da-cada-una-segun-el-terreno.png",
+      "creada": "2026-11-04T19:16:51-03:00",
+      "publicar": "2026-11-05T19:00:00-03:00",
+      "fichas": [
+        "06",
+        "23"
+      ],
+      "palabras": 1071
     }
   ]
 }
