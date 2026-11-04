@@ -1,0 +1,21 @@
+2,5 mm² con térmica de 20 A: si comparte caño con otro circuito, ya no cumple.
+
+El cable de 2,5 mm² en caño admite 21 A (monofásico, 40 °C). Por eso, solo en el caño, admite una termomagnética de hasta 20 A. Pero cuando dos circuitos van por el mismo caño, el cable se calienta más y la corriente admisible baja.
+
+Cómo se calcula:
+- Se aplica el factor de agrupamiento: 0,80 con 2 circuitos y 0,70 con 3.
+- 2 circuitos: 21 A x 0,80 = 16,8 A.
+- Tiene que cumplirse IB ≤ In ≤ Iz: la corriente de proyecto no supera la térmica, y la térmica no supera lo que admite el cable.
+- 20 A es mayor que 16,8 A: no cumple. 16 A es menor que 16,8 A: cumple.
+- Otra salida: subir la sección a 4 mm². Admite 28 A, y con 2 circuitos 28 x 0,80 = 22,4 A, así que sostiene una térmica de 20 A.
+
+Detalles que se olvidan en obra:
+- El PE no cuenta como cable cargado para el factor.
+- Si el caño lleva 3 circuitos, el factor es 0,70: con 2,5 mm² quedan 14,7 A.
+- Un cambio de caño en obra puede cambiar la térmica que corresponde: revisalo antes de cerrar el tablero.
+
+Marco: reglamentación AEA 90364 (AEA 90364-7-770, Tablas 770.12.I y 770.12.II). Diferencial de 30 mA en todos los circuitos terminales y todas las masas al PE.
+
+Guardalo para la próxima instalación. ¿Alguna vez encontraste una térmica de 20 A sobre un 2,5 mm² compartido?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #termomagnetica #cables
