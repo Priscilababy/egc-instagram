@@ -1,0 +1,20 @@
+Fase castaño, neutro celeste, PE verde-amarillo. ¿Y el retorno de la llave de qué color va?
+
+El código de colores evita errores de conexión y accidentes al abrir una caja. En una llave de un punto aparecen los tres cables de siempre y uno más: el retorno.
+
+Cómo se conecta:
+- Fase (castaño, negro o rojo): del tablero al borne de entrada de la llave.
+- Retorno: de la salida de la llave al portalámparas. Va en un color no reservado, por ejemplo blanco, gris o violeta.
+- Neutro (celeste): del tablero directo al portalámparas, sin pasar por la llave.
+- PE (verde-amarillo): directo a las masas, sin pasar por la llave.
+
+Detalles que se olvidan en obra:
+- El retorno no lleva castaño, negro ni rojo (colores de fase), ni celeste o azul (neutro), ni verde o amarillo (PE). Solo por fuerza mayor se admite un color de fase, y ahí hay que identificar el cable en los dos extremos de cada tramo.
+- Celeste y azul son solo del neutro. Verde-amarillo es solo del PE. Verde o amarillo sueltos no se usan para nada.
+- Si varios circuitos comparten caja, identificá cada cable con colores, anillos numerados u otro medio indeleble para no mezclarlos.
+
+Marco: reglamentación AEA 90364 (AEA 90364-7-770, 770.10.3.8.5 y Tabla 770.10.XIII). Diferencial de 30 mA en todos los circuitos terminales y todas las masas al PE.
+
+Guardalo para la próxima instalación. ¿Qué color usás vos para los retornos?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #codigodecolores #cables
