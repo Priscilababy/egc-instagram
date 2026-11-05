@@ -47,7 +47,7 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 
 - [x] CONEXIÓN · Varios circuitos en el mismo caño: hasta 3 de uso general, misma fase y mismo tablero, termomagnéticas que sumen hasta 36 A y hasta 15 bocas en total (ficha 07, 770.10.3.8.2)
 - [x] MAL/BIEN · Termomagnética de 20 A con cable de 2,5 mm² que comparte caño con otro circuito vs. bajar a 16 A o subir a 4 mm² (fichas 04 y 07; factor 0,80 con 2 circuitos y 0,70 con 3, Tabla 770.12.II)
-- [ ] CONEXIÓN · Código de colores: fase, neutro celeste, PE verde y amarillo, y cómo identificar los retornos (ficha 03)
+- [x] CONEXIÓN · Código de colores: fase, neutro celeste, PE verde y amarillo, y cómo identificar los retornos (ficha 03)
 - [ ] AIRE · CONEXIÓN · Prueba de estanqueidad con nitrógeno antes de hacer vacío (ficha 17)
 - [ ] CONEXIÓN · Caída de tensión: cuándo el largo del circuito obliga a subir la sección (ficha 04, Tabla 770.15.IV)
 - [ ] MAL/BIEN · Dos cables en un mismo borne de la termomagnética vs. un cable por borne (fichas 09 y 26)
