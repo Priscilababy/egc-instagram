@@ -106,6 +106,15 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 - Símbolo de "termomagnético unipolar o monofásico" (tabla 13, pág. 57): en vivienda monofásica la 770 prohíbe termomagnéticas unipolares (ficha 05).
 - Caída de tensión 3 % / 5 % y aislación de 1000 Ω/V (págs. 322-323 y 349): usar las fichas 04 y 12.
 
+## Lote 8 · símbolos de planta y dibujo técnico (recibido el 2026-11-06)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| IRAM 2010, Sección IV, "Símbolos gráficos electrotécnicos para instalaciones de alumbrado, calefacción y fuerza motriz", Apéndice II de un libro técnico (4 págs., escaneadas, sin datos del libro) | **PRIMARIA** (reproducción; vigencia a verificar) | 43 | **Simbología para el plano de planta**: bocas, llaves, tomas, tableros, medidor, cañerías y montantes. Desciende de la IRAM 2010 de 1941. Tiene un toma sin tierra (A 2919) que en vivienda no corresponde: usar A 2920. |
+| IRAM, *Manual de normas de aplicación para dibujo técnico*, edición XXVII (146 págs., escaneado) | **PRIMARIA** | 44 | Se procesaron IRAM 4502 (líneas), 4503 (letras), 4504 (formatos), 4505 (escalas), 4508 (rótulo) y 4513 (acotación). Las normas de dibujo mecánico (roscas, engranajes, perfiles, terminado superficial) no aplican. Derechos de IRAM: no subir el PDF. |
+| Resolución ENRE 207/95: Reglamentación AEA para la ejecución de instalaciones eléctricas en inmuebles (1995) | **NO USAR** | — | Reglamentación vieja, reemplazada por la AEA 90364 (770, 771, 701). Solo dato histórico. |
+| Anexo VII "Manual de normas y procedimientos de instalación" (redes informáticas en escuelas) | Fuera de ámbito | — | Ya registrado en el Lote 2. Recibido otra vez. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
