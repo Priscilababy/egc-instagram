@@ -63,10 +63,12 @@ Las armó Claude leyendo los documentos que juntó Fran. Los documentos original
 | [47-rt-caba-muros-no-ceramicos-hcca.md](47-rt-caba-muros-no-ceramicos-hcca.md) | Reglamento Técnico CABA, muros no cerámicos: espesores mínimos de HCCA (12,5 / 10 / 7,5 cm) y cómo embutir caños en HCCA |
 | [48-rt-caba-muros-ceramicos-divisorios-canaletas.md](48-rt-caba-muros-ceramicos-divisorios-canaletas.md) | Reglamento Técnico CABA, muros cerámicos: medianeras 0,30 / 0,45 m, muro privativo 0,15 m, canaletas de 5 cm, nichos de medidores |
 | [49-aea-770-edicion-2026-cambios.md](49-aea-770-edicion-2026-cambios.md) | AEA 770 edición 2026 (resumen oficial AEA): tipo AC no apto, PAT máx. 100 Ω en TT con diferencial ≤ 300 mA, movilidad eléctrica, FV, THD, IEC 61439 |
+| [50-aea-770-2017-vs-2026-detalle.md](50-aea-770-2017-vs-2026-detalle.md) | AEA 770 2017 vs 2026 por tema (Electroclima, secundaria): PAT 100 Ω (200 Ω con autoridad local), simultaneidad, caída de tensión, canalizaciones 40 A, alturas de tomas y llaves, IUE 15 bocas/32 A, DPS, IEC 61439 |
 
 ## Avisos sobre temas de `temas.md`
 
 - **AEA 770 edición 2026 (ficha 49):** las fichas 01 a 12 son de la edición 2017. Puesta a tierra: la 2026 fija **100 Ω** máx. (con diferencial ≤ 300 mA); la 2017 fijaba 40 Ω. Diferencial tipo AC: **no apto** en la 2026. **Vigente desde el 1/11/2026**: en posteos y notas nuevas usar 100 Ω y diferencial tipo A (AC no apto). Los valores de la 2017 solo como antecedente.
+- **Detalle 2026 (ficha 50):** valores 2026 de fuente secundaria. Si un valor de las fichas 01 a 12 (2017) choca con la ficha 50, usar el de la 50 y aclarar "edición 2026". Confirmar con el texto de la norma antes de programarlo en la app.
 
 Antes de armar estos temas, leé la ficha indicada. Algunos cambian por completo lo que se puede dibujar.
 
