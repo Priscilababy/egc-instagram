@@ -111,7 +111,6 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] MAL/BIEN · Contacto directo (tocar una parte activa) vs. contacto indirecto (tocar una carcasa con falla) (ficha 40)
 - [ ] MAL/BIEN · Masa solo con puesta a tierra vs. puesta a tierra más diferencial de 30 mA (fichas 40 y 05)
 - [ ] CONEXIÓN · El recorrido de la corriente importa: mano a mano vs. mano a pie, factor de corazón (ficha 40)
-- [ ] MAL/BIEN · Tubo fluorescente roto a la basura vs. juntar, ventilar y llevar a tratamiento (ficha 41, tiene mercurio)
 - [ ] CONEXIÓN · IP vs. IK: agua y polvo vs. golpes (ficha 41)
 - [ ] CONEXIÓN · Cómo medir caños y cables sobre el plano: tramo horizontal más subidas y bajadas (ficha 39)
 - [ ] MAL/BIEN · Caja de embutir sobrecargada de cables vs. respetar el volumen utilizable (ficha 39, tablas de volumen)
