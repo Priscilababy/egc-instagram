@@ -62,8 +62,11 @@ Las armó Claude leyendo los documentos que juntó Fran. Los documentos original
 | [46-codigo-edificacion-cordoba-locales-puertas-banos.md](46-codigo-edificacion-cordoba-locales-puertas-banos.md) | Código de Edificación de Córdoba: grupos de locales, alturas, dimensiones mínimas, ventilación, baños, puertas, muros, instalación eléctrica y medidores. Tabla de diferencias con CABA |
 | [47-rt-caba-muros-no-ceramicos-hcca.md](47-rt-caba-muros-no-ceramicos-hcca.md) | Reglamento Técnico CABA, muros no cerámicos: espesores mínimos de HCCA (12,5 / 10 / 7,5 cm) y cómo embutir caños en HCCA |
 | [48-rt-caba-muros-ceramicos-divisorios-canaletas.md](48-rt-caba-muros-ceramicos-divisorios-canaletas.md) | Reglamento Técnico CABA, muros cerámicos: medianeras 0,30 / 0,45 m, muro privativo 0,15 m, canaletas de 5 cm, nichos de medidores |
+| [49-aea-770-edicion-2026-cambios.md](49-aea-770-edicion-2026-cambios.md) | AEA 770 edición 2026 (resumen oficial AEA): tipo AC no apto, PAT máx. 100 Ω en TT con diferencial ≤ 300 mA, movilidad eléctrica, FV, THD, IEC 61439 |
 
 ## Avisos sobre temas de `temas.md`
+
+- **AEA 770 edición 2026 (ficha 49):** las fichas 01 a 12 son de la edición 2017. Puesta a tierra: la 2026 fija **100 Ω** máx. (con diferencial ≤ 300 mA); la 2017 fijaba 40 Ω. Diferencial tipo AC: **no apto** en la 2026. Al citar un valor, decir de qué edición es. No afirmar fecha de entrada en vigor.
 
 Antes de armar estos temas, leé la ficha indicada. Algunos cambian por completo lo que se puede dibujar.
 
