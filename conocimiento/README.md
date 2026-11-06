@@ -51,6 +51,7 @@ Las armó Claude leyendo los documentos que juntó Fran. Los documentos original
 | [29-protocolo-srt-900-incumbencias-y-seguridad-de-productos.md](29-protocolo-srt-900-incumbencias-y-seguridad-de-productos.md) | Res. SRT 900/15: qué hace el electricista y qué el de Higiene y Seguridad; productos inseguros |
 | [30-ambitos-especiales-cercas-y-estaciones-de-servicio.md](30-ambitos-especiales-cercas-y-estaciones-de-servicio.md) | Cercas electrificadas (barrera, distancias) y estaciones de servicio (Sección 790) |
 | [37-aea-701-banos-cocinas-y-lavaderos.md](37-aea-701-banos-cocinas-y-lavaderos.md) | AEA 701: zonas 0 a 3 en baños, cocinas y lavaderos, IP por zona, qué va en cada zona, equipotencial, termotanques |
+| [38-iram-2010-3-simbolos-mando-y-proteccion.md](38-iram-2010-3-simbolos-mando-y-proteccion.md) | IRAM 2010-III: símbolos de contactos, interruptor, seccionador, contactor, pulsador, bobinas, fusibles y descargadores para esquemas y unifilares |
 
 ## Avisos sobre temas de `temas.md`
 
@@ -92,3 +93,4 @@ Las fichas 23 a 30 salen de **artículos de revista** (fuente SECUNDARIA). Si ch
 - **Cláusulas 771, 558, 443:** las citan los artículos pero no están verificadas en esta biblioteca; citar "reglamentación AEA 90364".
 - **Purgado de bomba:** usar el orden corregido de la ficha 27 (todas las tapas puestas antes de encender, nunca en seco).
 - **Baños, cocinas y lavaderos (701):** usar la ficha 37 (edición 2012). Tomas y llaves de 220 V solo en **zona 3**. Termotanque con **conexión fija**, nunca con ficha. **No afirmar** que hay zona 2 alrededor de la pileta de cocina o de lavar: las figuras B.6 y B.7 solo dibujan zonas 0 y 1. No usar medidas de la edición 2002 (zona 3 de 2,40 m, lavatorio con 60 cm de alto).
+- **Símbolos (IRAM 2010 Parte III):** usar la ficha 38 solo para esquemas y unifilares. No hay en la biblioteca símbolos de **plano de planta** (tomas, bocas, llaves): no dibujarlos como "norma IRAM". No inventar un símbolo único de diferencial o de termomagnética.
