@@ -55,6 +55,7 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 
 - [ ] Medidas mínimas de una vivienda en CABA que todo electricista debería conocer: locales, pasillos, puertas y baños · fichas: 45
 - [ ] Medidas mínimas de una vivienda: Córdoba vs. CABA, qué cambia para el plano eléctrico · fichas: 46, 45
+- [ ] Dónde se puede canalizar y dónde no: medianeras, muros privativos, pilares y tabiques de HCCA en CABA · fichas: 48, 47
 
 ## Aire acondicionado
 - [ ] Instalación de un split: distancias, ménsulas y desagote bien hechos · fichas: 16
