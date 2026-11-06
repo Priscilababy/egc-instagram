@@ -134,6 +134,12 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 | Reglamento Técnico RT 020105-01 "Muros cerámicos", versión 2 (dic. 2022). Anexo 17, Res. MJGGC-SSGU 205/22. 7 págs. | **PRIMARIA** (solo CABA) | 48 | Fija medianeras de 0,30 y 0,45 m, muro privativo de 0,15 m, canaletas (5 cm en medianera de 0,30 y en muro privativo) y nichos de medidores a 5 cm del eje. **No** fija tabiques interiores de ladrillo. |
 | Reglamento Técnico RT-041300-020105-02 "Muros no cerámicos", versión 2 (dic. 2022). Anexo 18, Res. MJGGC-SSGU 205/22. 6 págs. | **PRIMARIA** (solo CABA) | 47 | Espesores mínimos de HCCA: 12,5 cm exterior y entre unidades; 7,5 cm tabique interior y sanitario; 10 cm caja de escalera. Procedimiento para embutir caños en HCCA. Hormigón y piedra: sin espesores fijos. |
 
+## Lote 12 · AEA 770 edición 2026 (recibido el 2026-11-06)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| @aeaconectada (cuenta oficial de la AEA), Instagram, 26/10/2026: "Lo que debés saber de la nueva edición de AEA 90364-7-770", carrusel de 5 placas | **OFICIAL, resumen** | 49 | Tipo AC no apto; PAT máx. 100 Ω en TT con diferencial ≤ 300 mA (antes 40 Ω); movilidad eléctrica, FV, calefacción por cables, SAI/UPS, THD, simultaneidad, IEC 61439. No trae texto ni fecha de vigencia. Falta el texto completo de la edición 2026. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
