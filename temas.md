@@ -152,3 +152,12 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 
 - [ ] CONEXIÓN · Puesta a tierra en la nueva AEA 770 (2026): máximo 100 Ω con diferencial de hasta 300 mA; antes eran 40 Ω (ficha 49)
 - [ ] CONEXIÓN · Qué trae la AEA 770 edición 2026: cargador de auto eléctrico, solar fotovoltaica, SAI/UPS y tableros IEC 61439 (ficha 49)
+
+## Serie prioritaria · noviembre 2026 · qué cambió en la AEA 770 edición 2026 (fichas 49 y 50) · publicar primero
+
+- [ ] MAL/BIEN · Varios circuitos de uso general en un caño en obra nueva vs. un circuito por caño (edición 2026; excepción de 40 A solo en reformas) (ficha 50)
+- [ ] CONEXIÓN · Puesta a tierra 2026: 100 Ω máximo; hasta 200 Ω solo con autoridad local y diferencial de 30 mA (ficha 50)
+- [ ] CONEXIÓN · Alturas 2026: tomas a 20 cm o más del piso, 15 cm sobre la mesada, llaves a 1,10 m y a 25 cm del marco (ficha 50)
+- [ ] CONEXIÓN · Nuevo factor de simultaneidad 2026: con 10 o más circuitos, 0,50 (ficha 50)
+- [ ] CONEXIÓN · Circuito IUE 2026: máximo 15 bocas y protección de hasta 32 A (ficha 50)
+- [ ] MAL/BIEN · DPS y protección contra sobretensiones permanentes: no son lo mismo (ficha 50, 770.19.5)
