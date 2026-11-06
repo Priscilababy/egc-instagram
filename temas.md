@@ -132,3 +132,10 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] MAL/BIEN · Puerta de 0,70 m vs. paso libre mínimo de 0,80 m y 2,00 m de alto (ficha 45, 3.4.3)
 - [ ] CONEXIÓN · Medidores: nunca en el mismo local que el gas, y 1 m libre al frente (ficha 45, 3.3.1.6.2)
 - [ ] CONEXIÓN · Alturas mínimas de techo por tipo de local: 2,60 m en dormitorios y estar (ficha 45, 3.3.1.2.1)
+
+## Temas nuevos · noviembre 2026 · arquitectura en Córdoba (ficha 46, Código de Edificación de Córdoba)
+
+- [ ] CONEXIÓN · Medidas mínimas de una vivienda en la ciudad de Córdoba: dormitorio, estar, cocina y baño (ficha 46, 3.2.2)
+- [ ] MAL/BIEN · Portero, alarma y cable en el mismo caño que la energía vs. canalizaciones independientes (ficha 46, 5.4.1.3)
+- [ ] CONEXIÓN · Córdoba vs. CABA: altura mínima de techo 2,40 m vs. 2,60 m en dormitorios y estar (fichas 46 y 45)
+- [ ] CONEXIÓN · Corte de gas y electricidad a menos de 5 m de la Línea Municipal en edificios de Córdoba (ficha 46, 5.4)
