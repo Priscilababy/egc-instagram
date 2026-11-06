@@ -121,6 +121,12 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 |---|---|---|---|
 | Código de Edificación de la Ciudad de Buenos Aires, texto ordenado Ley 6.100 y Ley 6.438 (BOCBA 17/08/2021), 492 págs. | **PRIMARIA** (solo CABA) | 45 | Se procesaron: clases de locales, alturas, superficies y lados mínimos de vivienda, cocina, circulaciones, unir y dividir locales, puertas, baños, iluminación y ventilación, medidores, instalaciones eléctricas y muros. **No** trae espesores de tabiques ni muros comunes: los remite a los Reglamentos Técnicos, que no están en esta biblioteca. Fuera de CABA, usar solo como referencia. |
 
+## Lote 10 · código de edificación de Córdoba (recibido el 2026-11-06)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| Código de Edificación de la Ciudad de Córdoba, compilado, Ord. 9387/95 y modificatorias (hasta Ord. 13238/22), reglamentado por Dec. 463/96. Dirección de Obras Privadas y Uso del Suelo. 124 págs. | **PRIMARIA** (solo ciudad de Córdoba) | 46 | Se procesaron: grupos de locales, dimensiones mínimas de vivienda, alturas, iluminación y ventilación, baños, subdivisión, puertas y pasillos, muros, instalación eléctrica y medidores. **No** fija espesores de muros ni tabiques, ni ancho de puertas y pasillos internos de la vivienda. La instalación eléctrica la remite a EPEC y a la AEA 90364-7-771 ed. 2006 "o las que la reemplacen". Fuera de la ciudad de Córdoba, usar solo como referencia. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
