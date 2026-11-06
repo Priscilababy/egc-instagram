@@ -127,6 +127,13 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 |---|---|---|---|
 | Código de Edificación de la Ciudad de Córdoba, compilado, Ord. 9387/95 y modificatorias (hasta Ord. 13238/22), reglamentado por Dec. 463/96. Dirección de Obras Privadas y Uso del Suelo. 124 págs. | **PRIMARIA** (solo ciudad de Córdoba) | 46 | Se procesaron: grupos de locales, dimensiones mínimas de vivienda, alturas, iluminación y ventilación, baños, subdivisión, puertas y pasillos, muros, instalación eléctrica y medidores. **No** fija espesores de muros ni tabiques, ni ancho de puertas y pasillos internos de la vivienda. La instalación eléctrica la remite a EPEC y a la AEA 90364-7-771 ed. 2006 "o las que la reemplacen". Fuera de la ciudad de Córdoba, usar solo como referencia. |
 
+## Lote 11 · Reglamentos Técnicos de muros, CABA (recibido el 2026-11-06)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| Reglamento Técnico RT 020105-01 "Muros cerámicos", versión 2 (dic. 2022). Anexo 17, Res. MJGGC-SSGU 205/22. 7 págs. | **PRIMARIA** (solo CABA) | 48 | Fija medianeras de 0,30 y 0,45 m, muro privativo de 0,15 m, canaletas (5 cm en medianera de 0,30 y en muro privativo) y nichos de medidores a 5 cm del eje. **No** fija tabiques interiores de ladrillo. |
+| Reglamento Técnico RT-041300-020105-02 "Muros no cerámicos", versión 2 (dic. 2022). Anexo 18, Res. MJGGC-SSGU 205/22. 6 págs. | **PRIMARIA** (solo CABA) | 47 | Espesores mínimos de HCCA: 12,5 cm exterior y entre unidades; 7,5 cm tabique interior y sanitario; 10 cm caja de escalera. Procedimiento para embutir caños en HCCA. Hormigón y piedra: sin espesores fijos. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
