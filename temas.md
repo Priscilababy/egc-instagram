@@ -139,3 +139,11 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] MAL/BIEN · Portero, alarma y cable en el mismo caño que la energía vs. canalizaciones independientes (ficha 46, 5.4.1.3)
 - [ ] CONEXIÓN · Córdoba vs. CABA: altura mínima de techo 2,40 m vs. 2,60 m en dormitorios y estar (fichas 46 y 45)
 - [ ] CONEXIÓN · Corte de gas y electricidad a menos de 5 m de la Línea Municipal en edificios de Córdoba (ficha 46, 5.4)
+
+## Temas nuevos · noviembre 2026 · canaletas y muros (fichas 47 y 48, Reglamentos Técnicos CABA)
+
+- [ ] MAL/BIEN · Canaleta profunda en una medianera de 30 cm vs. canaleta de 5 cm como máximo (ficha 48, 3.1 b)
+- [ ] MAL/BIEN · Picar un pilar o una columna para pasar un caño vs. desviar el recorrido (ficha 48, 2.8)
+- [ ] CONEXIÓN · Nicho del medidor en la medianera: a 5 cm o más del eje divisorio (ficha 48, 3.4)
+- [ ] MAL/BIEN · Caño embutido en un tabique de HCCA de 7,5 cm sin refuerzo vs. relleno con mortero y malla de fibra de vidrio (ficha 47, 1.3.5.5)
+- [ ] CONEXIÓN · Muro privativo junto al vecino: el caño se coloca al levantar el muro, después no se canaliza (ficha 48, 3.5)
