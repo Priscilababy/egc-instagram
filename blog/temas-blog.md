@@ -37,6 +37,11 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] Protocolo SRT 900/15: qué se mide y qué se entrega · fichas: 29
 - [ ] Extractor de baño: dónde se conecta y qué caudal necesita · fichas: 08, 21
 
+- [ ] Zonas eléctricas en cocinas y lavaderos: dónde van los tomacorrientes cerca de la pileta · fichas: 37, 08
+- [ ] Termotanque eléctrico en el baño: zona permitida, conexión fija y diferencial · fichas: 37, 02
+- [ ] Conexión equipotencial en el baño: qué se une y con qué cable · fichas: 37, 06
+- [ ] Iluminación en baños y duchas: muy baja tensión, Clase II y grado IP por zona · fichas: 37, 10
+
 ## Aire acondicionado
 - [ ] Instalación de un split: distancias, ménsulas y desagote bien hechos · fichas: 16
 - [ ] Vacío en un split: bomba, tiempo y vacuómetro · fichas: 17
