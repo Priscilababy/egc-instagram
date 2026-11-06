@@ -84,6 +84,12 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 | Tolocka, "Instalaciones eléctricas en baños según la reglamentación AEA", profetolocka.com.ar, 21-10-2024 | SECUNDARIA | 37 | Resume la 701 edición 2012 y coincide con ella. Su Fig. 3 reproduce las figuras B.7 y B.8. Ya no hace falta: la ficha 37 usa el texto completo. |
 | Galizia, "Clasificación de áreas en las instalaciones eléctricas", COPAIPA (Salta), febrero 2011 | SECUNDARIA (**histórica**) | 37 | Autor: secretario del CE-10 de la AEA. Describe la **701 edición 2002** y adelanta el borrador de 2011, que coincide con la ficha 37. **No usar** sus figuras 701.A a 701.D de 2002: zona 2 hasta 2,25 m (hoy hasta el cielorraso), zona 3 de 2,40 m (hoy todo el resto del local), lavatorio con H = 60 cm sobre el borde (hoy 0,40 m; el radio de 0,40 m y los 0,15 m siguen igual). Sirve para piscinas (702), saunas (703) y áreas con riesgo de explosión (771), fuera del alcance del planificador. |
 
+## Lote 6 · símbolos gráficos IRAM (recibido el 2026-11-06)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| IRAM 2010 Parte III, "Símbolos gráficos electrotécnicos. Aparatos y dispositivos de mando y protección", diciembre 1988 (33 págs., escaneada sin texto) | **PRIMARIA** (con reservas de vigencia) | 38 | Equivale a IEC 617-7 (1983), hoy reemplazada por IEC 60617. Sirve para esquemas y unifilares, **no** para el plano de planta. No trae símbolo propio de diferencial ni de termomagnética. Verificar edición vigente en iram.org.ar. Derechos de IRAM: no subir el PDF ni copiar los dibujos. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
