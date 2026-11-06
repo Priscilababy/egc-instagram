@@ -49,7 +49,6 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] Cómo armar el croquis de una instalación eléctrica · fichas: 39
 - [ ] Qué incluir en un presupuesto eléctrico para no perder plata · fichas: 42
 - [ ] Puesta en servicio de una instalación: pruebas antes de entregar la obra · fichas: 42, 12
-- [ ] Lámparas con mercurio: qué hacer si se rompe un tubo fluorescente · fichas: 41
 
 ## Aire acondicionado
 - [ ] Instalación de un split: distancias, ménsulas y desagote bien hechos · fichas: 16
