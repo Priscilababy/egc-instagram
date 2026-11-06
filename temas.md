@@ -104,3 +104,16 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] MAL/BIEN · Contacto NA vs. contacto NC en un esquema: cuál es cuál (ficha 38, 07-02-01 y 07-02-03)
 - [ ] CONEXIÓN · Pulsador de marcha NA y de parada NC con bobina de contactor: los símbolos del comando (fichas 38 y 25)
 - [ ] CONEXIÓN · Las marcas del contacto: contactor, interruptor automático, seccionador y seccionador bajo carga (ficha 38, sección 1)
+
+## Temas nuevos · noviembre 2026 · manual del instalador (fichas 39 a 42)
+
+- [ ] CONEXIÓN · ¿Sabías que con 10 mA una persona puede no poder soltar el cable? Umbrales de percepción y de no soltar (ficha 40)
+- [ ] MAL/BIEN · Contacto directo (tocar una parte activa) vs. contacto indirecto (tocar una carcasa con falla) (ficha 40)
+- [ ] MAL/BIEN · Masa solo con puesta a tierra vs. puesta a tierra más diferencial de 30 mA (fichas 40 y 05)
+- [ ] CONEXIÓN · El recorrido de la corriente importa: mano a mano vs. mano a pie, factor de corazón (ficha 40)
+- [ ] MAL/BIEN · Tubo fluorescente roto a la basura vs. juntar, ventilar y llevar a tratamiento (ficha 41, tiene mercurio)
+- [ ] CONEXIÓN · IP vs. IK: agua y polvo vs. golpes (ficha 41)
+- [ ] CONEXIÓN · Cómo medir caños y cables sobre el plano: tramo horizontal más subidas y bajadas (ficha 39)
+- [ ] MAL/BIEN · Caja de embutir sobrecargada de cables vs. respetar el volumen utilizable (ficha 39, tablas de volumen)
+- [ ] CONEXIÓN · Croquis de la instalación: cotas reales, puertas, ventanas y rótulo "croquis sin escala" (ficha 39)
+- [ ] CONEXIÓN · Frecuencia de inspección: vivienda cada 5 años, comercios 3, lugares de reunión 2, riesgo de incendio 1 (ficha 42)
