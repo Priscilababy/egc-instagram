@@ -1,7 +1,8 @@
 # 49 · AEA 90364-7-770 edición 2026: principales cambios (resumen oficial de la AEA)
 
 Fuente: publicación de **@aeaconectada** (cuenta oficial de la AEA) en Instagram, 26 de octubre de 2026: "Lo que debés saber de la nueva edición de AEA 90364-7-770". Carrusel de 5 placas, "Principales cambios técnicos significativos".
-Es un **resumen**, no el texto de la norma. No trae artículos ni fecha de entrada en vigor. La edición 2026 está en preventa en aea.org.ar/reglamentaciones (entregas anunciadas desde el 16/11/2026).
+Es un **resumen**, no el texto de la norma. No trae artículos.
+**Vigencia: desde el 1 de noviembre de 2026** (fuente secundaria: @electroclimalp, Instagram, y resumen de búsqueda que cita el post de la AEA; la página de la AEA no la muestra). Versión digital disponible; impresa desde el 16/11/2026. La edición 2026 está en preventa en aea.org.ar/reglamentaciones (entregas anunciadas desde el 16/11/2026).
 Las fichas 01 a 12 son de la **edición 2017**. Donde esta ficha cambia un valor, avisar de qué edición es cada uno.
 
 - Aclaración de @aeaconectada en los comentarios del mismo post: la edición anterior de la 770 es la de **2017**; la **AEA 90364-7-771 (2006) continúa vigente** (ficha 14).
@@ -17,5 +18,5 @@ Las fichas 01 a 12 son de la **edición 2017**. Donde esta ficha cambia un valor
 ## Cómo usarla en EGC
 - Puesta a tierra: citar **100 Ω (edición 2026)** y aclarar que la edición 2017 fijaba 40 Ω.
 - Diferencial: tipo A como uso general; tipo AC no apto (edición 2026). Post del 28/10/2026 ya publicado.
-- No afirmar fecha de entrada en vigor: el resumen no la da.
+- Desde el 1/11/2026 la vigente es la **edición 2026**: usar 100 Ω y diferencial tipo A, F o B. La 2017 (40 Ω, tipo AC) queda como antecedente.
 - Factores de simultaneidad, THD y detalles de tipo F/B: **sin texto de la norma** todavía. No dar valores hasta tener la edición 2026.
