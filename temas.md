@@ -85,3 +85,15 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] CONEXIÓN · Oficina o local comercial: cuándo se usa la AEA 771 y no la 770 (ficha 14)
 - [ ] AIRE · CONEXIÓN · Frigorías, BTU y kW: cómo se convierten (ficha 15)
 - [ ] CONEXIÓN · Distancia de la instalación eléctrica a las cañerías de gas (ficha 08, 770.17)
+
+## Temas nuevos · noviembre 2026 · baños, cocinas y lavaderos (ficha 37, AEA 90364-7-701 ed. 2012)
+
+- [ ] CONEXIÓN · Zonas 0, 1, 2 y 3 del baño con sus medidas: 2,25 m de alto, 0,60 m de zona 2 y el resto zona 3 (ficha 37, 701.30)
+- [ ] MAL/BIEN · Tomacorriente de 220 V al lado de la ducha (zona 1 o 2) vs. en zona 3 (ficha 37, 701.512.4)
+- [ ] MAL/BIEN · Termotanque eléctrico enchufado a una toma vs. conexión fija sin ficha (ficha 37, 701.55.7)
+- [ ] CONEXIÓN · Zona 1 de la pileta de cocina: 0,15 m desde el borde, radio de 0,40 m desde la canilla y 0,40 m sobre la mesada (ficha 37, figura B.6; no afirmar zona 2 en cocina)
+- [ ] CONEXIÓN · Conexión equipotencial del baño: cobre de 2,5 mm² a cañerías, desagües y marcos metálicos (ficha 37, 701.413.1.6)
+- [ ] MAL/BIEN · Tablero dentro del baño vs. fuera del baño (fichas 37 y 09, 701.512.4)
+- [ ] CONEXIÓN · Luz dentro de la ducha: MBTS de 12 V con transformador de seguridad fuera de las zonas 0, 1 y 2 (fichas 37 y 10, 701.55.2)
+- [ ] MAL/BIEN · Mampara o tabique bajo que "corta" la zona vs. tabique fijo de 2,25 m (ficha 37, 701.30.1 y figura B.2)
+- [ ] CONEXIÓN · Grado IP por zona del baño: IPX7, IPX5, IPX4 e IPX1 (ficha 37, 701.512.2)
