@@ -147,3 +147,8 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] CONEXIÓN · Nicho del medidor en la medianera: a 5 cm o más del eje divisorio (ficha 48, 3.4)
 - [ ] MAL/BIEN · Caño embutido en un tabique de HCCA de 7,5 cm sin refuerzo vs. relleno con mortero y malla de fibra de vidrio (ficha 47, 1.3.5.5)
 - [ ] CONEXIÓN · Muro privativo junto al vecino: el caño se coloca al levantar el muro, después no se canaliza (ficha 48, 3.5)
+
+## Temas nuevos · noviembre 2026 · AEA 770 edición 2026 (ficha 49)
+
+- [ ] CONEXIÓN · Puesta a tierra en la nueva AEA 770 (2026): máximo 100 Ω con diferencial de hasta 300 mA; antes eran 40 Ω (ficha 49)
+- [ ] CONEXIÓN · Qué trae la AEA 770 edición 2026: cargador de auto eléctrico, solar fotovoltaica, SAI/UPS y tableros IEC 61439 (ficha 49)
