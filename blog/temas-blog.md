@@ -53,6 +53,8 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] Símbolos eléctricos para planos de vivienda según IRAM: guía para leer y dibujar el plano · fichas: 43
 - [ ] Cómo presentar un plano eléctrico prolijo: formato, rótulo, escalas y cotas según normas IRAM · fichas: 44, 39
 
+- [ ] Medidas mínimas de una vivienda en CABA que todo electricista debería conocer: locales, pasillos, puertas y baños · fichas: 45
+
 ## Aire acondicionado
 - [ ] Instalación de un split: distancias, ménsulas y desagote bien hechos · fichas: 16
 - [ ] Vacío en un split: bomba, tiempo y vacuómetro · fichas: 17
