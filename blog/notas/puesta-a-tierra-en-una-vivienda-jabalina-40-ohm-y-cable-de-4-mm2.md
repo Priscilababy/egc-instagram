@@ -1,10 +1,10 @@
-La vivienda tiene que tener su propia toma de tierra, independiente de la de la distribuidora y dentro del inmueble, con una resistencia de **40 Ω como máximo**. De esa toma sale un cable de puesta a tierra de **4 mm² como mínimo** hasta la barra de tierra del tablero principal, y desde esa barra recorre toda la instalación el conductor de protección (PE), verde-amarillo, de **2,5 mm² como mínimo**. Así lo pide la AEA 90364-7-770 para el esquema TT, que es el que se usa en viviendas.
+La vivienda tiene que tener su propia toma de tierra, independiente de la de la distribuidora y dentro del inmueble, con una resistencia de **100 Ω como máximo** (AEA 90364-7-770, edición 2026; la edición 2017 fijaba 40 Ω). De esa toma sale un cable de puesta a tierra de **4 mm² como mínimo** hasta la barra de tierra del tablero principal, y desde esa barra recorre toda la instalación el conductor de protección (PE), verde-amarillo, de **2,5 mm² como mínimo**. Así lo pide la AEA 90364-7-770 para el esquema TT, que es el que se usa en viviendas.
 
 ## Qué es el esquema TT y qué pide la toma de tierra
 
 En el esquema TT la vivienda tiene su **propia toma de tierra de protección**, eléctricamente independiente de la tierra de servicio de la distribuidora. Esa toma queda dentro de los límites del inmueble y se une a todas las masas mediante el conductor PE (AEA 90364-7-770, 770.3.2).
 
-El valor que manda es la resistencia de esa toma: **40 Ω como máximo**, de forma permanente. Se puede lograr con una jabalina o con varios electrodos, siempre que estén todos interconectados con un conductor desnudo enterrado.
+El valor que manda es la resistencia de esa toma: **100 Ω como máximo**, con diferenciales de hasta 300 mA. Se puede lograr con una jabalina o con varios electrodos, siempre que estén todos interconectados con un conductor desnudo enterrado.
 
 Un detalle que genera confusión: la puesta a tierra suplementaria que algunas distribuidoras piden unir al neutro en la entrada es un refuerzo de la tierra de servicio. **No** es la tierra de protección de la vivienda.
 
@@ -56,7 +56,7 @@ Se mide preferentemente con **telurímetro**, con la toma **desconectada** de to
 
 ## Preguntas frecuentes
 
-**¿Alcanza con una jabalina?** Depende del valor que mida. La exigencia es que la resistencia de la toma de tierra de protección sea de 40 Ω como máximo. Se pueden usar varios electrodos interconectados si con uno solo no se llega, y el resultado real se verifica con la medición.
+**¿Alcanza con una jabalina?** Depende del valor que mida. La exigencia es que la resistencia de la toma de tierra de protección sea de 100 Ω como máximo. Se pueden usar varios electrodos interconectados si con uno solo no se llega, y el resultado real se verifica con la medición.
 
 **¿El cable de la jabalina es el mismo que el PE?** No. El cable de puesta a tierra, de 4 mm² mínimo, va de la toma a la barra principal de tierra. El PE, de 2,5 mm² mínimo, sale de esa barra y recorre la instalación. Son conductores independientes, aunque compartan canalización.
 
@@ -68,7 +68,8 @@ Una puesta a tierra bien hecha termina con una medición y un papel que la respa
 
 ## Fuentes
 
-- AEA 90364-7-770, 770.3.2 y Tabla 770.3.I: esquema TT, 40 Ω, separación entre tierras.
+- AEA 90364-7-770, edición 2017, 770.3.2 y Tabla 770.3.I: esquema TT, separación entre tierras.
+- AEA 90364-7-770, edición 2026 (resumen oficial de la AEA): resistencia máxima de 100 Ω.
 - AEA 90364-7-770, 770.14.4.1: toma de tierra y medición con la toma desconectada.
 - AEA 90364-7-770, 770.14.4.3 y 770.14.4.4: cámara de inspección y cable de puesta a tierra.
 - AEA 90364-7-770, Tabla 770.14.I: sección del PE y del cable de puesta a tierra.
