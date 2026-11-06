@@ -2,7 +2,7 @@
 
 Fuente: Código de Edificación CABA, Reglamento Técnico **RT-041300-020105-02 "Muros no cerámicos"**, versión 2 (vigencia diciembre 2022). Anexo 18 de la Resolución MJGGC-SSGU 205/22 (IF-2022-46967850-GCABA-SSGU). 6 págs. Reglamenta el art. 4.13 del Código (ver ficha 45).
 Vale para **CABA**. Cubre muros de hormigón, de bloques de hormigón, de piedra y de **HCCA** (hormigón celular curado en autoclave).
-**No** cubre muros de ladrillo cerámico (común o hueco). Ese tema está en otro Reglamento Técnico, que no está en esta biblioteca.
+**No** cubre muros de ladrillo cerámico: ver ficha 48 (RT "Muros cerámicos").
 
 ## Hormigón, bloques y piedra (1.1 y 1.2)
 - Muro de hormigón o de bloques huecos o macizos de hormigón: bloques aptos para el uso previsto.
@@ -41,6 +41,6 @@ Vale para **CABA**. Cubre muros de hormigón, de bloques de hormigón, de piedra
 ## Uso en EGC (planificador)
 - Espesores por defecto si el usuario elige **HCCA** en CABA: exterior y medianera 12,5 cm; tabique interior y sanitario 7,5 cm.
 - Sumar el revoque de cada cara al espesor del dibujo. El RT no fija el espesor del revoque.
-- Para ladrillo común y hueco cerámico: **sin fuente** todavía. No poner valores por defecto como norma.
+- Para ladrillo cerámico: ver ficha 48. Medianeras 0,30 o 0,45 m y muro privativo 0,15 m. Tabiques interiores de ladrillo: sin valor normativo.
 - Tabique de 7,5 cm: avisar que el caño embutido puede ocupar casi todo el espesor. Seguir el procedimiento de 1.3.5.5.
 - Mostrar estos valores como "valores de CABA".
