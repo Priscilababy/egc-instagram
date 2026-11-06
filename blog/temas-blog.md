@@ -42,6 +42,8 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] Conexión equipotencial en el baño: qué se une y con qué cable · fichas: 37, 06
 - [ ] Iluminación en baños y duchas: muy baja tensión, Clase II y grado IP por zona · fichas: 37, 10
 
+- [ ] Símbolos eléctricos IRAM para esquemas y unifilares: cómo se leen · fichas: 38
+
 ## Aire acondicionado
 - [ ] Instalación de un split: distancias, ménsulas y desagote bien hechos · fichas: 16
 - [ ] Vacío en un split: bomba, tiempo y vacuómetro · fichas: 17
