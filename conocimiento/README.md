@@ -66,7 +66,7 @@ Las armó Claude leyendo los documentos que juntó Fran. Los documentos original
 
 ## Avisos sobre temas de `temas.md`
 
-- **AEA 770 edición 2026 (ficha 49):** las fichas 01 a 12 son de la edición 2017. Puesta a tierra: la 2026 fija **100 Ω** máx. (con diferencial ≤ 300 mA); la 2017 fijaba 40 Ω. Diferencial tipo AC: **no apto** en la 2026. Al citar un valor, decir de qué edición es. No afirmar fecha de entrada en vigor.
+- **AEA 770 edición 2026 (ficha 49):** las fichas 01 a 12 son de la edición 2017. Puesta a tierra: la 2026 fija **100 Ω** máx. (con diferencial ≤ 300 mA); la 2017 fijaba 40 Ω. Diferencial tipo AC: **no apto** en la 2026. **Vigente desde el 1/11/2026**: en posteos y notas nuevas usar 100 Ω y diferencial tipo A (AC no apto). Los valores de la 2017 solo como antecedente.
 
 Antes de armar estos temas, leé la ficha indicada. Algunos cambian por completo lo que se puede dibujar.
 
