@@ -54,7 +54,7 @@ Con el grado y los circuitos se calcula la demanda de potencia máxima simultán
 - TUG: 2200 VA por circuito.
 - TUE: 3300 VA por circuito.
 
-Son valores mínimos: si las cargas reales son mayores, se usan las reales. Es optativo aplicar un coeficiente de simultaneidad según la cantidad mínima de circuitos: 1 con 2 circuitos, 0,8 con 3, 0,7 con 5 y 0,6 con 6. A la demanda del grado se le suma la de los circuitos de uso específico. Si la carga total supera 7 kVA o 32 A en monofásico, la norma recomienda pedir suministro trifásico.
+Son valores mínimos: si las cargas reales son mayores, se usan las reales. Es optativo aplicar un coeficiente de simultaneidad según la cantidad mínima de circuitos: 1 con 2 circuitos, 0,7 de 3 a 5, 0,6 de 6 a 9 y 0,5 con 10 o más (AEA 90364-7-770, edición 2026). A la demanda del grado se le suma la de los circuitos de uso específico. Si la carga total supera 7 kVA o 32 A en monofásico, la norma recomienda pedir suministro trifásico.
 
 ## Errores comunes en obra
 
