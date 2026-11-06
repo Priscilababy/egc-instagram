@@ -2,6 +2,8 @@
 
 Fuente: *Manual del Instalador Electricista · Categoría III*, 2.ª edición, Fundación Relevando Peligros (Córdoba, 2020), secciones 3.3, 3.9, 3.10 y 3.11 (págs. 192-196 y 252-256). Fuente **SECUNDARIA**. La sección 3.11 cita a su vez "Criterios en iluminación y color", UTN Santa Fe, 2011.
 
+> **Aviso de vigencia:** hoy en viviendas se usa **LED**. Incandescentes, halógenas y fluorescentes son tecnología en desuso. Esta información sirve como contexto o para reemplazos, **no** para posteos ni notas.
+
 ## Lámparas (3.3, págs. 192-196)
 - **Incandescente:** da luz calentando un filamento por efecto Joule. Gran parte de la energía se va en calor.
 - Su uso quedó para lámparas ornamentales y de electrodomésticos de hasta **25 W**, y para lámparas de **50 V o menos**. Marco que cita el manual: Ley 26.473 y Decreto 2060/2010 (pág. 193).
@@ -36,6 +38,6 @@ Fuente: *Manual del Instalador Electricista · Categoría III*, 2.ª edición, F
 - Las clases se identifican por temperatura en °C (antes, por letras). La tabla de valores del manual es imagen: no se transcribe.
 
 ## Ideas para posteos
-- ¿Sabías que un tubo fluorescente tiene mercurio? Qué hacer si se rompe.
 - IP vs. IK: agua y polvo vs. golpes.
 - Por qué el calor acorta la vida de un motor (clase térmica).
+- **No** hacer posteos sobre lámparas fluorescentes, incandescentes ni halógenas: están en desuso.
