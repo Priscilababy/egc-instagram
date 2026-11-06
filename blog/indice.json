@@ -42,8 +42,8 @@
     },
     {
       "slug": "puesta-a-tierra-en-una-vivienda-jabalina-40-ohm-y-cable-de-4-mm2",
-      "titulo": "Puesta a tierra en una vivienda: jabalina, 40 Ω y cable de 4 mm²",
-      "descripcion": "Toma de tierra de 40 Ω como máximo, cable de PAT de 4 mm² y PE de 2,5 mm²: qué pide la AEA 90364-7-770 en el esquema TT.",
+      "titulo": "Puesta a tierra en una vivienda: jabalina, 100 Ω y cable de 4 mm²",
+      "descripcion": "Toma de tierra de 100 Ω como máximo (edición 2026), cable de PAT de 4 mm² y PE de 2,5 mm²: qué pide la AEA 90364-7-770 en el esquema TT.",
       "imagen": "blog/img/puesta-a-tierra-en-una-vivienda-jabalina-40-ohm-y-cable-de-4-mm2.png",
       "creada": "2026-10-19T19:20:00-03:00",
       "publicar": "2026-10-20T19:00:00-03:00",
@@ -143,7 +143,7 @@
     {
       "slug": "cuantas-jabalinas-hacen-falta-y-cuanto-da-cada-una-segun-el-terreno",
       "titulo": "Cuántas jabalinas hacen falta y cuánto da cada una según el terreno",
-      "descripcion": "La norma fija 40 Ω como máximo y se verifica midiendo: el largo de la jabalina pesa más que el diámetro y el terreno decide cuántas hacen falta.",
+      "descripcion": "La norma fija 100 Ω como máximo (edición 2026) y se verifica midiendo: el largo de la jabalina pesa más que el diámetro y el terreno decide cuántas hacen falta.",
       "imagen": "blog/img/cuantas-jabalinas-hacen-falta-y-cuanto-da-cada-una-segun-el-terreno.png",
       "creada": "2026-11-04T19:16:51-03:00",
       "publicar": "2026-11-05T19:00:00-03:00",
