@@ -97,3 +97,10 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] CONEXIÓN · Luz dentro de la ducha: MBTS de 12 V con transformador de seguridad fuera de las zonas 0, 1 y 2 (fichas 37 y 10, 701.55.2)
 - [ ] MAL/BIEN · Mampara o tabique bajo que "corta" la zona vs. tabique fijo de 2,25 m (ficha 37, 701.30.1 y figura B.2)
 - [ ] CONEXIÓN · Grado IP por zona del baño: IPX7, IPX5, IPX4 e IPX1 (ficha 37, 701.512.2)
+
+## Temas nuevos · noviembre 2026 · símbolos IRAM para esquemas (ficha 38, IRAM 2010 Parte III)
+
+- [ ] CONEXIÓN · Cómo leer un unifilar: símbolos IRAM de interruptor, seccionador, fusible y contactor (ficha 38, sección 13 y 21)
+- [ ] MAL/BIEN · Contacto NA vs. contacto NC en un esquema: cuál es cuál (ficha 38, 07-02-01 y 07-02-03)
+- [ ] CONEXIÓN · Pulsador de marcha NA y de parada NC con bobina de contactor: los símbolos del comando (fichas 38 y 25)
+- [ ] CONEXIÓN · Las marcas del contacto: contactor, interruptor automático, seccionador y seccionador bajo carga (ficha 38, sección 1)
