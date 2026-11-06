@@ -59,6 +59,7 @@ Las armó Claude leyendo los documentos que juntó Fran. Los documentos original
 | [43-iram-2010-simbolos-de-instalacion-en-planta.md](43-iram-2010-simbolos-de-instalacion-en-planta.md) | IRAM 2010 Sección IV: símbolos del plano de planta (bocas, llaves, tomas, tableros, medidor, cañerías, montantes, timbre) |
 | [44-iram-dibujo-tecnico-formatos-rotulo-lineas-escalas.md](44-iram-dibujo-tecnico-formatos-rotulo-lineas-escalas.md) | IRAM 4502 a 4513: formatos A, márgenes, plegado, rótulo, tipos de línea, letras, escalas y acotación |
 | [45-codigo-edificacion-caba-locales-puertas-banos.md](45-codigo-edificacion-caba-locales-puertas-banos.md) | Código de Edificación CABA: clases de locales, alturas, superficies y lados mínimos, pasillos, puertas, baños, ventilación, medidores |
+| [46-codigo-edificacion-cordoba-locales-puertas-banos.md](46-codigo-edificacion-cordoba-locales-puertas-banos.md) | Código de Edificación de Córdoba: grupos de locales, alturas, dimensiones mínimas, ventilación, baños, puertas, muros, instalación eléctrica y medidores. Tabla de diferencias con CABA |
 
 ## Avisos sobre temas de `temas.md`
 
@@ -105,3 +106,4 @@ Las fichas 23 a 30 salen de **artículos de revista** (fuente SECUNDARIA). Si ch
 - **Manual de Córdoba (fichas 39 a 42):** es fuente SECUNDARIA basada en la 771. Antes de usar un número de esas fichas, revisar la lista "No usar del manual" en `00-fuentes.md` (Lote 7). Si una ficha 01 a 12 dice otra cosa, gana la ficha 01 a 12.
 - **Temas vigentes, no viejos:** no hacer posteos ni notas sobre tecnología en desuso (tubos y lámparas fluorescentes, incandescentes, halógenas, balastos, cables y prácticas reemplazadas). Si una ficha trae algo viejo, usarlo solo como contexto. Antes de elegir un tema, preguntarse si un electricista lo instala hoy.
 - **Arquitectura (ficha 45):** valores del Código de Edificación de **CABA**. Fuera de CABA, citarlos como "en CABA". No afirmar espesores de muros: no hay fuente.
+- **Arquitectura (ficha 46):** valores del Código de Edificación de la **ciudad de Córdoba**. Citarlos como "en Córdoba". No mezclar con los de CABA (ficha 45) sin aclarar de dónde es cada uno.
