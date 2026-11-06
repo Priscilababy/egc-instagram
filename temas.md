@@ -125,3 +125,10 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] CONEXIÓN · Qué dice la línea de una cañería en el plano: rayitas = conductores, número de arriba = caño, número de abajo = sección (ficha 43, A 2906)
 - [ ] CONEXIÓN · El rótulo del plano: dónde va y qué datos lleva (ficha 44, IRAM 4508)
 - [ ] MAL/BIEN · Cotas cruzadas y amontonadas vs. cotas en cadena por fuera del dibujo (ficha 44, IRAM 4513)
+
+## Temas nuevos · noviembre 2026 · arquitectura que el electricista debe conocer (ficha 45, Código de Edificación CABA)
+
+- [ ] CONEXIÓN · Medidas mínimas de baños en CABA: tipo I, tipo II, baño mínimo y toilette (ficha 45, 3.5.2.1)
+- [ ] MAL/BIEN · Puerta de 0,70 m vs. paso libre mínimo de 0,80 m y 2,00 m de alto (ficha 45, 3.4.3)
+- [ ] CONEXIÓN · Medidores: nunca en el mismo local que el gas, y 1 m libre al frente (ficha 45, 3.3.1.6.2)
+- [ ] CONEXIÓN · Alturas mínimas de techo por tipo de local: 2,60 m en dormitorios y estar (ficha 45, 3.3.1.2.1)
