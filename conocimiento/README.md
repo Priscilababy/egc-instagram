@@ -52,6 +52,10 @@ Las armó Claude leyendo los documentos que juntó Fran. Los documentos original
 | [30-ambitos-especiales-cercas-y-estaciones-de-servicio.md](30-ambitos-especiales-cercas-y-estaciones-de-servicio.md) | Cercas electrificadas (barrera, distancias) y estaciones de servicio (Sección 790) |
 | [37-aea-701-banos-cocinas-y-lavaderos.md](37-aea-701-banos-cocinas-y-lavaderos.md) | AEA 701: zonas 0 a 3 en baños, cocinas y lavaderos, IP por zona, qué va en cada zona, equipotencial, termotanques |
 | [38-iram-2010-3-simbolos-mando-y-proteccion.md](38-iram-2010-3-simbolos-mando-y-proteccion.md) | IRAM 2010-III: símbolos de contactos, interruptor, seccionador, contactor, pulsador, bobinas, fusibles y descargadores para esquemas y unifilares |
+| [39-croquis-plano-y-computo-de-materiales.md](39-croquis-plano-y-computo-de-materiales.md) | Croquis sin escala con cotas y rótulo, símbolos del croquis, unifilar, cómputo de caños, cables y cajas desde el plano, volumen de cajas |
+| [40-efectos-de-la-corriente-en-el-cuerpo.md](40-efectos-de-la-corriente-en-el-cuerpo.md) | Umbrales de percepción, no soltar y fibrilación, recorrido, contacto directo e indirecto, tensiones de seguridad |
+| [41-lamparas-residuos-ip-ik-y-clase-termica.md](41-lamparas-residuos-ip-ik-y-clase-termica.md) | Tipos de lámparas, mercurio y qué hacer si se rompe un tubo, IP e IK, clase térmica de aislantes |
+| [42-presupuesto-puesta-en-servicio-e-inspeccion.md](42-presupuesto-puesta-en-servicio-e-inspeccion.md) | Conceptos de presupuesto y mano de obra, cronograma, pruebas de puesta en servicio, frecuencia de inspección, Res. ERSeP 11/2018 |
 
 ## Avisos sobre temas de `temas.md`
 
@@ -94,3 +98,4 @@ Las fichas 23 a 30 salen de **artículos de revista** (fuente SECUNDARIA). Si ch
 - **Purgado de bomba:** usar el orden corregido de la ficha 27 (todas las tapas puestas antes de encender, nunca en seco).
 - **Baños, cocinas y lavaderos (701):** usar la ficha 37 (edición 2012). Tomas y llaves de 220 V solo en **zona 3**. Termotanque con **conexión fija**, nunca con ficha. **No afirmar** que hay zona 2 alrededor de la pileta de cocina o de lavar: las figuras B.6 y B.7 solo dibujan zonas 0 y 1. No usar medidas de la edición 2002 (zona 3 de 2,40 m, lavatorio con 60 cm de alto).
 - **Símbolos (IRAM 2010 Parte III):** usar la ficha 38 solo para esquemas y unifilares. No hay en la biblioteca símbolos de **plano de planta** (tomas, bocas, llaves): no dibujarlos como "norma IRAM". No inventar un símbolo único de diferencial o de termomagnética.
+- **Manual de Córdoba (fichas 39 a 42):** es fuente SECUNDARIA basada en la 771. Antes de usar un número de esas fichas, revisar la lista "No usar del manual" en `00-fuentes.md` (Lote 7). Si una ficha 01 a 12 dice otra cosa, gana la ficha 01 a 12.
