@@ -116,3 +116,12 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] MAL/BIEN · Caja de embutir sobrecargada de cables vs. respetar el volumen utilizable (ficha 39, tablas de volumen)
 - [ ] CONEXIÓN · Croquis de la instalación: cotas reales, puertas, ventanas y rótulo "croquis sin escala" (ficha 39)
 - [ ] CONEXIÓN · Frecuencia de inspección: vivienda cada 5 años, comercios 3, lugares de reunión 2, riesgo de incendio 1 (ficha 42)
+
+## Temas nuevos · noviembre 2026 · cómo leer y dibujar un plano eléctrico (fichas 43 y 44)
+
+- [ ] CONEXIÓN · Cómo leer un plano eléctrico: bocas de techo, bocas de pared, llaves y tomas según IRAM 2010 (ficha 43)
+- [ ] MAL/BIEN · Toma dibujado sin tierra vs. toma con contacto a tierra en el plano de una vivienda (ficha 43, A 2919 vs. A 2920)
+- [ ] CONEXIÓN · Tablero principal (dos diagonales) vs. tablero seccional (una diagonal) en el plano (ficha 43)
+- [ ] CONEXIÓN · Qué dice la línea de una cañería en el plano: rayitas = conductores, número de arriba = caño, número de abajo = sección (ficha 43, A 2906)
+- [ ] CONEXIÓN · El rótulo del plano: dónde va y qué datos lleva (ficha 44, IRAM 4508)
+- [ ] MAL/BIEN · Cotas cruzadas y amontonadas vs. cotas en cadena por fuera del dibujo (ficha 44, IRAM 4513)
