@@ -90,6 +90,22 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 |---|---|---|---|
 | IRAM 2010 Parte III, "Símbolos gráficos electrotécnicos. Aparatos y dispositivos de mando y protección", diciembre 1988 (33 págs., escaneada sin texto) | **PRIMARIA** (con reservas de vigencia) | 38 | Equivale a IEC 617-7 (1983), hoy reemplazada por IEC 60617. Sirve para esquemas y unifilares, **no** para el plano de planta. No trae símbolo propio de diferencial ni de termomagnética. Verificar edición vigente en iram.org.ar. Derechos de IRAM: no subir el PDF ni copiar los dibujos. |
 
+## Lote 7 · manual de capacitación de Córdoba (recibido el 2026-11-06)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| *Manual del Instalador Electricista · Categoría III*, 2.ª edición, Fundación Relevando Peligros, Córdoba, 2020 (408 págs.) | SECUNDARIA | 39, 40, 41, 42 | Manual de capacitación para la Ley 10.281 de Córdoba. Se apoya en la AEA 90364-7-771 (2006) y en la Guía de 10 kW de la AEA. Útil para croquis, cómputo desde el plano, efectos de la corriente, lámparas, presupuesto e inspección. Los módulos I y II (matemática y electrotecnia básica) no se procesaron como fichas. |
+
+**No usar del manual** (contradice la 770 o normas vigentes; en vivienda manda la 770):
+- Tiempos de disparo del diferencial 0,2 s / 0,1 s / 0,04 s con 10 × IΔn (pág. 137). Vale IEC 61008-1: 300 ms / 150 ms / 40 ms con 5 × IΔn.
+- Hasta 3 circuitos en un caño con carga total de **20 A** (págs. 285 y 298). La 770 admite termomagnéticas que sumen hasta **36 A** (ficha 07).
+- Retornos y alimentación de llaves de **1,5 mm²** (pág. 309). La 770 pide **1 mm²** como mínimo (ficha 04).
+- Termomagnética de **15 A** con cable de 1,5 mm² en el ejemplo (pág. 333). En la 770 el IUG lleva hasta **16 A** (ficha 02).
+- Circuitos IUE y TUE con 12 bocas y tabla de puntos mínimos por ambiente (págs. 280-287): son de la **771**. En vivienda dentro de la 770, usar la ficha 02.
+- Zonas del baño de la **edición 2002** de la 701 (pág. 311: zona 2 hasta 2,25 m, zona 3 de 2,40 m). Usar la ficha 37 (edición 2012).
+- Símbolo de "termomagnético unipolar o monofásico" (tabla 13, pág. 57): en vivienda monofásica la 770 prohíbe termomagnéticas unipolares (ficha 05).
+- Caída de tensión 3 % / 5 % y aislación de 1000 Ω/V (págs. 322-323 y 349): usar las fichas 04 y 12.
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
