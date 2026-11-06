@@ -75,11 +75,20 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 | Semerdjian, "Análisis del factor F de incremento del potencial de tierra en redes de BT con gestión de neutro TN múltiplemente conectado a tierra", AEA, v1.0, agosto 2023 (8 págs.), https://aea.org.ar/pdfviewer/estudio-factor-f/ | SECUNDARIA | 35 | Estudio técnico publicado por la AEA, no reglamentación. Trata la **red de la distribuidora** (TN), no la vivienda (TT): para la vivienda mandan las fichas 06, 23, 31 y 33. Se apoya en EN 50522:2022 y AEA 90479-1:2020, que **no** están en esta biblioteca. La fórmula de RPAT (ec. 5) no se pudo leer bien: no usarla. "Todos los derechos reservados": no subir el PDF ni copiar texto. |
 | Texto técnico "Evaluación de las incertidumbres de medición" (mediciones directas), con aval de la AEA, recibido el 2026-10-31 (autor no indicado) | SECUNDARIA de confianza | 36 | Resume CIPM INC-1 (1980), GUM (IRAM 35050) y EA-4/02 (IRAM 35051), que **no** están en esta biblioteca. Factores k de la distribución triangular (2,33 / 2,42) no coinciden con la GUM (≈ 1,90 / 2,20): no usarlos sin verificar. Las mediciones indirectas no se recibieron. |
 
+## Lote 5 · baños, cocinas y lavaderos (recibido el 2026-11-06)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| AEA 90364-7-701, **edición 2012**, completa (40 págs.: texto, Anexo A unifilares, Anexo B figuras, Anexo C calefacción por cables y folios) | **PRIMARIA** | 37 | **Base de la ficha 37.** Texto oficial leído desde una copia publicada en Scribd (documento 769406911). Páginas citadas: las impresas. Cotas de las figuras B.6 a B.9 leídas de los dibujos. Verificar vigencia, adendas y corrigendas en aea.org.ar. Uso exclusivo: no subir el PDF al repo. |
+| AEA 90364-7-701, edición 2011 (16 págs. de texto, sin anexos) | Reemplazada | — | Primera copia leída (Scribd 400193616). La edición 2012 la reemplaza. Diferencias: en 2011 el caño de zonas 0 y 1 era "rígido"; en 2012 se pide embutido y aislante, con referencia a 521.8 y 521.9. Los pisos calefactores pasaron de 701.771-E a 701.55.7.7 y Anexo C. |
+| Tolocka, "Instalaciones eléctricas en baños según la reglamentación AEA", profetolocka.com.ar, 21-10-2024 | SECUNDARIA | 37 | Resume la 701 edición 2012 y coincide con ella. Su Fig. 3 reproduce las figuras B.7 y B.8. Ya no hace falta: la ficha 37 usa el texto completo. |
+| Galizia, "Clasificación de áreas en las instalaciones eléctricas", COPAIPA (Salta), febrero 2011 | SECUNDARIA (**histórica**) | 37 | Autor: secretario del CE-10 de la AEA. Describe la **701 edición 2002** y adelanta el borrador de 2011, que coincide con la ficha 37. **No usar** sus figuras 701.A a 701.D de 2002: zona 2 hasta 2,25 m (hoy hasta el cielorraso), zona 3 de 2,40 m (hoy todo el resto del local), lavatorio con H = 60 cm sobre el borde (hoy 0,40 m; el radio de 0,40 m y los 0,15 m siguen igual). Sirve para piscinas (702), saunas (703) y áreas con riesgo de explosión (771), fuera del alcance del planificador. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
 - AEA 90364 partes 1 a 6 (reglas generales; por ejemplo, dónde va la llave unipolar y la prueba de polaridad 613.8).
-- AEA 90364-7-701 (baños y locales con ducha o bañera: zonas y volúmenes).
+- AEA 90364-7-701: **ya incorporada** completa en la ficha 37 (edición 2012, Lote 5).
 - AEA 95150 (acometida, pilar y medición).
 - AEA 92305 (protección contra rayos).
 - IRAM 2071 (tomacorrientes 2P+T: posición de los bornes).
