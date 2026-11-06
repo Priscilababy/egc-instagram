@@ -1,0 +1,17 @@
+EGC ya calcula con la nueva AEA 90364-7-770, edición 2026.
+
+La nueva edición rige desde el 1 de noviembre y cambió varios criterios de cálculo. Actualizamos la app para que tus tableros y unifilares salgan con los valores nuevos.
+
+Qué cambió en EGC:
+- Factor de simultaneidad 2026: 1 con 2 circuitos, 0,7 de 3 a 5, 0,6 de 6 a 9 y 0,5 con 10 o más.
+- Circuito IUE: hasta 15 bocas y protección de hasta 32 A.
+- Aviso de canalización: en obra nueva, un circuito por caño. Hasta 3 circuitos de uso general en un caño solo en reformas, con 40 A como máximo.
+- Simulador de puesta a tierra: límite de 100 Ω, con diferenciales de hasta 300 mA.
+
+EGC arma el documento; la firma y la responsabilidad son del profesional interviniente.
+
+Probala 30 días gratis, sin tarjeta. El link está en la bio.
+
+¿Ya estás trabajando con la edición 2026 en tus obras?
+
+#electricistas #instalacioneselectricas #AEA90364 #reglamentacionAEA #tableroelectrico #EGC
