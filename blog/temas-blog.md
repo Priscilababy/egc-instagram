@@ -21,7 +21,7 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [x] Grados de electrificación de una vivienda: circuitos y bocas mínimas · fichas: 02 → grados-de-electrificacion-de-una-vivienda-circuitos-y-bocas-minimas
 - [=] ¿De qué color va el retorno de una llave de luz? · fichas: 03 (ya cubierto en la nota de colores de los cables)
 - [x] Cuántas jabalinas hacen falta y cuánto da cada una según el terreno · fichas: 06, 23 → cuantas-jabalinas-hacen-falta-y-cuanto-da-cada-una-segun-el-terreno
-- [ ] Caños, cajas y cables prohibidos en una instalación domiciliaria · fichas: 07
+- [x] Caños, cajas y cables prohibidos en una instalación domiciliaria · fichas: 07 → que-cables-canos-y-cajas-estan-prohibidos-en-una-instalacion-domiciliaria
 - [ ] Alturas de tomas y llaves: qué dice la reglamentación · fichas: 08
 - [ ] Flotante de tanque de agua: por qué el comando va en muy baja tensión de seguridad · fichas: 10
 - [ ] Tiras LED y fuentes de 12 V: cómo se instalan bien · fichas: 01, 07, 10

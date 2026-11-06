@@ -55,3 +55,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-11-04 · Varios circuitos en el mismo caño: hasta 3 de uso general, 36 A, 15 bocas · CONEXIÓN · posts/2026-11-04-varios-circuitos-un-cano.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=3765826890856089025
 - 2026-11-05 · Térmica de 20 A con 2,5 mm² compartiendo caño · MAL/BIEN · posts/2026-11-05-termica-cano-compartido.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-234050243884726815
 - 2026-11-06 · Código de colores: fase, neutro, PE y retorno de la llave · CONEXIÓN · posts/2026-11-06-colores-cables.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=5759739504475456107
+- 2026-11-07 · NO PROGRAMADO · fin de semana
