@@ -54,6 +54,7 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] Cómo presentar un plano eléctrico prolijo: formato, rótulo, escalas y cotas según normas IRAM · fichas: 44, 39
 
 - [ ] Medidas mínimas de una vivienda en CABA que todo electricista debería conocer: locales, pasillos, puertas y baños · fichas: 45
+- [ ] Medidas mínimas de una vivienda: Córdoba vs. CABA, qué cambia para el plano eléctrico · fichas: 46, 45
 
 ## Aire acondicionado
 - [ ] Instalación de un split: distancias, ménsulas y desagote bien hechos · fichas: 16
