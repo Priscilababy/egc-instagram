@@ -1,8 +1,8 @@
-La cantidad de jabalinas no la fija una regla: la fija el terreno. La AEA 90364-7-770 pide que la toma de tierra de la vivienda tenga una resistencia de **40 Ω como máximo** y que se verifique midiéndola. Con una jabalina alcanza si el terreno es bueno; si el terreno es seco, arenoso o rocoso, hace falta más largo, más jabalinas en paralelo, o ambas cosas. Y entre el largo y el diámetro, el que más pesa es el largo.
+La cantidad de jabalinas no la fija una regla: la fija el terreno. La AEA 90364-7-770, edición 2026 (vigente desde el 1 de noviembre de 2026), pide que la toma de tierra de la vivienda tenga una resistencia de **100 Ω como máximo** y que se verifique midiéndola. Con una jabalina alcanza si el terreno es bueno; si el terreno es seco, arenoso o rocoso, hace falta más largo, más jabalinas en paralelo, o ambas cosas. Y entre el largo y el diámetro, el que más pesa es el largo.
 
 ## Qué exige la reglamentación
 
-En el esquema TT, que es el de las viviendas, la toma de tierra de protección tiene una resistencia de **40 Ω como máximo, de forma permanente** (AEA 90364-7-770, 770.3.2). Se mide sobre el conjunto de electrodos, **desconectado** de todo lo que tiene vinculado (770.14.4.1).
+En el esquema TT, que es el de las viviendas, la toma de tierra de protección tiene una resistencia de **100 Ω como máximo**, con diferenciales de hasta 300 mA (AEA 90364-7-770, edición 2026). La edición 2017 fijaba 40 Ω. Se mide sobre el conjunto de electrodos, **desconectado** de todo lo que tiene vinculado (770.14.4.1).
 
 La norma admite usar varios electrodos, siempre que estén todos interconectados con un conductor desnudo enterrado. Lo que no hace es decir "una jabalina" o "dos jabalinas": el número sale de lo que dé la medición.
 
@@ -19,7 +19,7 @@ Como referencia, estos son valores orientativos de resistividad:
 - Arena o grava seca: unos 1.000 Ω·m.
 - Rocoso: unos 3.000 Ω·m.
 
-Son valores de referencia, no de proyecto. En obras grandes la resistividad se mide antes de proyectar, con el método Wenner. En una vivienda lo que vale es la **medición final** de la toma con telurímetro y el límite de 40 Ω.
+Son valores de referencia, no de proyecto. En obras grandes la resistividad se mide antes de proyectar, con el método Wenner. En una vivienda lo que vale es la **medición final** de la toma con telurímetro y el límite de 100 Ω.
 
 ## Cuánto da una jabalina
 
@@ -35,7 +35,7 @@ Es una tabla conservadora: da valores algo más altos que otros métodos de cál
 De esa tabla salen dos ideas prácticas:
 
 - **El largo pesa mucho más que el diámetro.** Pasar de 1/2" a 3/4" baja la resistencia alrededor de un 5 %. Pasar de 1,5 m a 3 m la baja alrededor de un 45 %.
-- **La resistencia es proporcional a la resistividad.** Con un terreno de 100 Ω·m en vez de 50, los valores de la tabla se duplican. Una jabalina de 1,5 m, que en el ejemplo da 35,2 Ω, daría unos 70 Ω: no llega a los 40 Ω. Por eso en terrenos secos o arenosos una sola jabalina corta puede no alcanzar.
+- **La resistencia es proporcional a la resistividad.** Con un terreno de 100 Ω·m en vez de 50, los valores de la tabla se duplican. Una jabalina de 1,5 m, que en el ejemplo da 35,2 Ω, daría unos 70 Ω: cumple los 100 Ω, pero con poco margen. En terrenos secos, arenosos o rocosos la resistividad es mucho mayor y una sola jabalina corta puede no alcanzar.
 
 ## Qué hacer cuando una jabalina no alcanza
 
@@ -62,9 +62,9 @@ La norma prefiere el **telurímetro**. El método alternativo de referencia hace
 
 ## Preguntas frecuentes
 
-**¿Una sola jabalina alcanza para una vivienda?** Depende del terreno. Si la medición da 40 Ω o menos, sí. Si da más, hay que alargarla o agregar otras en paralelo.
+**¿Una sola jabalina alcanza para una vivienda?** Depende del terreno. Si la medición da 100 Ω o menos, sí. Si da más, hay que alargarla o agregar otras en paralelo.
 
-**¿Por qué la medición manda sobre las tablas?** Porque la resistividad cambia con la humedad, las sales y las capas del suelo. Las tablas son de referencia; el límite de 40 Ω se verifica sobre la toma real.
+**¿Por qué la medición manda sobre las tablas?** Porque la resistividad cambia con la humedad, las sales y las capas del suelo. Las tablas son de referencia; el límite de 100 Ω se verifica sobre la toma real.
 
 **¿Sirve poner una jabalina más gruesa?** Ayuda poco. En la tabla de referencia, pasar de 1/2" a 3/4" baja la resistencia alrededor de un 5 %, mientras que duplicar el largo la baja alrededor de un 45 %.
 
