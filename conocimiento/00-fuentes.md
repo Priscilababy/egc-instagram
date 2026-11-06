@@ -115,6 +115,12 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 | Resolución ENRE 207/95: Reglamentación AEA para la ejecución de instalaciones eléctricas en inmuebles (1995) | **NO USAR** | — | Reglamentación vieja, reemplazada por la AEA 90364 (770, 771, 701). Solo dato histórico. |
 | Anexo VII "Manual de normas y procedimientos de instalación" (redes informáticas en escuelas) | Fuera de ámbito | — | Ya registrado en el Lote 2. Recibido otra vez. |
 
+## Lote 9 · código de edificación (recibido el 2026-11-06)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| Código de Edificación de la Ciudad de Buenos Aires, texto ordenado Ley 6.100 y Ley 6.438 (BOCBA 17/08/2021), 492 págs. | **PRIMARIA** (solo CABA) | 45 | Se procesaron: clases de locales, alturas, superficies y lados mínimos de vivienda, cocina, circulaciones, unir y dividir locales, puertas, baños, iluminación y ventilación, medidores, instalaciones eléctricas y muros. **No** trae espesores de tabiques ni muros comunes: los remite a los Reglamentos Técnicos, que no están en esta biblioteca. Fuera de CABA, usar solo como referencia. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
