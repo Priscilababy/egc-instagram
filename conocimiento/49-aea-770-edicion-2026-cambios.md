@@ -4,6 +4,8 @@ Fuente: publicación de **@aeaconectada** (cuenta oficial de la AEA) en Instagra
 Es un **resumen**, no el texto de la norma. No trae artículos ni fecha de entrada en vigor. La edición 2026 está en preventa en aea.org.ar/reglamentaciones (entregas anunciadas desde el 16/11/2026).
 Las fichas 01 a 12 son de la **edición 2017**. Donde esta ficha cambia un valor, avisar de qué edición es cada uno.
 
+- Aclaración de @aeaconectada en los comentarios del mismo post: la edición anterior de la 770 es la de **2017**; la **AEA 90364-7-771 (2006) continúa vigente** (ficha 14).
+
 ## Cambios que informa la AEA
 - **Diferenciales:** el tipo **AC** pasa a considerarse **no apto** en viviendas, por la gran presencia de corrientes deformadas del equipamiento electrónico. El proyectista elige tipo **A, F o B** según las formas de corriente esperables.
 - **Puesta a tierra de protección (esquema TT):** valor **máximo de 100 Ω**, usando diferenciales de corriente asignada **≤ 300 mA** para la protección contra contactos indirectos por corte automático. (Edición 2017: 40 Ω, ficha 06).
