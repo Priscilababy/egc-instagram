@@ -39,7 +39,7 @@ Para circuitos terminales de tomas, el límite es **3 %** desde el tablero princ
 - **Caño propio.** Un circuito de uso específico no comparte caño con circuitos de uso general o especial (771.12.3.13.2 d).
 - **Conexión fija.** El caño puede llegar hasta la caja de conexión del equipo.
 - **Nada de cordones tipo taller.** Están prohibidos como instalación fija (770.10.1).
-- **Puesta a tierra.** Es obligatoria en los cuatro manuales y en la norma: el PE llega a las dos unidades. En un aparato de conexión fija, el PE va dentro del mismo cable multipolar o en la misma canalización. Uno de los manuales pide una resistencia de tierra menor a 4 Ω, más exigente que los 40 Ω de la norma: conviene anotar la medición en la entrega.
+- **Puesta a tierra.** Es obligatoria en los cuatro manuales y en la norma: el PE llega a las dos unidades. En un aparato de conexión fija, el PE va dentro del mismo cable multipolar o en la misma canalización. Uno de los manuales pide una resistencia de tierra menor a 4 Ω, más exigente que los 100 Ω de la norma (AEA 90364-7-770, edición 2026): conviene anotar la medición en la entrega.
 - **Intemperie.** Las cajas con dispositivos a la intemperie llevan IP44 si no reciben chorros de agua e IP55 si los reciben (770.6.5, nota 2). Si la toma tiene que quedar enchufada a la intemperie, se usan tomas IEC 60309.
 
 ## El cable entre la unidad interior y la exterior
