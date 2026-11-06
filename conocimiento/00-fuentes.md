@@ -139,6 +139,7 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 | Documento | Estado | Ficha | Notas |
 |---|---|---|---|
 | @aeaconectada (cuenta oficial de la AEA), Instagram, 26/10/2026: "Lo que debés saber de la nueva edición de AEA 90364-7-770", carrusel de 5 placas | **OFICIAL, resumen** | 49 | Tipo AC no apto; PAT máx. 100 Ω en TT con diferencial ≤ 300 mA (antes 40 Ω); movilidad eléctrica, FV, calefacción por cables, SAI/UPS, THD, simultaneidad, IEC 61439. No trae texto ni fecha de vigencia. Falta el texto completo de la edición 2026. |
+| Electroclima, carrusel "AEA 90364-7-770 · Nueva edición (noviembre 2026)", Instagram, placas 2 a 9 de 10 | **SECUNDARIA** (divulgación) | 50 | Comparación 2017 vs 2026 por tema. Columna 2017 coincide con las fichas 02, 04, 06 y 07. Placas generadas con IA: confirmar cada valor 2026 con el texto de la norma. Excepción de 200 Ω y cambio de TUG en dormitorio > 12 m²: verificar. |
 
 ## Normas citadas que **no** están en esta biblioteca
 
