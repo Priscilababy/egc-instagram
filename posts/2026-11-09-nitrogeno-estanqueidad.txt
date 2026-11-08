@@ -1,0 +1,20 @@
+Antes de hacer vacío en un split, probá que el circuito no pierda: con nitrógeno seco y regulador.
+
+Para qué sirve: si hay una fuga, el vacío no se sostiene y cargar gas sobre un circuito que pierde es tirar refrigerante. La prueba con nitrógeno encuentra la fuga antes de gastar gas.
+
+Cómo se hace:
+- Presurizá solo con nitrógeno seco y siempre con regulador. Nunca oxígeno, aire comprimido ni acetileno.
+- Subí la presión de a poco. Para equipos domésticos, la buena práctica es arrancar en 30 psi y no pasar de 80 psi en el barrido. La presión de prueba final la marca la placa y el manual del equipo.
+- Dejá presurizado y fijate que la aguja del manómetro no baje: 10 minutos como mínimo (algunos fabricantes piden una segunda etapa de 24 horas).
+- Buscá la fuga con agua jabonosa en cada unión: si hacen burbujas, hay fuga.
+
+Detalles que se olvidan en obra:
+- Al soldar, hacé circular nitrógeno seco a baja velocidad por dentro del caño, antes y durante la soldadura.
+- No uses el gas de la unidad exterior ni el compresor del equipo para "purgar" o hacer vacío: puede quemar el motor. El vacío se hace siempre con bomba.
+- Repasá las uniones con jabón también con el equipo andando: la presión sube y aparecen fugas que en reposo no se ven.
+
+Marco: manual de instalación del fabricante y buenas prácticas del oficio.
+
+Guardalo para la próxima instalación. ¿Probás con nitrógeno siempre o te saltás este paso cuando hay apuro?
+
+#aireacondicionado #refrigeracion #instaladores #split #electricistas #nitrogeno #estanqueidad
