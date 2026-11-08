@@ -164,6 +164,19 @@
         "07"
       ],
       "palabras": 1137
+    },
+    {
+      "slug": "alturas-de-tomas-y-llaves-que-dice-la-reglamentacion",
+      "titulo": "Alturas de tomas y llaves: qué dice la reglamentación AEA (edición 2026)",
+      "descripcion": "A qué altura van las tomas y las llaves de luz según la AEA 90364-7-770: valores de la edición 2026, cambios respecto de 2017 y tomas con pantalla.",
+      "imagen": "blog/img/alturas-de-tomas-y-llaves-que-dice-la-reglamentacion.png",
+      "creada": "2026-11-08T19:17:44-03:00",
+      "publicar": "2026-11-09T19:00:00-03:00",
+      "fichas": [
+        "08",
+        "50"
+      ],
+      "palabras": 1083
     }
   ]
 }
