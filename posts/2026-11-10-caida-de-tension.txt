@@ -1,0 +1,20 @@
+El cable aguanta la corriente, pero al final del recorrido la tensión llega baja.
+
+La caída de tensión es la tensión que se "pierde" en el cable entre el tablero y el artefacto. Cuanto más largo el recorrido y más corriente, más se pierde. Por eso la sección no se elige solo por los amperes: también por el largo.
+
+Cómo se calcula:
+- Se parte de la tabla de la AEA: monofásico, unipolares en caño, cos φ = 0,8. Para 2,5 mm² son 15 V por ampere y por km; para 4 mm², 10.
+- Caída (V) = valor de la tabla × corriente (A) × distancia (km).
+- Ejemplo de la placa: 10 A a 60 m. Con 2,5 mm²: 15 × 10 × 0,06 = 9 V, un 4,1 % de 220 V. Con 4 mm²: 10 × 10 × 0,06 = 6 V, un 2,7 %.
+- Límite en circuitos terminales de iluminación y tomas: 3 % desde el tablero principal hasta el punto más lejano.
+
+Detalles que se olvidan en obra:
+- La distancia es la del recorrido real del caño, no la del plano en línea recta. Contá subidas y bajadas.
+- Subir la sección no reemplaza a la termomagnética: el cable tiene que seguir cumpliendo con la protección.
+- Un cable de 2,5 mm² con una termomagnética de 20 A puede cumplir la corriente admisible y fallar en la caída de tensión si el tramo es largo.
+
+Marco: reglamentación AEA 90364 (AEA 90364-7-770, Tabla 770.15.IV). Diferencial de 30 mA en todos los circuitos terminales y masas a tierra.
+
+Guardalo para la próxima instalación. ¿Cuál fue el tramo más largo que te tocó tirar en una vivienda?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #caidadetension
