@@ -58,3 +58,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-11-07 · NO PROGRAMADO · fin de semana
 - 2026-11-08 · NO PROGRAMADO · fin de semana
 - 2026-11-09 · Prueba de estanqueidad con nitrógeno antes de hacer vacío · CONEXIÓN (AIRE) · posts/2026-11-09-nitrogeno-estanqueidad.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-5886092642313155137
+- 2026-11-10 · Caída de tensión: cuándo el largo del circuito obliga a subir la sección · CONEXIÓN · posts/2026-11-10-caida-de-tension.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-5128570475303187226

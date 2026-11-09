@@ -49,7 +49,7 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [x] MAL/BIEN · Termomagnética de 20 A con cable de 2,5 mm² que comparte caño con otro circuito vs. bajar a 16 A o subir a 4 mm² (fichas 04 y 07; factor 0,80 con 2 circuitos y 0,70 con 3, Tabla 770.12.II)
 - [x] CONEXIÓN · Código de colores: fase, neutro celeste, PE verde y amarillo, y cómo identificar los retornos (ficha 03)
 - [x] AIRE · CONEXIÓN · Prueba de estanqueidad con nitrógeno antes de hacer vacío (ficha 17)
-- [ ] CONEXIÓN · Caída de tensión: cuándo el largo del circuito obliga a subir la sección (ficha 04, Tabla 770.15.IV)
+- [x] CONEXIÓN · Caída de tensión: cuándo el largo del circuito obliga a subir la sección (ficha 04, Tabla 770.15.IV)
 - [ ] MAL/BIEN · Dos cables en un mismo borne de la termomagnética vs. un cable por borne (fichas 09 y 26)
 - [ ] CONEXIÓN · Alturas y ubicación de tomacorrientes y llaves (ficha 08)
 - [ ] AIRE · CONEXIÓN · Mantenimiento preventivo de un split: rutina y qué medir y anotar (ficha 20)
