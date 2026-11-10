@@ -1,0 +1,16 @@
+Sección del cable, termomagnética y caída de tensión, sin hacer cuentas en un papel.
+
+Calcular cada circuito a mano lleva tiempo y es fácil que se escape algo, sobre todo en los recorridos largos. En EGC lo resolvés con la calculadora AEA.
+
+Cómo funciona:
+- Cargás el circuito con su potencia y el largo del recorrido.
+- La calculadora AEA verifica la sección, la termomagnética y la caída de tensión.
+- Después lo sumás al tablero.
+
+Un detalle: en un circuito largo, la caída de tensión puede obligar a subir la sección aunque la corriente dé bien. Por eso conviene verla antes de comprar el cable.
+
+Probala 30 días gratis, sin tarjeta. El link está en la bio.
+
+¿Hacés el cálculo de cada circuito o vas siempre con la misma sección?
+
+#electricistas #instalacioneselectricas #AEA90364 #caidadetension #presupuestos #EGC

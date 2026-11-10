@@ -8,7 +8,7 @@ No prometer nada que la landing no diga. No usar la palabra AAIERIC.
 - [x] Presupuesto por WhatsApp en minutos: PDF con tu logo, tu matrícula y qué incluye el precio
 - [x] Avisos de mantenimiento: "tu próximo trabajo ya lo hiciste" (aire antes del verano, revisión eléctrica anual; nada se envía solo)
 - [x] Protocolo SRT 900/15 desde el celular: una tarjeta por toma, PDF de 3 hojas con el formato del Anexo (la firma es del profesional)
-- [ ] Calculadora AEA: sección del cable, termomagnética y caída de tensión en segundos
+- [x] Calculadora AEA: sección del cable, termomagnética y caída de tensión en segundos
 - [ ] Precios al día por IPC con el dato oficial del INDEC, en un toque
 - [ ] Aire acondicionado: lo que siempre se olvida cobrar (metro extra de cañería, gas adicional, altura, ménsula, pasamuros, desagote)
 - [ ] Cómputo de materiales: la lista para el corralón, con tildado de lo comprado
