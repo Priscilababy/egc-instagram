@@ -1,0 +1,20 @@
+Dos cables en el mismo borne de la termomagnética: uno de los errores más comunes en los tableros.
+
+En el tablero de una vivienda, la reglamentación pide un solo cable por borne, salvo que el borne esté diseñado para más de uno. Colgar dos circuitos del mismo borne no los vuelve dos circuitos: siguen dependiendo de una sola protección.
+
+Cómo se conecta:
+- Cada circuito sale de su propia termomagnética.
+- En cada borne de salida entra un solo cable: la fase por el polo de fase y el neutro por el polo de neutro.
+- En monofásico, termomagnéticas bipolares con los dos polos protegidos. Nada de unipolares ni "1P+N".
+- Cada circuito vuelve por el mismo diferencial del que sale.
+
+Detalles que se olvidan en obra:
+- Si el borne admite más de un cable, lo tiene que decir el fabricante en la hoja técnica del aparato. Si no lo dice, va uno solo.
+- ¿Querés sumar un circuito y no hay lugar? Va otra termomagnética, no un segundo cable en la que ya está. Por eso el tablero se elige con un 20 % de reserva libre.
+- En tableros de hasta 3 circuitos de salida, la norma admite interconectar los aparatos con cable.
+
+Marco: reglamentación AEA 90364. Diferencial de 30 mA en todos los circuitos terminales y todas las masas a tierra.
+
+Guardalo para la próxima instalación. ¿Cuántos tableros abriste con dos o tres cables metidos en el mismo borne?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #tableroelectrico #termomagnetica
