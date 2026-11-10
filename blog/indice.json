@@ -177,6 +177,21 @@
         "50"
       ],
       "palabras": 1083
+    },
+    {
+      "slug": "flotante-de-tanque-de-agua-por-que-el-comando-va-en-mbts",
+      "titulo": "Flotante de tanque de agua: por qué el comando va en muy baja tensión de seguridad (MBTS)",
+      "descripcion": "El flotante dentro de la cisterna o el tanque elevado no va a 220 V: la AEA pide MBTS. Qué condiciones cumple y qué necesita la bomba.",
+      "imagen": "blog/img/flotante-de-tanque-de-agua-por-que-el-comando-va-en-mbts.png",
+      "creada": "2026-11-10T19:20:31-03:00",
+      "publicar": "2026-11-11T19:00:00-03:00",
+      "fichas": [
+        "10",
+        "05",
+        "07",
+        "27"
+      ],
+      "palabras": 1229
     }
   ]
 }
