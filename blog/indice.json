@@ -192,6 +192,23 @@
         "27"
       ],
       "palabras": 1229
+    },
+    {
+      "slug": "tiras-led-y-fuentes-de-12-v-como-se-instalan-segun-la-aea",
+      "titulo": "Tiras LED y fuentes de 12 V: cómo se instalan según la reglamentación AEA",
+      "descripcion": "Fuente con primario y secundario separados, cable de más de 3 m como parte de la instalación y caños separados de 220 V.",
+      "imagen": "blog/img/tiras-led-y-fuentes-de-12-v-como-se-instalan-segun-la-aea.png",
+      "creada": "2026-11-12T19:18:49-03:00",
+      "publicar": "2026-11-13T19:00:00-03:00",
+      "fichas": [
+        "01",
+        "07",
+        "10",
+        "04",
+        "49",
+        "50"
+      ],
+      "palabras": 1369
     }
   ]
 }

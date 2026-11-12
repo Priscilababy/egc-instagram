@@ -24,7 +24,7 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [x] Caños, cajas y cables prohibidos en una instalación domiciliaria · fichas: 07 → que-cables-canos-y-cajas-estan-prohibidos-en-una-instalacion-domiciliaria
 - [x] Alturas de tomas y llaves: qué dice la reglamentación · fichas: 08 → alturas-de-tomas-y-llaves-que-dice-la-reglamentacion
 - [x] Flotante de tanque de agua: por qué el comando va en muy baja tensión de seguridad · fichas: 10 → flotante-de-tanque-de-agua-por-que-el-comando-va-en-mbts
-- [ ] Tiras LED y fuentes de 12 V: cómo se instalan bien · fichas: 01, 07, 10
+- [x] Tiras LED y fuentes de 12 V: cómo se instalan bien · fichas: 01, 07, 10 → tiras-led-y-fuentes-de-12-v-como-se-instalan-segun-la-aea
 - [ ] Cables enterrados dentro del terreno: profundidad y protección · fichas: 11
 - [ ] Verificaciones y mediciones antes de entregar una instalación eléctrica · fichas: 12
 - [ ] Inspección periódica de la instalación eléctrica: cada cuánto y qué revisar · fichas: 12
