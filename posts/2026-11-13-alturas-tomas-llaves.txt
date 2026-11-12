@@ -1,0 +1,22 @@
+Con la edición 2026 de la AEA 770 cambiaron las alturas de tomas y llaves. Así quedan.
+
+La edición 2026 de la reglamentación para viviendas rige desde el 1/11/2026. Si estás marcando cajas en una obra nueva, estas son las medidas que hay que respetar.
+
+Cómo se ubican:
+- Tomas sobre zócalo: a 20 cm o más del piso terminado (la edición 2017 pedía entre 20 y 30 cm).
+- Tomas sobre mesada de cocina, baño o lavadero: al menos 15 cm sobre la mesada (antes eran 10 cm).
+- Llaves: entre 0,90 y 1,30 m del piso; la altura recomendada es 1,10 m.
+- Llaves: a 25 cm o menos del marco de la puerta, del lado del cerradero.
+- Pasillos de más de 3 m: llave de combinación en cada extremo.
+
+Detalles que se olvidan en obra:
+- Toda toma que quede hasta 0,90 m del piso tiene que ser con pantalla (protección contra la introducción de objetos), 2 x 10 A + T. Se pide porque en una vivienda se considera que hay chicos.
+- La llave va del lado del cerradero (el del picaporte), no del lado de las bisagras: ahí la hoja abierta la tapa.
+- Las medidas se toman desde el piso terminado, no desde la losa ni el contrapiso. Si todavía falta el piso, sumá su espesor al marcar.
+- En baños y cocinas, además de la altura sobre mesada, hay que respetar las distancias al agua de la AEA 90364-7-701.
+
+Marco: reglamentación AEA 90364, parte 7-770, edición 2026. Todos los circuitos con diferencial de 30 mA y todas las masas a tierra.
+
+Guardalo para la próxima instalación. ¿Ya estás marcando las cajas con las medidas nuevas o todavía con las de 2017?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #tomacorrientes #obranueva
