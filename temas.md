@@ -51,7 +51,7 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [x] AIRE · CONEXIÓN · Prueba de estanqueidad con nitrógeno antes de hacer vacío (ficha 17)
 - [x] CONEXIÓN · Caída de tensión: cuándo el largo del circuito obliga a subir la sección (ficha 04, Tabla 770.15.IV)
 - [x] MAL/BIEN · Dos cables en un mismo borne de la termomagnética vs. un cable por borne (fichas 09 y 26)
-- [ ] CONEXIÓN · Alturas y ubicación de tomacorrientes y llaves (ficha 08)
+- [x] CONEXIÓN · Alturas y ubicación de tomacorrientes y llaves (ficha 08)
 - [ ] AIRE · CONEXIÓN · Mantenimiento preventivo de un split: rutina y qué medir y anotar (ficha 20)
 - [ ] CONEXIÓN · Medición de resistencia de aislación: cómo se hace y valores mínimos (ficha 12)
 - [ ] CONEXIÓN · Método del 62 %: las tres lecturas para medir la puesta a tierra (fichas 06 y 34)
