@@ -209,6 +209,22 @@
         "50"
       ],
       "palabras": 1369
+    },
+    {
+      "slug": "cables-enterrados-en-una-vivienda-profundidad-y-proteccion",
+      "titulo": "Cables enterrados en una vivienda: profundidad, protección y cinta de advertencia",
+      "descripcion": "Cable con envoltura, 0,7 m de profundidad, ladrillos o loseta encima y cinta roja a 0,2 m de la superficie, según la AEA 770.",
+      "imagen": "blog/img/cables-enterrados-en-una-vivienda-profundidad-y-proteccion.png",
+      "creada": "2026-11-14T19:17:06-03:00",
+      "publicar": "2026-11-15T19:00:00-03:00",
+      "fichas": [
+        "11",
+        "04",
+        "05",
+        "07",
+        "49"
+      ],
+      "palabras": 1378
     }
   ]
 }

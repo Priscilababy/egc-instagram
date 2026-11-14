@@ -62,3 +62,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-11-11 · Dos cables en un mismo borne de la termomagnética vs. un cable por borne · MAL/BIEN · posts/2026-11-11-dos-cables-un-borne.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=6483534651702267268
 - 2026-11-13 · Alturas y ubicación de tomas y llaves (edición 2026) · CONEXIÓN · posts/2026-11-13-alturas-tomas-llaves.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=6971207421110207384
 - 2026-11-14 · NO PROGRAMADO · fin de semana
+- 2026-11-15 · NO PROGRAMADO · fin de semana
