@@ -1,0 +1,29 @@
+Un mantenimiento de split no es solo lavar el filtro: si no medís y anotás, no sabés si el equipo está bien.
+
+Para qué sirve: el preventivo mantiene limpio el equipo y te deja datos para comparar en la próxima visita. Si un valor cambia, lo ves antes de que el equipo falle.
+
+Qué se hace en cada visita:
+- Limpiar o cambiar los filtros.
+- Limpiar la serpentina de la unidad interior y la de la exterior, y la turbina de la interior.
+- Limpiar la bandeja, destapar el desagote y probar que drene.
+- Revisar los ventiladores de la exterior.
+- Revisar y ajustar las conexiones eléctricas y la tornillería.
+- Revisar fugas en las uniones, también en las que ya se repararon.
+
+Qué medir y anotar:
+- Tensión de alimentación y corriente del equipo con pinza amperométrica, comparadas con la placa.
+- Presiones de alta y de baja.
+- Temperatura del aire de retorno y de impulsión en la interior.
+- Temperatura y humedad, adentro y afuera.
+
+Detalles que se olvidan en obra:
+- La exterior se lava sin mojar las partes eléctricas.
+- Llevá una hoja de vida por equipo: datos de placa, cada medición, cada falla, su causa y la solución.
+- Si falta gas, hay una fuga. Se busca y se repara antes de cargar: no se recarga sin reparar.
+- El plazo de limpieza del filtro depende del uso y lo fija el manual del equipo. Algunos modelos avisan en el display.
+
+Marco: manual de instalación del fabricante y buenas prácticas del oficio. Los valores de referencia de presiones y corriente son los del fabricante de cada modelo.
+
+Guardalo para la próxima instalación. ¿Llevás registro de las mediciones de cada equipo o solo limpiás?
+
+#aireacondicionado #refrigeracion #instaladores #split #electricistas #mantenimiento #serviciotecnico
