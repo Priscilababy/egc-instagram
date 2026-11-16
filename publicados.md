@@ -64,3 +64,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-11-14 · NO PROGRAMADO · fin de semana
 - 2026-11-15 · NO PROGRAMADO · fin de semana
 - 2026-11-16 · Mantenimiento preventivo de un split: qué limpiar y qué medir y anotar · CONEXIÓN (AIRE) · posts/2026-11-16-mantenimiento-split.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=3255898723208350920
+- 2026-11-17 · Método del 62 %: las tres lecturas para medir la puesta a tierra · CONEXIÓN · posts/2026-11-17-metodo-62.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-1591784713503883139
