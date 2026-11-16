@@ -26,9 +26,9 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [x] Flotante de tanque de agua: por qué el comando va en muy baja tensión de seguridad · fichas: 10 → flotante-de-tanque-de-agua-por-que-el-comando-va-en-mbts
 - [x] Tiras LED y fuentes de 12 V: cómo se instalan bien · fichas: 01, 07, 10 → tiras-led-y-fuentes-de-12-v-como-se-instalan-segun-la-aea
 - [x] Cables enterrados dentro del terreno: profundidad y protección · fichas: 11 → cables-enterrados-en-una-vivienda-profundidad-y-proteccion
-- [ ] Verificaciones y mediciones antes de entregar una instalación eléctrica · fichas: 12
-- [ ] Inspección periódica de la instalación eléctrica: cada cuánto y qué revisar · fichas: 12
-- [ ] Oficinas y locales: cuándo se aplica la AEA 90364-7-771 · fichas: 14
+- [?] Verificaciones y mediciones antes de entregar una instalación eléctrica · fichas: 12 · Motivo (2026-11-16): la ficha 12 es de la edición 2017; la 2026 renumeró la cláusula 770.19 y no hay texto para confirmar los mínimos de aislación (0,5 MΩ en 2017; la IEC 60364-6 actual pide 1 MΩ).
+- [?] Inspección periódica de la instalación eléctrica: cada cuánto y qué revisar · fichas: 12 · Motivo (2026-11-16): la ficha 12 es de la edición 2017; no se pudo confirmar la periodicidad (5 años) en la edición 2026.
+- [x] Oficinas y locales: cuándo se aplica la AEA 90364-7-771 · fichas: 14 → oficinas-y-locales-cuando-se-aplica-la-aea-90364-7-771
 - [ ] Circuitos ACU, APM y OCE: qué son y cuándo se usan · fichas: 14
 - [ ] Monofásico o trifásico: cuándo conviene pasar a trifásico · fichas: 02
 - [ ] Motores en una instalación: sección del cable y protección de sobrecarga · fichas: 05, 25
