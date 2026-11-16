@@ -1,0 +1,25 @@
+Una sola lectura del telurímetro no alcanza: el método del 62 % pide tres.
+
+Sirve para saber cuánto vale de verdad la toma de tierra de una vivienda (esquema TT) antes de poner la instalación en servicio y en cada inspección periódica.
+
+Cómo se hace:
+- Desconectá la toma de tierra de la instalación (el cable que va a la barra PE) antes de medir.
+- Telurímetro: el borne T va a la jabalina que querés medir.
+- T1 es la punta de corriente: se clava lejos de la toma.
+- T2 es la punta de tensión: se clava en línea, al 62 % de la distancia entre la toma y T1.
+- El instrumento hace circular corriente entre T y T1, mide la tensión entre T y T2 y calcula R = V / I.
+- Repetí la medición con T2 un metro más cerca y un metro más lejos.
+- Si las tres lecturas coinciden, promediás y ese es el valor de la toma.
+
+Lo que se olvida en obra:
+- Si las tres lecturas no coinciden, alejá T1 y repetí todo. Como referencia, otras normas aceptan hasta 10 % de diferencia entre lecturas; la AEA pide que coincidan.
+- La toma se mide desconectada de la instalación. Al terminar, acordate de volver a conectarla y ajustar el borne.
+- La pinza de tierra no reemplaza este método en una vivienda TT con una sola jabalina: la pinza necesita un lazo cerrado con otras tomas y acá no lo hay.
+
+Valor a cumplir: con la AEA 90364-7-770 edición 2026, la toma de tierra de una vivienda en TT tiene que dar 100 Ω o menos (la edición 2017 pedía 40 Ω). Solo donde el terreno no da menos, la autoridad local puede admitir hasta 200 Ω, siempre con diferenciales de 30 mA.
+
+Marco: reglamentación AEA 90364. Diferencial de 30 mA en todos los circuitos terminales y todas las masas al PE.
+
+Guardalo para la próxima instalación. ¿Medís la tierra con telurímetro o todavía te la piden "a ojo"?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #puestaatierra #telurimetro #jabalina
