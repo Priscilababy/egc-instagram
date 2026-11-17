@@ -1,0 +1,25 @@
+La pinza de tierra no sirve para medir la jabalina de una vivienda TT.
+
+La pinza mide la resistencia de puesta a tierra sin clavar electrodos auxiliares. Se usa donde no hay lugar para el método del 62 %, pero solo funciona si hay un lazo cerrado: otras tomas de tierra unidas a la que medís por un conductor.
+
+Por qué en una vivienda TT no anda:
+- En TT la toma de tierra de la vivienda es independiente de la tierra de servicio de la red.
+- Con una sola jabalina no hay camino de retorno: la pinza no mide la resistencia de la toma.
+- Aun con varias tomas unidas, la lectura supone que las otras tienen valores parecidos y que el cable que las une no suma resistencia. En obra real eso no siempre se cumple.
+
+Cómo se mide bien:
+- Desconectá la toma de la instalación antes de medir.
+- Telurímetro: borne T a la jabalina, T1 (corriente) clavada lejos, T2 (tensión) en línea al 62 % de la distancia entre la toma y T1.
+- Repetí con T2 un metro más cerca y un metro más lejos.
+- Si las tres lecturas coinciden, las promediás: ese es el valor de la toma.
+
+Lo que se olvida en obra:
+- Si las lecturas no coinciden, alejá T1 y repetí todo.
+- Al terminar, volvé a conectar la toma a la barra PE y ajustá el borne.
+- Valor a cumplir con la AEA 90364-7-770 edición 2026: 100 Ω o menos en TT (la edición 2017 pedía 40 Ω).
+
+Marco: reglamentación AEA 90364. Diferencial de 30 mA en todos los circuitos terminales y todas las masas al PE.
+
+Guardalo para la próxima instalación. ¿Te pasó que te muestren una medición de tierra hecha con pinza en una casa?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #puestaatierra #telurimetro #jabalina
