@@ -56,7 +56,7 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [?] CONEXIÓN · Medición de resistencia de aislación: cómo se hace y valores mínimos (ficha 12) · Motivo (2026-11-16): la ficha 12 trae el mínimo de la edición 2017 (0,5 MΩ a 500 V, Tabla 770.19.I); no se pudo verificar si la edición 2026 lo cambió (la IEC 60364-6 actual pide 1 MΩ). Confirmar con el texto 2026 antes de publicar.
 - [x] CONEXIÓN · Método del 62 %: las tres lecturas para medir la puesta a tierra (fichas 06 y 34)
 - [x] MAL/BIEN · Medir la tierra de una vivienda TT con pinza vs. con el método del 62 % (ficha 34: la pinza necesita un lazo cerrado)
-- [ ] CONEXIÓN · Resistividad del suelo: método Wenner con 4 picas en línea (ficha 32; sin fórmulas fuera de ámbito)
+- [x] CONEXIÓN · Resistividad del suelo: método Wenner con 4 picas en línea (ficha 32; sin fórmulas fuera de ámbito)
 - [ ] AIRE · MAL/BIEN · Cargar refrigerante "a ojo" vs. por peso con balanza (ficha 17)
 - [ ] CONEXIÓN · Jabalinas en paralelo: separación entre ellas (ficha 31, 771-C.2.2, Nota 2)
 - [ ] CONEXIÓN · Tierra lejana: por qué la puesta a tierra de la vivienda va separada de otras tierras (fichas 06 y 33)
