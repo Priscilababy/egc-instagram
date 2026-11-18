@@ -1,0 +1,24 @@
+Antes de clavar la jabalina, ¿sabés cuánta resistividad tiene ese suelo? Las tablas orientan; el método Wenner la mide.
+
+Sirve para conocer la resistividad real del terreno y diseñar la puesta a tierra con un dato propio, en lugar de suponerlo. La reglamentación pide medir hasta la profundidad del electrodo cuando no se conocen las capas del suelo.
+
+Cómo se conecta:
+- Telurímetro de 4 hilos y 4 picas en línea recta, todas a la misma separación d.
+- Picas 1 y 4 (extremos) a los bornes I1 e I2: por ahí el equipo inyecta la corriente.
+- Picas 2 y 3 (centro) a los bornes P1 y P2: ahí mide la tensión.
+- Picas clavadas poco: 30 cm o menos (profundidad b).
+- El equipo muestra R = V / I. Con d mucho mayor que b, la resistividad sale de ρ ≈ 2 · π · d · R.
+- Ejemplo: d = 2 m y R = 10 Ω dan ρ ≈ 126 Ω·m.
+
+Detalles que se olvidan en obra:
+- Medí con varias separaciones. Cuanto más grande es d, más profundo llega la medición. Si el valor cambia con d, el suelo tiene capas distintas (es lo normal).
+- Con d muy grande la lectura R baja tanto que puede quedar fuera del rango del equipo o dentro de su error.
+- Medí en la época más desfavorable, con frío y sequía: la resistividad sube con menos humedad y menos temperatura.
+
+La resistividad sirve para diseñar. Lo que manda es la medición final de la toma de tierra ya instalada: 100 Ω como máximo según la AEA 90364-7-770 edición 2026.
+
+Marco: reglamentación AEA 90364. Esquema TT, todas las masas a tierra y diferencial de 30 mA en todos los circuitos terminales.
+
+Guardalo para la próxima instalación. ¿Alguna vez mediste la resistividad del terreno antes de elegir dónde clavar la jabalina?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #puestaatierra #telurimetro #resistividad
