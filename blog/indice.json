@@ -239,6 +239,24 @@
         "49"
       ],
       "palabras": 1208
+    },
+    {
+      "slug": "circuitos-acu-apm-y-oce-que-son-y-cuando-se-usan",
+      "titulo": "Circuitos ACU, APM y OCE: qué son y cuándo se usan en una instalación",
+      "descripcion": "Qué alimenta cada circuito de uso específico de la AEA 90364-7-771, qué sección y protección llevan y por qué no cuentan para el mínimo del grado.",
+      "imagen": "blog/img/circuitos-acu-apm-y-oce-que-son-y-cuando-se-usan.png",
+      "creada": "2026-11-18T19:17:54-03:00",
+      "publicar": "2026-11-19T19:00:00-03:00",
+      "fichas": [
+        "14",
+        "02",
+        "04",
+        "05",
+        "18",
+        "49",
+        "50"
+      ],
+      "palabras": 1265
     }
   ]
 }
