@@ -6,3 +6,4 @@
 - 2026-11-10 20:33 · PUBLICADO · `2026-11-10-1900-com-avisos-mantenimiento` · https://www.instagram.com/p/DflGL5QFfuR/
 - 2026-11-12 19:39 · PUBLICADO · `2026-11-12-1900-com-protocolo-srt` · https://www.instagram.com/p/DfqJksBk8k5/
 - 2026-11-14 10:18 · PUBLICADO · `2026-11-14-1000-com-calculadora-aea` · https://www.instagram.com/p/DfuS7uqGPJI/
+- 2026-11-17 23:18 · PUBLICADO · `2026-11-17-1900-com-precios-ipc` · https://www.instagram.com/p/Df3aoV8DYJs/
