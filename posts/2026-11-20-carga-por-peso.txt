@@ -1,0 +1,23 @@
+Si cargás el gas "hasta que parece que enfría", no sabés cuánto le pusiste.
+
+La carga de refrigerante de un split se hace por peso, con balanza. Es el método más seguro: sabés exactamente cuántos gramos entraron y podés dejarlo anotado.
+
+Cómo se carga:
+- Antes de cargar: circuito sin fugas (prueba con nitrógeno seco y agua jabonosa) y vacío con bomba.
+- La cifra sale de la placa del equipo: esa es la carga de fábrica.
+- Si la cañería pasa el largo que viene precargado, se suma el adicional por metro que indica el manual. En los manuales que revisamos, el largo precargado suele ser 5 m y el adicional va de 15 a 30 g por metro: manda el manual de tu modelo.
+- Garrafa sobre la balanza: se controla en la balanza cuántos gramos entran hasta llegar a lo calculado.
+- Las mezclas, como el R-410A, se cargan en fase líquida para no cambiar su composición.
+
+Lo que se olvida en obra:
+- De más también es un problema: con exceso de gas suben las presiones de alta y de baja y la corriente del equipo.
+- Si a un equipo le falta gas, hay una fuga. Se busca y se repara antes de cargar: no se recarga sin reparar.
+- Siempre el gas de la placa: no se mezclan refrigerantes ni se pone otro distinto. Con R-32 (ligeramente inflamable), sin fuentes de ignición cerca y con herramientas aptas.
+
+Dejá un rótulo en el equipo con el tipo de gas y la carga total: el próximo técnico te lo va a agradecer.
+
+Marco: manual de instalación del fabricante y buenas prácticas del oficio.
+
+Guardalo para la próxima instalación. ¿Ya trabajás con balanza o seguís cargando por manómetro?
+
+#aireacondicionado #refrigeracion #instaladores #split #electricistas #cargadegas #refrigerantes
