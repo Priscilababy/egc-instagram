@@ -67,3 +67,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-11-17 · Método del 62 %: las tres lecturas para medir la puesta a tierra · CONEXIÓN · posts/2026-11-17-metodo-62.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-1591784713503883139
 - 2026-11-18 · Medir la tierra de una vivienda TT: pinza vs. método del 62 % · MAL/BIEN · posts/2026-11-18-pinza-vs-telurimetro.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-7265191543181590105
 - 2026-11-19 · Resistividad del suelo: método Wenner con 4 picas en línea · CONEXIÓN · posts/2026-11-19-metodo-wenner.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=5049631514205964712
+- 2026-11-20 · Cargar refrigerante "a ojo" vs. por peso con balanza · MAL/BIEN (AIRE) · posts/2026-11-20-carga-por-peso.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=3312205477954601640
