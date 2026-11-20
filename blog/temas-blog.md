@@ -30,7 +30,7 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [?] Inspección periódica de la instalación eléctrica: cada cuánto y qué revisar · fichas: 12 · Motivo (2026-11-16): la ficha 12 es de la edición 2017; no se pudo confirmar la periodicidad (5 años) en la edición 2026.
 - [x] Oficinas y locales: cuándo se aplica la AEA 90364-7-771 · fichas: 14 → oficinas-y-locales-cuando-se-aplica-la-aea-90364-7-771
 - [x] Circuitos ACU, APM y OCE: qué son y cuándo se usan · fichas: 14 → circuitos-acu-apm-y-oce-que-son-y-cuando-se-usan
-- [ ] Monofásico o trifásico: cuándo conviene pasar a trifásico · fichas: 02
+- [x] Monofásico o trifásico: cuándo conviene pasar a trifásico · fichas: 02 → monofasico-o-trifasico-cuando-conviene-pasar-a-trifasico
 - [ ] Motores en una instalación: sección del cable y protección de sobrecarga · fichas: 05, 25
 - [ ] Poder de corte de una termomagnética: qué es y cómo se elige · fichas: 26
 - [ ] Tablero de bombas en edificios: alternancia, flotantes y puesta a tierra · fichas: 27

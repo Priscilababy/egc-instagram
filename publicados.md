@@ -72,3 +72,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-11-19 · Serie especial AEA 770 2026 (2/4): diferencial tipo AC, A, F o B · PUBLICADO A MANO por Fran · posts/extra-aea2026-diferenciales.png
 - 2026-11-19 · Serie especial AEA 770 2026 (3/4): caño liviano 23 vs. semipesado 33 / pesado 44 · PUBLICADO A MANO por Fran · posts/extra-aea2026-canos.png
 - 2026-11-19 · Serie especial AEA 770 2026 (4/4): detector de arco obligatorio en madera o EPS · PUBLICADO A MANO por Fran · posts/extra-aea2026-afdd.png
+- 2026-11-21 · NO PROGRAMADO · fin de semana

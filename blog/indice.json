@@ -257,6 +257,25 @@
         "50"
       ],
       "palabras": 1265
+    },
+    {
+      "slug": "monofasico-o-trifasico-cuando-conviene-pasar-a-trifasico",
+      "titulo": "Monofásico o trifásico: cuándo conviene pasar a trifásico en una vivienda",
+      "descripcion": "Cuándo la AEA recomienda pedir suministro trifásico, cómo se calcula la carga total y qué cambia en protecciones, colores y reparto de fases.",
+      "imagen": "blog/img/monofasico-o-trifasico-cuando-conviene-pasar-a-trifasico.png",
+      "creada": "2026-11-20T19:16:20-03:00",
+      "publicar": "2026-11-21T19:00:00-03:00",
+      "fichas": [
+        "02",
+        "01",
+        "03",
+        "04",
+        "05",
+        "25",
+        "50",
+        "52"
+      ],
+      "palabras": 1352
     }
   ]
 }
