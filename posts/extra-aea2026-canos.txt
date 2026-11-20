@@ -1,0 +1,19 @@
+El caño corrugado liviano no va embutido en la pared de ladrillo.
+
+Los caños de material aislante se certifican según IRAM 62386. El código impreso indica su resistencia. El primer número es la compresión: 2 liviano, 3 semipesado, 4 pesado.
+
+Cómo se elige:
+- Mampostería: semipesado (código 33) o pesado (código 44) en adelante.
+- Liviano (código 23): solo en construcción en seco.
+- Caño certificado: los 12 dígitos del código, no solo la no propagación de llama.
+
+Detalles que se olvidan en obra:
+- Leé el código impreso en el caño. El color no indica la clasificación.
+- Pedí el certificado al corralón o distribuidor.
+- Ya la edición 2017 pedía compresión media para obra húmeda. La 2026 lo ordena por tipo de obra.
+
+Marco: reglamentación AEA 90364-7-770, edición 2026. Caños IRAM 62386.
+
+Guardalo para la próxima instalación. ¿Qué caño usás en mampostería?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #canalizaciones #materialeselectricos

@@ -1,0 +1,20 @@
+La nueva AEA 90364-7-770 ya está vigente. Y tiene fecha de aplicación obligatoria.
+
+La AEA presentó la edición 2026 de la reglamentación para viviendas. Rige desde el 1 de noviembre de 2026. Según lo presentado por la AEA, su aplicación es obligatoria desde el 1 de marzo de 2027.
+
+Lo que cambia en obra:
+- Puesta a tierra en esquema TT: hasta 100 Ω. La edición 2017 pedía 40 Ω.
+- Diferencial tipo AC: no apto en viviendas. Mínimo, tipo A.
+- Obra nueva: un circuito de uso general por caño.
+- Tomas a 20 cm o más del piso. Llaves entre 0,90 y 1,30 m (recomendada 1,10 m).
+
+Detalles que conviene tener en cuenta:
+- Si arrancás un proyecto hoy, armalo con la edición 2026. Evitás rehacer planos y cómputos en marzo.
+- Los diferenciales AC ya instalados no hay que cambiarlos de inmediato. Se recomienda reemplazarlos.
+- La 771 (2006) para oficinas y locales sigue vigente.
+
+Marco: reglamentación AEA 90364-7-770, edición 2026.
+
+Guardalo para la próxima instalación. ¿Ya trabajás con la edición 2026?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #normativa #AEA770

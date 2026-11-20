@@ -1,0 +1,19 @@
+Tipo AC, A, F o B: no todos los diferenciales sirven en una vivienda.
+
+La edición 2026 de la AEA 90364-7-770 declara no apto el tipo AC en viviendas. Hoy casi todas las cargas tienen electrónica. Esas corrientes deformadas pueden dejar al tipo AC sin actuar.
+
+Cómo se elige:
+- Tipo A: uso general. Detecta alterna y continua pulsante.
+- Tipo F: equipos inverter monofásicos. Cubre cargas con frecuencias mixtas.
+- Tipo B: detecta también continua lisa. Va en cargador de auto eléctrico o inversor fotovoltaico, si el fabricante lo pide.
+
+Detalles que se olvidan en obra:
+- Todos los circuitos terminales llevan diferencial de 30 mA. Eso no cambió.
+- Leé la letra o el símbolo del tipo en el frente del diferencial antes de comprarlo.
+- Los AC ya instalados no hay que cambiarlos de inmediato. Se recomienda reemplazarlos.
+
+Marco: reglamentación AEA 90364-7-770, edición 2026. Diferencial de 30 mA en todos los circuitos terminales.
+
+Guardalo para la próxima instalación. ¿Qué tipo de diferencial instalás hoy?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #diferencial #seguridadelectrica

@@ -1,0 +1,19 @@
+Casa de madera o con telgopor en las paredes: el detector de arco pasa a ser obligatorio.
+
+El AFDD detecta arcos eléctricos en un cable o una conexión floja. La termomagnética y el diferencial no los detectan. Un arco sostenido puede iniciar un incendio.
+
+Cuándo es obligatorio (edición 2026):
+- Construcción de madera con caños de material aislante.
+- Instalación embutida o cubierta con aislación térmica que propaga llama, como el telgopor (EPS).
+- En el resto de la vivienda, el AFDD es recomendado.
+
+Detalles que se olvidan en obra:
+- El AFDD no reemplaza al diferencial ni a la termomagnética. Se suma.
+- Revisá con qué está aislada la pared antes de elegir el caño.
+- Ya la edición 2017 lo pedía con caños aislantes en viviendas con materiales combustibles.
+
+Marco: reglamentación AEA 90364-7-770, edición 2026. Diferencial de 30 mA en todos los circuitos terminales.
+
+Guardalo para la próxima instalación. ¿Ya instalaste algún detector de arco?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #AFDD #construccionenseco
