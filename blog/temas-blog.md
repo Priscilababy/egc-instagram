@@ -67,3 +67,7 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] AEA 770 edición 2026: fechas de vigencia y de aplicación obligatoria, y qué cambia en obra · fichas: 49, 50, 51
 - [ ] Caños aislantes según IRAM 62386: cómo leer los 12 dígitos de clasificación · fichas: 07, 51
 - [ ] Tableros con gabinete vacío: verificación térmica y responsabilidades del tablerista · fichas: 09, 51
+- [ ] Diferencial AC en 2026: qué cambia en obra nueva y qué pasa con lo ya instalado · fichas: 49, 52
+- [ ] Cómo se calcula la demanda en la edición 2026: IUE 120 VA, simultaneidad por circuitos instalados y carga de autos · fichas: 50, 52
+- [ ] Puesta a tierra 2026: de 40 a 100 Ω, de dónde sale cada valor y cuándo se admiten 200 Ω · fichas: 06, 49, 52
+- [ ] Los cinco responsables de un tablero según la edición 2026 · fichas: 09, 52
