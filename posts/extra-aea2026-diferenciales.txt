@@ -1,15 +1,15 @@
 Tipo AC, A, F o B: no todos los diferenciales sirven en una vivienda.
 
-La edición 2026 de la AEA 90364-7-770 declara no apto el tipo AC en viviendas. Hoy casi todas las cargas tienen electrónica. Esas corrientes deformadas pueden dejar al tipo AC sin actuar.
+La edición 2026 de la AEA 90364-7-770 declara no apto el tipo AC en viviendas nuevas. Hoy casi todas las cargas tienen electrónica. Esas corrientes deformadas pueden dejar al tipo AC sin actuar.
 
 Cómo se elige:
 - Tipo A: uso general. Detecta alterna y continua pulsante.
-- Tipo F: equipos inverter monofásicos. Cubre cargas con frecuencias mixtas.
-- Tipo B: detecta también continua lisa. Va en cargador de auto eléctrico o inversor fotovoltaico, si el fabricante lo pide.
+- Tipo F: como el A, pero ve deformaciones de frecuencia más alta. Para equipos inverter.
+- Tipo B: detecta también continua lisa. Va con inversores fotovoltaicos y estaciones de carga de autos en continua.
 
 Detalles que se olvidan en obra:
 - Todos los circuitos terminales llevan diferencial de 30 mA. Eso no cambió.
-- Leé la letra o el símbolo del tipo en el frente del diferencial antes de comprarlo.
+- Wallbox de carga de auto: seguí la AEA 90364-7-722 y el manual del equipo.
 - Los AC ya instalados no hay que cambiarlos de inmediato. Se recomienda reemplazarlos.
 
 Marco: reglamentación AEA 90364-7-770, edición 2026. Diferencial de 30 mA en todos los circuitos terminales.

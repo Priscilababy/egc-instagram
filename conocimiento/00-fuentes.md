@@ -145,6 +145,7 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 
 | Documento | Estado | Ficha | Notas |
 |---|---|---|---|
+| Video "Experiencia AEAconectada", canal oficial de YouTube de la AEA (fsa10yqfvFg), 1 h 37 min. Transcripción automática | **OFICIAL, oral** (redactores del Comité 10) | 52 | Confirma la ficha 51 y corrige: tipo B no para todo wallbox; 200 Ω con autoridad provincial y 30 mA; IUE 120 VA × 2/3 confirmado. La transcripción puede tener errores. |
 | Nota "Novedades en la sección 770 de la AEA 90364", crónica del encuentro "Experiencia AEA conectada" (medio sin identificar) | **SECUNDARIA** (crónica de presentación oficial) | 51 | Obligatoria desde 1/3/2027. Errores detectados: tipos B y F invertidos; excepción de 200 Ω sin la condición de 30 mA; "10 A por carga" mal redactado. Dato dudoso: IUE 500 → 120 VA por boca. Confirmar con el texto de la norma. |
 
 ## Normas citadas que **no** están en esta biblioteca

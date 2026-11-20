@@ -6,10 +6,10 @@ from serie2026 import *
 s = fondo(2, 4, '¿QUÉ DIFERENCIAL', 'VA EN LA CASA?')
 
 filas = [
-    ('AC', ROJO, 'NO APTO EN VIVIENDAS', 'La electrónica lo puede', 'dejar sin actuar'),
+    ('AC', ROJO, 'NO APTO EN OBRA NUEVA', 'Los ya instalados: cambio', 'recomendado, no inmediato'),
     ('A', AMA, 'USO GENERAL', 'Alterna y continua', 'pulsante'),
-    ('F', CIAN, 'EQUIPOS INVERTER', 'Cargas monofásicas con', 'frecuencias mixtas'),
-    ('B', VERDE, 'CONTINUA LISA', 'Cargador de auto o FV,', 'si el fabricante lo pide'),
+    ('F', CIAN, 'EQUIPOS INVERTER', 'Detecta deformaciones de', 'frecuencia más alta'),
+    ('B', VERDE, 'CONTINUA LISA', 'Inversor fotovoltaico o', 'carga de auto en continua'),
 ]
 Y0, H, G = 385, 164, 14
 for i, (letra, color, tit, l1, l2) in enumerate(filas):

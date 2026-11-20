@@ -3,6 +3,7 @@
 Fuente: nota periodística "Novedades en la sección 770 de la AEA 90364" (crónica del encuentro **Experiencia AEA conectada**, transmitido por el canal de YouTube de la AEA). Medio sin identificar en la copia recibida. Recibida el 19/11/2026.
 Fuente **SECUNDARIA**: relata lo expuesto por la AEA, pero no es el texto de la norma. No trae cláusulas ni páginas.
 Control de calidad: se comparó con las fichas 02, 05, 06, 07, 09, 49 y 50. Las diferencias están en "Errores y dudas de la nota".
+**Actualización 19/11/2026:** el video de la presentación (ficha 52) confirma casi todo. Donde difieren, gana la ficha 52.
 
 ## Vigencia
 - Vigente desde el **1/11/2026** (coincide con la ficha 49).
@@ -14,7 +15,7 @@ Control de calidad: se comparó con las fichas 02, 05, 06, 07, 09, 49 y 50. Las 
 ### Proyecto y cálculo
 - **Simultaneidad:** el coeficiente se elige por la cantidad de circuitos **instalados**, no por los mínimos del grado de electrificación. (2017: por cantidad mínima de circuitos, ficha 02).
 - **IUE:** se admiten bocas en **semicubiertos e interiores**. Máximo **15 bocas** (coincide con la ficha 50).
-- **IUE, demanda por boca:** la nota dice "pasa de 500 a 120 VA con factor 2/3". **Dato dudoso:** no usar hasta tener el texto.
+- **IUE, demanda por boca:** pasa de 500 a **120 VA con factor 2/3**. Confirmado por el redactor en el video (ficha 52).
 - **Ventilador de techo:** se suman motor y luminarias y cuentan como **una sola boca**. (2017: una boca, sin regla de suma, ficha 02).
 - **Toma de toilette** derivada del circuito de iluminación: cable de **2,5 mm²** como mínimo. (2017 permitía la toma en el IUG, ficha 02).
 - Todo ambiente lleva **al menos una boca de iluminación**.
@@ -45,9 +46,8 @@ Control de calidad: se comparó con las fichas 02, 05, 06, 07, 09, 49 y 50. Las 
 
 ## Errores y dudas de la nota
 - **Tipos B y F invertidos.** La nota dice "B y F para mayores frecuencias y fugas de continua, respectivamente". Correcto: **F** = frecuencias mixtas (inverter monofásico); **B** = también continua lisa (ficha 50).
-- **200 Ω incompleto.** La nota omite la condición de **diferencial de 30 mA obligatorio** (ficha 50). Además dice autoridad "provincial"; la ficha 50 dice autoridad "local".
-- **"10 A por carga" mal redactado.** Es la **carga máxima** por boca de iluminación (10 A), no un valor que la boca "debe tener" (ficha 02).
-- **IUE 500 → 120 VA:** sin respaldo en otra fuente. La 770 de 2017 no tenía IUE (venía de la 771, ficha 14).
+- **200 Ω ambiguo.** La nota menciona 30 mA, pero no queda claro que es condición para los 200 Ω. Según el video (ficha 52): autoridad de aplicación **provincial** y diferencial de **30 mA**.
+- **"10 A por carga" mal.** Según el video (ficha 52), en IUG el límite pasa de 10 A por carga a **10 A por boca**.
 - Referencias abreviadas: "AEA 712" es **AEA 90364-7-712**.
 - Erratas: "tecnología invertir" (inverter), "de la de la", guiones de corte de línea ("funciona-miento", "exigien-do").
 
@@ -64,5 +64,5 @@ Control de calidad: se comparó con las fichas 02, 05, 06, 07, 09, 49 y 50. Las 
 - Fecha clave para posteos: **obligatoria desde el 1/3/2027**. Citar "según lo presentado por la AEA".
 - Diferencial: no afirmar que hay que cambiar ya los tipo AC existentes. Decir "recomendado".
 - Caños: código 23 solo en seco; mampostería 33 o 44. Sirve para posteos MAL/BIEN.
-- No usar el valor de 120 VA por boca IUE en la calculadora hasta tener la norma.
+- IUE 120 VA × 2/3 por boca: confirmado (ficha 52).
 - Antes de programar cualquier valor de esta ficha, confirmar con el texto de la edición 2026.
