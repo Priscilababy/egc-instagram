@@ -1,40 +1,36 @@
 # -*- coding: utf-8 -*-
-"""Placa extra · AEA 770 edición 2026: fechas clave y cambios principales (fichas 49, 50 y 51)."""
+"""Placa extra 1/4 · AEA 770 edición 2026: fechas clave y cambios principales (fichas 49, 50 y 51). Estilo serie especial."""
 import sys
-from placa import *
+from serie2026 import *
 
-s = encabezado('AEA 770 · EDICIÓN 2026', 'DOS FECHAS CLAVE')
+s = fondo(1, 4, 'LA NUEVA 770', 'YA TIENE FECHA')
 
 # Línea de tiempo
-def fecha(x, color, fondo, d, t1, t2):
-    r = f'<rect x="{x}" y="240" width="450" height="270" rx="24" fill="{fondo}" stroke="{color}" stroke-width="5"/>'
-    r += texto(x + 225, 330, d, 64, color, 'middle')
-    r += texto(x + 225, 400, t1, 40, NAVY, 'middle')
-    r += texto(x + 225, 450, t2, 40, NAVY, 'middle')
-    return r
+s += tarjeta(60, 390, 960, 250)
+s += f'<defs><linearGradient id="linea" x1="0" x2="1"><stop offset="0" stop-color="{CIAN}"/><stop offset="1" stop-color="{AMA}"/></linearGradient></defs>'
+s += f'<rect x="240" y="447" width="600" height="10" rx="5" fill="url(#linea)"/>'
+s += f'<circle cx="240" cy="452" r="24" fill="{CIAN}"/><circle cx="240" cy="452" r="10" fill="{NAVY}"/>'
+s += f'<circle cx="840" cy="452" r="46" fill="{AMA}" opacity="0.55" filter="url(#brillo)"/>'
+s += f'<circle cx="840" cy="452" r="30" fill="url(#ama)"/><circle cx="840" cy="452" r="12" fill="{NAVY}"/>'
+s += t(240, 550, '1/11/2026', 62, CIAN, 'middle', max_w=400)
+s += t(240, 605, 'VIGENTE', 36, BLANCO, 'middle')
+s += t(840, 550, '1/3/2027', 62, AMA, 'middle', max_w=400)
+s += t(840, 605, 'OBLIGATORIA', 36, BLANCO, 'middle')
 
-s += fecha(60, '#2A8FD0', '#EEF7FD', '1/11/2026', 'VIGENTE', 'la nueva edición')
-s += fecha(570, VERDE_OK, '#F3FBF5', '1/3/2027', 'APLICACIÓN', 'OBLIGATORIA')
-s += f'<path d="M515,375 L555,375" stroke="{NAVY}" stroke-width="8"/><path d="M548,360 L566,375 L548,390 z" fill="{NAVY}"/>'
-
-# Cambios principales
-s += texto(60, 590, 'LO QUE CAMBIA EN OBRA', 44, NAVY)
-s += f'<rect x="60" y="606" width="540" height="6" fill="{AMARILLO}"/>'
-filas = [
-    ('Puesta a tierra (TT):', 'hasta 100 Ω (antes 40 Ω)'),
-    ('Diferencial tipo AC:', 'no apto. Mínimo tipo A'),
-    ('Obra nueva: un circuito', 'de uso general por caño'),
-    ('Alturas de tomas y llaves:', 'tomas a 20 cm o más; llaves 0,90 a 1,30 m'),
+# Cambios en obra
+s += t(60, 702, 'LO QUE CAMBIA EN OBRA', 38, TXT2, extra=' letter-spacing="3"')
+celdas = [
+    (60, 725, '100 Ω', 'Tierra máxima en TT', 'antes: 40 Ω'),
+    (555, 725, 'TIPO A', 'Diferencial mínimo', 'el AC no es apto'),
+    (60, 965, '1 CIRCUITO', 'de uso general', 'por caño (obra nueva)'),
+    (555, 965, '0,90 a 1,30 m', 'altura de las llaves', 'tomas: 20 cm o más'),
 ]
-for i, (a, b) in enumerate(filas):
-    Y = 650 + 120 * i
-    s += f'<circle cx="100" cy="{Y+40}" r="34" fill="{NAVY}"/>'
-    s += texto(100, Y + 54, str(i + 1), 40, '#FFF', 'middle')
-    s += texto(160, Y + 30, a, 40, NAVY)
-    s += texto(160, Y + 78, b, 40, '#2A3A4D', 'start', False)
+for x, y, grande, l1, l2 in celdas:
+    s += tarjeta(x, y, 465, 220)
+    s += f'<rect x="{x}" y="{y+30}" width="8" height="160" rx="4" fill="url(#ama)"/>'
+    s += t(x + 40, y + 92, grande, 62, AMA, max_w=410)
+    s += t(x + 40, y + 148, l1, 36, BLANCO, max_w=410)
+    s += t(x + 40, y + 194, l2, 34, TXT2, negrita=False, max_w=410)
 
-s += f'<rect x="60" y="1135" width="960" height="80" rx="18" fill="#FFF6D6" stroke="{AMARILLO}" stroke-width="4"/>'
-s += texto(540, 1190, 'Obra nueva: proyectala ya con la 2026', 40, NAVY, 'middle')
-s += firma('AEA 90364-7-770')
-
+s += pie()
 guardar(s, sys.argv[1] if len(sys.argv) > 1 else 'prueba.png')

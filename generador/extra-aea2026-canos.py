@@ -1,61 +1,51 @@
 # -*- coding: utf-8 -*-
-"""Placa extra · MAL/BIEN: caño corrugado liviano embutido en mampostería (fichas 07 y 51)."""
+"""Placa extra 3/4 · Caño corrugado: liviano solo en seco; mampostería semipesado o pesado (fichas 07 y 51). Estilo serie especial."""
 import sys
-from placa import *
+from serie2026 import *
 
-s = encabezado('CAÑO CORRUGADO', '¿EL LIVIANO EN LA PARED?', linea2_amarilla=True)
+s = fondo(3, 4, 'CAÑO EN LA PARED', 'LEÉ EL CÓDIGO')
+
+# Decodificador del código IRAM 62386
+s += tarjeta(60, 385, 960, 270)
+for i, x in enumerate((100, 250)):
+    s += f'<rect x="{x}" y="420" width="130" height="160" rx="24" fill="url(#ama)"/>'
+    s += t(x + 65, 535, '3', 104, NAVY, 'middle')
+s += t(165, 625, '1.º', 34, TXT2, 'middle', negrita=False)
+s += t(315, 625, '2.º', 34, TXT2, 'middle', negrita=False)
+s += t(430, 455, 'IRAM 62386', 40, AMA, max_w=560)
+s += t(430, 510, '1.º dígito: COMPRESIÓN', 36, BLANCO, max_w=560)
+s += t(430, 560, '2.º dígito: IMPACTO', 36, BLANCO, max_w=560)
+s += t(430, 618, '2 liviano · 3 semipesado · 4 pesado', 32, TXT2, negrita=False, max_w=570)
 
 
-def ladrillos(x, y, w, h):
-    """Muro de ladrillos simple."""
-    r = f'<rect x="{x}" y="{y}" width="{w}" height="{h}" fill="#E9B8A0" stroke="#B5765A" stroke-width="4"/>'
-    fila = 0
-    for yy in range(y, y + h, 44):
-        r += f'<line x1="{x}" y1="{yy}" x2="{x+w}" y2="{yy}" stroke="#C98A6E" stroke-width="3"/>'
-        off = 0 if fila % 2 == 0 else 50
-        for xx in range(x + off, x + w, 100):
-            r += f'<line x1="{xx}" y1="{yy}" x2="{xx}" y2="{min(yy+44, y+h)}" stroke="#C98A6E" stroke-width="3"/>'
-        fila += 1
+def cano(x, y, largo, grosor, color):
+    r = f'<rect x="{x}" y="{y}" width="{largo}" height="{grosor}" rx="{grosor/2}" fill="{color}" stroke="{NAVY}" stroke-width="3"/>'
+    for xx in range(x + 16, x + largo - 8, 18):
+        r += f'<line x1="{xx}" y1="{y+4}" x2="{xx}" y2="{y+grosor-4}" stroke="{NAVY}" stroke-width="3" opacity="0.35"/>'
     return r
 
 
-def cano(x, y, largo, color, aplastado=False):
-    """Caño corrugado horizontal con anillos."""
-    alto = 26 if aplastado else 50
-    yy = y + (12 if aplastado else 0)
-    r = f'<rect x="{x}" y="{yy}" width="{largo}" height="{alto}" rx="{alto/2}" fill="{color}" stroke="{NAVY}" stroke-width="4"/>'
-    for xx in range(x + 20, x + largo - 10, 22):
-        r += f'<line x1="{xx}" y1="{yy+4}" x2="{xx}" y2="{yy+alto-4}" stroke="{NAVY}" stroke-width="3" opacity="0.45"/>'
-    return r
-
-
-def panel(Y, etiqueta, color, fondo, malo):
-    r = f'<rect x="50" y="{Y}" width="980" height="465" rx="24" fill="{fondo}" stroke="{color}" stroke-width="5"/>'
-    r += chip(80, Y + 22, etiqueta, color)
-    r += ladrillos(80, Y + 110, 420, 260)
-    if malo:
-        r += cano(110, Y + 210, 360, '#FFFFFF', aplastado=True)
-        r += texto(290, Y + 420, 'Liviano · código 23', 38, ROJO, 'middle')
-        r += texto(540, Y + 160, 'En mampostería', 40)
-        r += texto(540, Y + 210, 'no va.', 40)
-        r += texto(540, Y + 280, 'Resiste poca', 38, NAVY, 'start', False)
-        r += texto(540, Y + 326, 'compresión.', 38, NAVY, 'start', False)
-        r += texto(540, Y + 396, 'Solo construcción', 38, NAVY, 'start', False)
-        r += texto(540, Y + 440, 'en seco.', 38, NAVY, 'start', False)
+def lado(x, color, codigo, nombre, l1, l2, ok, grosor):
+    r = tarjeta(x, 685, 465, 400, borde=color)
+    r += t(x + 40, 800, codigo, 92, color, max_w=320)
+    # icono
+    r += f'<circle cx="{x+400}" cy="760" r="36" fill="{color}"/>'
+    if ok:
+        r += f'<path d="M{x+382},760 L{x+396},775 L{x+420},745" fill="none" stroke="{NAVY}" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>'
     else:
-        r += cano(110, Y + 210, 360, '#DCE6EF')
-        r += texto(290, Y + 420, 'Código 33 o 44', 38, VERDE_OK, 'middle')
-        r += texto(540, Y + 160, 'Semipesado o pesado', 40)
-        r += texto(540, Y + 210, 'en mampostería.', 40)
-        r += texto(540, Y + 280, 'Caño certificado', 38, NAVY, 'start', False)
-        r += texto(540, Y + 326, 'IRAM 62386.', 38, NAVY, 'start', False)
-        r += texto(540, Y + 396, 'Leé el código impreso,', 38, NAVY, 'start', False)
-        r += texto(540, Y + 440, 'no el color.', 38, NAVY, 'start', False)
+        r += f'<path d="M{x+386},746 L{x+414},774 M{x+414},746 L{x+386},774" stroke="{NAVY}" stroke-width="9" stroke-linecap="round"/>'
+    r += t(x + 40, 860, nombre, 34, BLANCO, max_w=410)
+    r += cano(x + 40, 895 + (40 - grosor) / 2, 385, grosor, '#E8EEF5')
+    r += t(x + 40, 1000, l1, 34, TXT2, negrita=False, max_w=400)
+    r += t(x + 40, 1045, l2, 36, color, max_w=400)
     return r
 
 
-s += panel(230, 'MAL', ROJO, '#FFF5F5', True)
-s += panel(745, 'BIEN', VERDE_OK, '#F3FBF5', False)
-s += firma('AEA 90364-7-770')
+s += lado(60, ROJO, '23', 'LIVIANO', 'Solo en', 'construcción en seco', False, 22)
+s += lado(555, VERDE, '33 · 44', 'SEMIPESADO / PESADO', 'En pared de', 'mampostería', True, 44)
 
+s += f'<rect x="60" y="1102" width="960" height="84" rx="26" fill="url(#ama)" filter="url(#sombra)"/>'
+s += t(540, 1158, 'Leé el código impreso, no el color', 38, NAVY, 'middle', max_w=900)
+
+s += pie()
 guardar(s, sys.argv[1] if len(sys.argv) > 1 else 'prueba.png')

@@ -1,40 +1,36 @@
 # -*- coding: utf-8 -*-
-"""Placa extra · Detector de arco (AFDD): cuándo es obligatorio en vivienda (fichas 05, 07 y 51)."""
+"""Placa extra 4/4 · Detector de arco (AFDD): cuándo es obligatorio en vivienda (fichas 05, 07 y 51). Estilo serie especial."""
 import sys
-from placa import *
+from serie2026 import *
 
-s = encabezado('DETECTOR DE ARCO', '¿CUÁNDO ES OBLIGATORIO?')
+s = fondo(4, 4, 'DETECTOR DE ARCO', '¿CUÁNDO VA SÍ O SÍ?')
 
 # Qué hace
-s += f'<rect x="60" y="230" width="960" height="190" rx="24" fill="#EEF7FD" stroke="#2A8FD0" stroke-width="5"/>'
-s += f'<rect x="85" y="255" width="140" height="140" rx="18" fill="{NAVY}"/>'
-s += f'<path d="M168,272 L128,334 L156,334 L140,380 L188,312 L160,312 L176,272 z" fill="{AMARILLO}"/>'
-s += texto(255, 300, 'AFDD: detecta arcos', 42)
-s += texto(255, 350, 'que la térmica y el diferencial', 36, NAVY, 'start', False)
-s += texto(255, 395, 'no ven. Ayuda a prevenir incendios.', 36, NAVY, 'start', False)
+s += tarjeta(60, 385, 960, 210)
+s += f'<circle cx="160" cy="490" r="70" fill="{AMA}" opacity="0.45" filter="url(#brillo)"/>'
+s += f'<rect x="100" y="430" width="120" height="120" rx="30" fill="{NAVY_D}" stroke="{AMA}" stroke-width="3"/>'
+s += rayo(160, 490, 1.05)
+s += t(260, 460, 'AFDD', 44, AMA)
+s += t(260, 510, 'Detecta arcos que la térmica', 34, BLANCO, negrita=False, max_w=730)
+s += t(260, 555, 'y el diferencial no ven', 34, BLANCO, negrita=False, max_w=730)
 
-# Ecuación: material + caño aislante = obligatorio
-def bloque(x, titulo, l1, l2, color, fondo):
-    r = f'<rect x="{x}" y="470" width="270" height="300" rx="24" fill="{fondo}" stroke="{color}" stroke-width="5"/>'
-    r += texto(x + 135, 545, titulo, 40, color, 'middle')
-    r += texto(x + 135, 640, l1, 34, NAVY, 'middle', False)
-    r += texto(x + 135, 684, l2, 34, NAVY, 'middle', False)
+# Condición
+def chip_cond(x, y, w, titulo, sub, color):
+    r = tarjeta(x, y, w, 170, borde=color)
+    r += t(x + w / 2, y + 78, titulo, 42, color, 'middle', max_w=w - 30)
+    r += t(x + w / 2, y + 128, sub, 32, TXT2, 'middle', negrita=False, max_w=w - 30)
     return r
 
-s += bloque(60, 'MADERA', 'Construcción', 'de madera', '#8A5A2B', '#FBF4EC')
-s += texto(361, 640, 'o', 48, NAVY, 'middle')
-s += bloque(392, 'EPS', 'Aislación de', 'telgopor', '#2A8FD0', '#EEF7FD')
-s += texto(706, 642, '+', 64, NAVY, 'middle')
-s += bloque(750, 'CAÑO', 'De material', 'aislante', NAVY, '#F2F4F7')
+s += chip_cond(60, 625, 420, 'MADERA', 'construcción de madera', '#E0A15C')
+s += t(540, 725, 'o', 48, BLANCO, 'middle')
+s += chip_cond(600, 625, 420, 'TELGOPOR', 'aislación de EPS', CIAN)
+s += t(540, 850, '+', 72, AMA, 'middle')
+s += chip_cond(260, 870, 560, 'CAÑO AISLANTE', 'canalización de material aislante', BLANCO)
 
 # Resultado
-s += f'<path d="M540,790 L540,840" stroke="{NAVY}" stroke-width="10"/><path d="M516,830 L540,862 L564,830 z" fill="{NAVY}"/>'
-s += f'<rect x="60" y="880" width="960" height="140" rx="24" fill="{VERDE_OK}"/>'
-s += texto(540, 970, 'AFDD OBLIGATORIO', 60, '#FFF', 'middle')
+s += f'<rect x="60" y="1068" width="960" height="120" rx="30" fill="url(#ama)" filter="url(#sombra)"/>'
+s += t(540, 1128, 'AFDD OBLIGATORIO', 52, NAVY, 'middle', max_w=900)
+s += t(540, 1172, 'En el resto de la vivienda: recomendado', 32, NAVY, 'middle', negrita=False, max_w=900)
 
-s += f'<rect x="60" y="1060" width="960" height="140" rx="18" fill="#FFF6D6" stroke="{AMARILLO}" stroke-width="4"/>'
-s += texto(540, 1118, 'En el resto de la vivienda:', 38, NAVY, 'middle', False)
-s += texto(540, 1168, 'recomendado', 42, NAVY, 'middle')
-s += firma('AEA 90364-7-770')
-
+s += pie()
 guardar(s, sys.argv[1] if len(sys.argv) > 1 else 'prueba.png')

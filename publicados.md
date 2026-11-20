@@ -68,3 +68,7 @@ La rutina lee esta lista para no repetir temas.
 - 2026-11-18 · Medir la tierra de una vivienda TT: pinza vs. método del 62 % · MAL/BIEN · posts/2026-11-18-pinza-vs-telurimetro.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-7265191543181590105
 - 2026-11-19 · Resistividad del suelo: método Wenner con 4 picas en línea · CONEXIÓN · posts/2026-11-19-metodo-wenner.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=5049631514205964712
 - 2026-11-20 · Cargar refrigerante "a ojo" vs. por peso con balanza · MAL/BIEN (AIRE) · posts/2026-11-20-carga-por-peso.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=3312205477954601640
+- 2026-11-19 · Serie especial AEA 770 2026 (1/4): fechas clave y cambios en obra · PUBLICADO A MANO por Fran · posts/extra-aea2026-fechas.png
+- 2026-11-19 · Serie especial AEA 770 2026 (2/4): diferencial tipo AC, A, F o B · PUBLICADO A MANO por Fran · posts/extra-aea2026-diferenciales.png
+- 2026-11-19 · Serie especial AEA 770 2026 (3/4): caño liviano 23 vs. semipesado 33 / pesado 44 · PUBLICADO A MANO por Fran · posts/extra-aea2026-canos.png
+- 2026-11-19 · Serie especial AEA 770 2026 (4/4): detector de arco obligatorio en madera o EPS · PUBLICADO A MANO por Fran · posts/extra-aea2026-afdd.png
