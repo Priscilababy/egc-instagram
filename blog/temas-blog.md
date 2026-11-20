@@ -64,3 +64,6 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] R-22, R-410A y R-32: qué dice la normativa y cómo se trabaja con cada gas · fichas: 19
 - [ ] Mantenimiento de un split: rutina y diagnóstico por síntomas · fichas: 20
 - [ ] Cómo presupuestar la instalación de un split · fichas: 22
+- [ ] AEA 770 edición 2026: fechas de vigencia y de aplicación obligatoria, y qué cambia en obra · fichas: 49, 50, 51
+- [ ] Caños aislantes según IRAM 62386: cómo leer los 12 dígitos de clasificación · fichas: 07, 51
+- [ ] Tableros con gabinete vacío: verificación térmica y responsabilidades del tablerista · fichas: 09, 51

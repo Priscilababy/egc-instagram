@@ -64,6 +64,7 @@ Las armó Claude leyendo los documentos que juntó Fran. Los documentos original
 | [48-rt-caba-muros-ceramicos-divisorios-canaletas.md](48-rt-caba-muros-ceramicos-divisorios-canaletas.md) | Reglamento Técnico CABA, muros cerámicos: medianeras 0,30 / 0,45 m, muro privativo 0,15 m, canaletas de 5 cm, nichos de medidores |
 | [49-aea-770-edicion-2026-cambios.md](49-aea-770-edicion-2026-cambios.md) | AEA 770 edición 2026 (resumen oficial AEA): tipo AC no apto, PAT máx. 100 Ω en TT con diferencial ≤ 300 mA, movilidad eléctrica, FV, THD, IEC 61439 |
 | [50-aea-770-2017-vs-2026-detalle.md](50-aea-770-2017-vs-2026-detalle.md) | AEA 770 2017 vs 2026 por tema (Electroclima, secundaria): PAT 100 Ω (200 Ω con autoridad local), simultaneidad, caída de tensión, canalizaciones 40 A, alturas de tomas y llaves, IUE 15 bocas/32 A, DPS, IEC 61439 |
+| [51-aea-770-2026-presentacion-experiencia-aea.md](51-aea-770-2026-presentacion-experiencia-aea.md) | AEA 770 2026 según la presentación "Experiencia AEA conectada" (secundaria): obligatoria desde 1/3/2027, caños IRAM 62386 (23 solo en seco; 33/44 en mampostería), conectores IEC 60947/60998, gabinetes vacíos con verificación térmica, AFDD obligatorio en madera/EPS, toilette 2,5 mm². Lista de errores de la nota (tipos B/F invertidos, 200 Ω sin la condición de 30 mA) |
 
 ## Avisos sobre temas de `temas.md`
 
