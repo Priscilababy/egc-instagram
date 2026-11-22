@@ -171,3 +171,14 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] CONEXIÓN · Diferencial "superinmunizado": es un tipo A con filtro, no un tipo aparte (ficha 52)
 - [ ] CONEXIÓN · Toilette y ventilador de techo en la edición 2026: toma derivado en 2,5 mm²; ventilador con luces = una boca (ficha 52)
 - [ ] CONEXIÓN · Tablero con gabinete vacío: verificación térmica con la potencia disipable del fabricante (ficha 52)
+
+## Temas nuevos · noviembre 2026 · pilar T1 Edenor y Edesur (ficha 53)
+
+- [ ] CONEXIÓN · Pilar T1 Edenor: 0,45 m de frente, 2,10 m de alto, acometida entre 4,0 y 4,5 m, caja de medidor entre 0,90 y 1,50 m (ficha 53)
+- [ ] CONEXIÓN · Pilar T1 Edesur: 450 × 450 mm, fundación 600 mm, caja de medidor entre 1,20 y 1,80 m (ficha 53)
+- [ ] MAL/BIEN · Pilar Edenor vs. Edesur: no hay un pilar "universal"; la caja de medidor va a alturas distintas (ficha 53)
+- [ ] CONEXIÓN · Tablero principal en el pilar Edenor: termomagnética máx. 50 A mono / 32 A tri, diferencial 30 mA de calibre igual o mayor (ficha 53)
+- [ ] MAL/BIEN · Poder de corte en Edenor: 4.500 A mono en acometida aérea, 3.000 A en subterránea; no son iguales (ficha 53)
+- [ ] MAL/BIEN · Gabinete de medidor pegado al gas: mínimo 0,30 m en espacio abierto y 0,50 m en espacio cerrado (ficha 53)
+- [ ] MAL/BIEN · Puesta a tierra del frente metálico conectada al neutro: prohibido; va a tierra independiente o equipotencial (ficha 53)
+- [ ] CONEXIÓN · Acometida en fachada Edenor: distancias mínimas del cable a ventanas, balcones y azoteas (ficha 53)
