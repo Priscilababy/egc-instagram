@@ -167,6 +167,13 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 | ENRE, Reglamento de Suministro de Energía Eléctrica (Edenor y Edesur, RQT 2025-2030), actualizado por Anexo XV Res. ENRE 303/2025 y Anexo XVI Res. ENRE 304/2025. 32 págs. https://www.argentina.gob.ar/enre/reglamentos/de-suministro | **PRIMARIA** (regulación) | 54 | Quién pone qué, límite de responsabilidad en el primer seccionamiento del TP, inspección en 5 días hábiles con constancia escrita, un solo punto de suministro, centro de transformación > 60 kVA, suspensión. Sin medidas de pilar. |
 | ENRE, Reglamento de Aplicación para el Sistema de Medición Autoadministrada (Anexos I y II, 26/10/2018). 8 págs. https://www.argentina.gob.ar/enre/reglamentos/de-aplicacion-para-el-sistema-de-medicion-autoadministrada | **PRIMARIA** (solo Edenor) | 54 | Medidor prepago bicuerpo: medición afuera, teclado adentro. Sin detalles de montaje. |
 
+## Lote 16 · Edesur, pilar subterráneo y Anexo L (recibido el 2026-11-22)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| Edesur, "Pilar para medidor T1 tipo subterráneo" (pilart1_planos_subterraneo.pdf, 4 hojas, archivo 2015). https://www.edesur.com.ar/wp-content/uploads/2020/06/pilart1_planos_subterraneo.pdf | **PRIMARIA** (área Edesur) | 53, 55 | Hoja 1 en la ficha 53. Hojas 2 a 4 (pilar trifásico, fachada mono y tri) en la ficha 55. |
+| Edesur, "Requisitos de seguridad eléctrica (Anexo L)", 1 hoja (archivo 2015) | **PRIMARIA** (área Edesur) | 55 | Basado en la Res. ENRE 1098/2006: doble aislación, cierre con herramienta, IP43/IK10 ("IP439"), interruptor automático en el TP, normas de cables y protecciones, señalización. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
