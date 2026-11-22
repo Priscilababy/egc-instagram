@@ -185,3 +185,6 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] CONEXIÓN · Hasta dónde llega la distribuidora: hasta los bornes del primer seccionamiento del tablero principal; desde ahí, el usuario (ficha 54)
 - [ ] CONEXIÓN · Inspección de pilar en Edenor y Edesur: 5 días hábiles y constancia escrita con los motivos si la rechazan (ficha 54)
 - [ ] MAL/BIEN · Gabinete de medidor tapado, sucio o sin luz: el reglamento exige que esté limpio, seco, señalizado, iluminado y accesible (ficha 54)
+- [ ] CONEXIÓN · Edesur subterráneo en fachada: caja de toma a 0,60 m mín., caja de medidor entre 1,20 y 1,80 m, caños embutidos a 5 cm (ficha 55)
+- [ ] MAL/BIEN · Caja de medidor que se abre con la mano vs. cierre con herramienta especial (Anexo L de Edesur) (ficha 55)
+- [ ] CONEXIÓN · Qué significa IP43 / IK10 en una caja de medidor (Anexo L de Edesur) (ficha 55)
