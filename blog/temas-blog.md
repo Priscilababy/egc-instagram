@@ -71,3 +71,7 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] Cómo se calcula la demanda en la edición 2026: IUE 120 VA, simultaneidad por circuitos instalados y carga de autos · fichas: 50, 52
 - [ ] Puesta a tierra 2026: de 40 a 100 Ω, de dónde sale cada valor y cuándo se admiten 200 Ω · fichas: 06, 49, 52
 - [ ] Los cinco responsables de un tablero según la edición 2026 · fichas: 09, 52
+- [ ] Cómo construir un pilar T1 para Edenor: medidas, caños, tablero principal y protecciones · fichas: 53
+- [ ] Cómo construir un pilar T1 para Edesur: medidas, caños y qué pide la distribuidora · fichas: 53
+- [ ] Pilar Edenor vs. Edesur: las diferencias que te pueden rechazar la inspección · fichas: 53
+- [ ] Acometida en fachada: distancias de seguridad a ventanas, balcones y gas · fichas: 53
