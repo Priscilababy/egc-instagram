@@ -74,3 +74,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-11-19 · Serie especial AEA 770 2026 (4/4): detector de arco obligatorio en madera o EPS · PUBLICADO A MANO por Fran · posts/extra-aea2026-afdd.png
 - 2026-11-21 · NO PROGRAMADO · fin de semana
 - 2026-11-22 · NO PROGRAMADO · fin de semana
+- 2026-11-23 · Jabalinas en paralelo: separación entre ellas · CONEXIÓN · posts/2026-11-23-jabalinas-paralelo.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-5030732278396992281
