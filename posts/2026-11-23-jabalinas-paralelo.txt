@@ -1,0 +1,22 @@
+Dos jabalinas clavadas a un metro no rinden como dos jabalinas.
+
+Cuando una sola jabalina no alcanza para llegar al valor de puesta a tierra, se agregan otras en paralelo. Pero si quedan muy juntas, sus zonas de influencia en el suelo se pisan y el conjunto rinde menos de lo que da la cuenta.
+
+Cómo se conecta:
+- Separación recomendada entre jabalinas: 2 veces el largo de la más larga, como mínimo. Con jabalinas de 3 m, 6 m o más.
+- Unión entre jabalinas con conductor de cobre desnudo enterrado: además de unirlas, ayuda a bajar la resistencia total.
+- Cada jabalina con su cámara de inspección: ahí van las uniones entre el electrodo, el cable de puesta a tierra y las interconexiones.
+- Desde la cámara, el cable de puesta a tierra hasta la barra PE del tablero (en vivienda, 4 mm² como mínimo).
+
+Detalles que se olvidan en obra:
+- El conjunto siempre da algo más que el cálculo teórico en paralelo. Con jabalinas de 3 m: 2 a 6 m, cerca de 7 % más; 4 en cuadrado a 6 m, cerca de 20 % más. A 15 m la diferencia baja a 3 % y 8 %.
+- Cuantas más jabalinas, más pesa la separación. Meter 4 en un rincón del patio rinde bastante menos de lo esperado.
+- La unión cable-jabalina va con soldadura cuproaluminotérmica, conector a presión o morsa. Nunca con estaño.
+- El valor se verifica midiendo al terminar la obra: cada jabalina por separado y el sistema completo.
+
+Marco: reglamentación AEA 90364 (AEA 90364-7-771, Anexo 771-C). Esquema TT, diferencial de 30 mA en todos los circuitos terminales y resistencia de puesta a tierra de 100 Ω como máximo según la AEA 90364-7-770 edición 2026 (la edición 2017 pedía 40 Ω). Todas las masas a tierra.
+
+Guardalo para la próxima instalación.
+¿Cuántas jabalinas tuviste que clavar en el peor terreno que te tocó?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #puestaatierra #jabalina
