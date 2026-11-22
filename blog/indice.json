@@ -276,6 +276,22 @@
         "52"
       ],
       "palabras": 1352
+    },
+    {
+      "slug": "motores-en-una-instalacion-seccion-del-cable-y-proteccion-de-sobrecarga",
+      "titulo": "Motores en una instalación: sección del cable y protección de sobrecarga",
+      "descripcion": "El cable al 125 % de la corriente del motor, la maniobra que corta fase y neutro y por qué la termomagnética no protege la sobrecarga.",
+      "imagen": "blog/img/motores-en-una-instalacion-seccion-del-cable-y-proteccion-de-sobrecarga.png",
+      "creada": "2026-11-22T19:20:41-03:00",
+      "publicar": "2026-11-23T19:00:00-03:00",
+      "fichas": [
+        "05",
+        "25",
+        "04",
+        "50",
+        "49"
+      ],
+      "palabras": 1348
     }
   ]
 }
