@@ -182,3 +182,6 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] MAL/BIEN · Gabinete de medidor pegado al gas: mínimo 0,30 m en espacio abierto y 0,50 m en espacio cerrado (ficha 53)
 - [ ] MAL/BIEN · Puesta a tierra del frente metálico conectada al neutro: prohibido; va a tierra independiente o equipotencial (ficha 53)
 - [ ] CONEXIÓN · Acometida en fachada Edenor: distancias mínimas del cable a ventanas, balcones y azoteas (ficha 53)
+- [ ] CONEXIÓN · Hasta dónde llega la distribuidora: hasta los bornes del primer seccionamiento del tablero principal; desde ahí, el usuario (ficha 54)
+- [ ] CONEXIÓN · Inspección de pilar en Edenor y Edesur: 5 días hábiles y constancia escrita con los motivos si la rechazan (ficha 54)
+- [ ] MAL/BIEN · Gabinete de medidor tapado, sucio o sin luz: el reglamento exige que esté limpio, seco, señalizado, iluminado y accesible (ficha 54)
