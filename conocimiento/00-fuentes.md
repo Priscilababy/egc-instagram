@@ -160,6 +160,13 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 | Edenor, poste de madera en zona inundable (T1-AA-SMT-P-ZRI) y fichas de medidores agrupados | Sin procesar | — | Listados en https://www.edenor.com/hogares-y-comercios/nuevo-medidor |
 | ENRE, Reglamento para la Conexión de Nuevos Suministros (T1R Edenor/Edesur), Res. ENRE 225/2011 y 269/2012 | Sin procesar | — | No se pudo leer (lectura automática bloqueada). |
 
+## Lote 15 · reglamentos del ENRE para Edenor y Edesur (recibido el 2026-11-22)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| ENRE, Reglamento de Suministro de Energía Eléctrica (Edenor y Edesur, RQT 2025-2030), actualizado por Anexo XV Res. ENRE 303/2025 y Anexo XVI Res. ENRE 304/2025. 32 págs. https://www.argentina.gob.ar/enre/reglamentos/de-suministro | **PRIMARIA** (regulación) | 54 | Quién pone qué, límite de responsabilidad en el primer seccionamiento del TP, inspección en 5 días hábiles con constancia escrita, un solo punto de suministro, centro de transformación > 60 kVA, suspensión. Sin medidas de pilar. |
+| ENRE, Reglamento de Aplicación para el Sistema de Medición Autoadministrada (Anexos I y II, 26/10/2018). 8 págs. https://www.argentina.gob.ar/enre/reglamentos/de-aplicacion-para-el-sistema-de-medicion-autoadministrada | **PRIMARIA** (solo Edenor) | 54 | Medidor prepago bicuerpo: medición afuera, teclado adentro. Sin detalles de montaje. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
