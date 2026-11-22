@@ -148,12 +148,24 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 | Video "Experiencia AEAconectada", canal oficial de YouTube de la AEA (fsa10yqfvFg), 1 h 37 min. Transcripción automática | **OFICIAL, oral** (redactores del Comité 10) | 52 | Confirma la ficha 51 y corrige: tipo B no para todo wallbox; 200 Ω con autoridad provincial y 30 mA; IUE 120 VA × 2/3 confirmado. La transcripción puede tener errores. |
 | Nota "Novedades en la sección 770 de la AEA 90364", crónica del encuentro "Experiencia AEA conectada" (medio sin identificar) | **SECUNDARIA** (crónica de presentación oficial) | 51 | Obligatoria desde 1/3/2027. Errores detectados: tipos B y F invertidos; excepción de 200 Ω sin la condición de 30 mA; "10 A por carga" mal redactado. Dato dudoso: IUE 500 → 120 VA por boca. Confirmar con el texto de la norma. |
 
+## Lote 14 · pilar y acometida T1 de Edenor y Edesur (recibido el 2026-11-22)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| Edenor, "Acometida aérea - Tarifa 1 · Pilar de mampostería para suministro individual" (T1-AA-SMT-M), oct. 2025. https://www.edenor.com/files/2026-03/T1-AA-SMT-M.pdf | **PRIMARIA** (área Edenor) | 53 | Medidas del pilar, alturas, caños, protecciones y conductores del TP. Dibujo sin texto seleccionable: cotas leídas a ojo. |
+| Edenor, "Pilar para suministro individual construido sobre línea municipal" (T1-AA-SMT-LM), oct. 2025. https://www.edenor.com/files/2025-12/T1-AA-SMT-LM.pdf | **PRIMARIA** (área Edenor) | 53 | Acometida en fachada, distancias de seguridad a la edificación, escalinata en zona inundable. |
+| Edenor, "Acometida subterránea · individuales o agrupados hasta 6 medidores" (T1-AS-SMT), oct. 2025. https://www.edenor.com/files/2025-12/T1-AS-SMT.pdf | **PRIMARIA** (área Edenor) | 53 | Caja de toma 60 A, caño de 100 mm, poder de corte distinto al de la aérea. |
+| Edesur, DGFV01 Anexo A "Inst. T1 Acom. Aérea" (pilar de mampostería mono y trifásico, fachada), publicado mar. 2026. https://www.edesur.com.ar/wp-content/uploads/2026/03/Pilart1_planos_aereos.pdf | **PRIMARIA** (área Edesur) | 53 | Medidas en mm, lista de materiales con matrícula Edesur. Hojas de fachada no transcriptas. |
+| Edesur, "Pilar para medidor T1 tipo subterráneo" (2020). https://www.edesur.com.ar/wp-content/uploads/2020/06/pilart1_planos_subterraneo.pdf | **PRIMARIA** (área Edesur) | 53 | Monofásico transcripto. Remite al Anexo L (no publicado en el PDF). |
+| Edenor, poste de madera en zona inundable (T1-AA-SMT-P-ZRI) y fichas de medidores agrupados | Sin procesar | — | Listados en https://www.edenor.com/hogares-y-comercios/nuevo-medidor |
+| ENRE, Reglamento para la Conexión de Nuevos Suministros (T1R Edenor/Edesur), Res. ENRE 225/2011 y 269/2012 | Sin procesar | — | No se pudo leer (lectura automática bloqueada). |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
 - AEA 90364 partes 1 a 6 (reglas generales; por ejemplo, dónde va la llave unipolar y la prueba de polaridad 613.8).
 - AEA 90364-7-701: **ya incorporada** completa en la ficha 37 (edición 2012, Lote 5).
-- AEA 95150 (acometida, pilar y medición).
+- AEA 95150 (acometida, pilar y medición). Las fichas de Edenor y Edesur (ficha 53) cubren el pilar T1 de cada distribuidora, no la AEA 95150.
 - AEA 92305 (protección contra rayos).
 - IRAM 2071 (tomacorrientes 2P+T: posición de los bornes).
 - IEC 61008 / 61009 (diferenciales), IEC 60898-1 (termomagnéticas).
