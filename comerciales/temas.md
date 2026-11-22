@@ -10,8 +10,8 @@ No prometer nada que la landing no diga. No usar la palabra AAIERIC.
 - [x] Protocolo SRT 900/15 desde el celular: una tarjeta por toma, PDF de 3 hojas con el formato del Anexo (la firma es del profesional)
 - [x] Calculadora AEA: sección del cable, termomagnética y caída de tensión en segundos
 - [x] Precios al día por IPC con el dato oficial del INDEC, en un toque
-- [ ] Aire acondicionado: lo que siempre se olvida cobrar (metro extra de cañería, gas adicional, altura, ménsula, pasamuros, desagote)
-- [ ] Cómputo de materiales: la lista para el corralón, con tildado de lo comprado
+- [x] Aire acondicionado: lo que siempre se olvida cobrar (metro extra de cañería, gas adicional, altura, ménsula, pasamuros, desagote)
+- [x] Cómputo de materiales: la lista para el corralón, con tildado de lo comprado
 - [ ] Aceptación online: el cliente acepta desde un link y el presupuesto pasa solo a Aceptado
 - [ ] Cobros y saldos: anticipos, pagos parciales y lo que falta cobrar, a la vista
 - [ ] Funciona sin conexión: en la obra sin señal, se sincroniza solo después
