@@ -81,6 +81,7 @@ Las armó Claude leyendo los documentos que juntó Fran. Los documentos original
 | [65-edenor-t1-fichas-completas-agrupados.md](65-edenor-t1-fichas-completas-agrupados.md) | Edenor T1 completo: individual, agrupados (3 y 6 mono, 3M+2T, 3 tri), gabinete colectivo aéreo y subterráneo; poder de corte por ficha; IP419; corrige la ficha 53 |
 | [66-areas-concesion-edenor-edesur.md](66-areas-concesion-edenor-edesur.md) | Qué distribuidora atiende cada partido: lista oficial de Edenor (20 municipios + CABA noroeste); Edesur pendiente; CABA dividida |
 | [67-edenor-poste-madera-zona-inundable.md](67-edenor-poste-madera-zona-inundable.md) | Edenor, pilar con poste de madera para zona rural o inundable (San Fernando y Tigre): poste, retención, cajas estancas, alturas con y sin escalera, maderas |
+| [68-edesur-fachada-aerea-y-t2.md](68-edesur-fachada-aerea-y-t2.md) | Edesur T1 aérea sobre fachada (mono y tri) y Tarifa 2 aérea y subterránea (medición directa e indirecta hasta 100 kW); altura de la caja de medidor |
 
 ## Avisos sobre temas de `temas.md`
 
@@ -133,3 +134,4 @@ Las fichas 23 a 30 salen de **artículos de revista** (fuente SECUNDARIA). Si ch
 - **Arquitectura (ficha 46):** valores del Código de Edificación de la **ciudad de Córdoba**. Citarlos como "en Córdoba". No mezclar con los de CABA (ficha 45) sin aclarar de dónde es cada uno.
 - **Muros (fichas 47 y 48):** espesores de los Reglamentos Técnicos de **CABA**. Hay valores para medianeras, muros privativos y HCCA. **No** hay valor normativo para tabiques interiores de ladrillo: no afirmarlo.
 - **Pilar Edenor:** el poder de corte de la termomagnética del TP se toma de la ficha de Edenor que corresponde (individual, agrupado o gabinete colectivo), no de "aérea o subterránea". Si la ficha 53 y la 65 difieren, gana la 65.
+- **Caja de medidor Edesur:** base a 1,20 m o más y borde superior a 1,80 m o menos (ficha 68). No decir "entre 1,20 y 1,80 m" sin aclarar a qué borde se mide.

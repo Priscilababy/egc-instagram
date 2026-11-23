@@ -249,6 +249,13 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 |---|---|---|---|
 | Edenor, ficha T1-AA-SMT-P-ZRI "Octubre 2025" (3 hojas, archivo de nov. 2025). Esquema exclusivo para zona inundable de San Fernando y Tigre | **PRIMARIA** | 67 | Poste de madera de 5,5 m, Ø 150 mm. Retención 4 m mín. Cajas estancas IP549 con TP. Caja a 2 m con escalera o a 1,40 m sin escalera. ICS 4.500 / 6.000 A. |
 
+## Lote 28 · Edesur, T1 aérea en fachada y Tarifa 2 (recibido el 2026-11-22)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| Edesur, DGFV01 Anexo A "Inst. T1 Acom. Aérea" (Pilart1_planos_aereos.pdf, 4 hojas, archivo 2020), hojas 3 y 4 | **PRIMARIA** | 68 | Fachada mono y tri: caño 34 mm int., retención 3.000 mm mín., caja base 1.200 / borde superior 1.800, caños 19/32 mm, cable 4/6 mm². Cita "res 95/98" (es Res. SICyM 92/98). |
+| Edesur, planos "T2 Aérea" y "T2 Subterránea" (4 hojas cada uno, sin código ni fecha) | **PRIMARIA** | 68 | Medición directa (TM y diferencial tetrapolares 63 A, cable 16 mm²) e indirecta hasta 100 kW. Pilar 1.000 × 500 mm. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:

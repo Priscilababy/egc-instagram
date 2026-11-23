@@ -213,3 +213,6 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] CONEXIÓN · Gabinete colectivo de medidores de Edenor: alturas, caños y tablero principal integrado (ficha 65)
 - [ ] CONEXIÓN · ¿Edenor o Edesur? Los 20 partidos que atiende Edenor y por qué en CABA tenés que mirar la factura (ficha 66)
 - [ ] CONEXIÓN · Pilar con poste de madera en zona inundable (Tigre y San Fernando): alturas, escalera y cajas estancas según Edenor (ficha 67)
+- [ ] CONEXIÓN · Medidor de Edesur sobre la fachada: caño de 34 mm, retención a 3 m y caja entre 1,20 y 1,80 m (ficha 68)
+- [ ] MAL/BIEN · Caño que entra por arriba a la caja de medidor vs. por abajo o por el lateral inferior (Edesur) (ficha 68)
+- [ ] CONEXIÓN · Tarifa 2 en Edesur: pilar de 1 × 0,5 m, gabinete de medición y protecciones tetrapolares de 63 A (ficha 68)
