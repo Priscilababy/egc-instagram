@@ -216,3 +216,4 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] CONEXIÓN · Medidor de Edesur sobre la fachada: caño de 34 mm, retención a 3 m y caja entre 1,20 y 1,80 m (ficha 68)
 - [ ] MAL/BIEN · Caño que entra por arriba a la caja de medidor vs. por abajo o por el lateral inferior (Edesur) (ficha 68)
 - [ ] CONEXIÓN · Tarifa 2 en Edesur: pilar de 1 × 0,5 m, gabinete de medición y protecciones tetrapolares de 63 A (ficha 68)
+- [ ] CONEXIÓN · Pilar de obra: la certificación se renueva cada año si la obra sigue (ENRE) y qué controla la Declaración de Conformidad (ficha 69)

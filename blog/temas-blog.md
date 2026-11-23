@@ -101,3 +101,4 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] Medidor en zona inundable del Delta: el pilar de poste de madera con escalera que pide Edenor, paso a paso · fichas: 67, 65
 - [ ] Conexión aérea de Edesur sobre la fachada, monofásica y trifásica: materiales, alturas y errores que rechazan la inspección · fichas: 68, 53, 55
 - [ ] Tarifa 2 en Edesur: medición directa o indirecta, gabinetes, pilar y tablero del cliente · fichas: 68
+- [ ] Pilar de obra en Edenor y Edesur: qué pide el ENRE, qué medidas usar y cómo renovar la certificación anual · fichas: 69, 59
