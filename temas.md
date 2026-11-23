@@ -202,3 +202,6 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] CONEXIÓN · Declaración de Conformidad monofásica vs. trifásica: un formulario de 5 ítems o dos planillas con mediciones (ficha 61)
 - [ ] MAL/BIEN · Resistencia de puesta a tierra en MΩ vs. en Ω: la unidad correcta y por qué importa en la planilla de inspección (ficha 62)
 - [ ] CONEXIÓN · Nota de autorización de Edenor: cómo el electricista hace el trámite del nuevo medidor por su cliente (ficha 62)
+- [ ] MAL/BIEN · Toma que acepta fichas redondas vs. toma IRAM 2071: un desvío que invalida la Declaración de Conformidad (ficha 63)
+- [ ] CONEXIÓN · Circuito independiente para electrodependientes: tablero propio, diferencial, PAT y un solo toma (Nota ENRE 2021) (ficha 63)
+- [ ] MAL/BIEN · 9 desvíos que hacen rechazar una Declaración de Conformidad según Edesur (ficha 63)
