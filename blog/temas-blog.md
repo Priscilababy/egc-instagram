@@ -82,3 +82,7 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] Declaración de Conformidad de instalaciones eléctricas: cómo completarla ítem por ítem · fichas: 56
 - [ ] Inspección periódica de la instalación eléctrica: plazos recomendados por el ENRE según el tipo de inmueble · fichas: 56
 - [ ] Aumento de potencia o cambio de tarifa: cuándo Edenor y Edesur te piden la Declaración de Conformidad · fichas: 57, 56
+- [ ] Idóneos y Declaración de Conformidad: qué cambió con la Res. COPIME 95/2026 · fichas: 58, 57
+- [ ] Sello S en materiales eléctricos: qué es, qué norma lo exige y cómo reconocerlo · fichas: 58, 56
+- [ ] Pilar de obra: requisitos del ENRE para conectarlo y por qué hay que inspeccionarlo cada año · fichas: 59, 56
+- [ ] Certificado de Aptitud del Colegio de Técnicos PBA: cómo completar el T1R y las planillas A y B · fichas: 60, 56
