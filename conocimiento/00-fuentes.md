@@ -183,6 +183,12 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 | ENRE, formulario "Declaración de Conformidad de Instalaciones Eléctricas" T1R monofásico, edición 0 (2018). https://www.argentina.gob.ar/sites/default/files/conexiondomiciliaria_formulariodci_feb2018.pdf | **PRIMARIA** (formulario oficial) | 56 | Ítems a–e, variantes de protección con y sin tablero seccional. Cita la AEA versión 2006 (desactualizado). |
 | Res. ENRE 336/2009 (y 184/2009, 264/2009) | **DEROGADA** | — | No usar. Derogada por la Res. 225/2011, Art. 3°. |
 
+## Lote 18 · Res. ENRE 269/2012 (recibido el 2026-11-22)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| Resolución ENRE N° 269/2012 (26/9/2012, BO 2/10/2012, N° 32.492, pág. 29). https://www.argentina.gob.ar/normativa/nacional/norma-202726 | **PRIMARIA** (regulación) | 57 | Sustituye el punto 3.8 de la Res. 225/2011 (texto nuevo en su Anexo I, no publicado) y aprueba el formulario DCI (Anexo II). DCI también para cambio de tarifa y aumento de potencia. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
