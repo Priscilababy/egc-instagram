@@ -87,3 +87,4 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] Pilar de obra: requisitos del ENRE para conectarlo y por qué hay que inspeccionarlo cada año · fichas: 59, 56
 - [ ] Certificado de Aptitud del Colegio de Técnicos PBA: cómo completar el T1R y las planillas A y B · fichas: 60, 56
 - [ ] Declaración de Conformidad trifásica: cómo completar las Planillas A y B y qué mediciones piden · fichas: 61, 60
+- [ ] El electricista hace el trámite del medidor: nota de autorización de Edenor y Declaración de Conformidad paso a paso · fichas: 62, 56
