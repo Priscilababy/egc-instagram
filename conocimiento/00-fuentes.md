@@ -189,6 +189,20 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 |---|---|---|---|
 | Resolución ENRE N° 269/2012 (26/9/2012, BO 2/10/2012, N° 32.492, pág. 29). https://www.argentina.gob.ar/normativa/nacional/norma-202726 | **PRIMARIA** (regulación) | 57 | Sustituye el punto 3.8 de la Res. 225/2011 (texto nuevo en su Anexo I, no publicado) y aprueba el formulario DCI (Anexo II). DCI también para cambio de tarifa y aumento de potencia. |
 
+## Lote 19 · quién firma la DCI y sello S (recibido el 2026-11-22)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| Resolución COPIME N° 95/2026 (28/4/2026, BO 11/5/2026, N° 35.906, pág. 31), texto de argentina.gob.ar/normativa | **PRIMARIA** | 58 | Idóneos con cursos no homologados (CIMEBA Nivel 3; ACYEDE, Mónaco, Newton, Milán, Aula 365): siguen inscriptos, pero los nuevos, reinscriptos y provisorios vencidos no pueden firmar DCI. |
+| Resolución SICyM N° 92/98 (16/2/1998, BO 18/2/1998, N° 28.839, pág. 5), texto actualizado de Infoleg | **PRIMARIA** | 58 | Sello S: certificación obligatoria del equipamiento de baja tensión (≤ 1.000 V CA / 1.500 V CC) por organismo acreditado OAA, según IRAM o IEC. Prohíbe clases de aislación 0 y 0I. |
+
+## Lote 20 · pilar de obra y certificados del Colegio de Técnicos PBA (recibido el 2026-11-22)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| ENRE, "Reglamento para la Conexión de Pilares de Obra", edición 2024 (4 págs.) | **PRIMARIA** (regulación) | 59 | T1G mono y trifásico, Edenor y Edesur: requisitos 3.1 a 3.12, inspección inicial, inspección anual obligatoria, final de obra con Res. 225/2011 y 269/2012. |
+| Colegio de Técnicos de la Provincia de Buenos Aires, Res. N° 782/11 (13/10/2011) con Anexos 1 a 3 (CAIE T1R monofásico, Planillas A y B). PDF escaneado | **SECUNDARIA** (modelo de un colegio) | 60 | Certificados para el visado colegial en Edenor, Edesur y Edelap. Planilla B con mediciones de aislación (MΩ), PAT (Ω) y continuidad. Hojas 5 y 6: ejemplos con datos de prueba, no transcriptos. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
