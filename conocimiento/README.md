@@ -77,6 +77,7 @@ Las armó Claude leyendo los documentos que juntó Fran. Los documentos original
 | [61-copitec-formularios-dci.md](61-copitec-formularios-dci.md) | Formularios DCI del COPITEC: monofásica (Anexo II de la Res. ENRE 269/2012), trifásica Planillas A y B (modelo Res. 717/10, con mediciones) y generación distribuida fotovoltaica. Modelo común de DCI en el área del ENRE |
 | [62-dci-texto-verificado-y-nota-autorizacion.md](62-dci-texto-verificado-y-nota-autorizacion.md) | Texto verificado de los formularios DCI (monofásica Anexo II 269/2012, trifásica Planillas A y B, fotovoltaica), error de unidades en la Planilla B (PAT en Ω, no MΩ), normativa de referencia y nota de autorización de Edenor. **Gana sobre la 61** |
 | [63-edesur-dci-electrodependientes-fae.md](63-edesur-dci-electrodependientes-fae.md) | Edesur: DCI para usuarios electrodependientes (FAE). Opción toda la vivienda u opción circuito independiente (Nota ENRE NO-2021-82208385) con plano; verificaciones de Edesur (tensión > 95 %, tomas IRAM 2071, PE en todos los tomas, cámara de PAT); desvíos que invalidan la DCI |
+| [64-copime-planilla-dci.md](64-copime-planilla-dci.md) | Planilla DCI del COPIME (A y B): campos, unidades correctas (PAT en Ω), diferencias con COPITEC y Colegio de Técnicos PBA, formulario base configurable para la app |
 
 ## Avisos sobre temas de `temas.md`
 
