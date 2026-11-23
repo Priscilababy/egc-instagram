@@ -75,6 +75,7 @@ Las armó Claude leyendo los documentos que juntó Fran. Los documentos original
 | [59-enre-pilar-de-obra-t1g-2024.md](59-enre-pilar-de-obra-t1g-2024.md) | Reglamento ENRE de pilares de obra (T1G, edición 2024): cierre con herramienta, doble aislación, IP 41/549, TT, termomagnética y diferencial ≤ 30 mA bipolar o tetrapolar en el TP, acometida sin empalmes, sello S, inspección anual obligatoria para mantener el suministro |
 | [60-colegio-tecnicos-pba-caie-782-11.md](60-colegio-tecnicos-pba-caie-782-11.md) | Colegio de Técnicos PBA, Res. 782/11: Certificados de Aptitud (CAIE) T1R monofásico y Planillas A y B (T1 trifásica, TG, T2, T3). Planilla B de inspección con continuidad, aislación (MΩ) y puesta a tierra (Ω) |
 | [61-copitec-formularios-dci.md](61-copitec-formularios-dci.md) | Formularios DCI del COPITEC: monofásica (Anexo II de la Res. ENRE 269/2012), trifásica Planillas A y B (modelo Res. 717/10, con mediciones) y generación distribuida fotovoltaica. Modelo común de DCI en el área del ENRE |
+| [62-dci-texto-verificado-y-nota-autorizacion.md](62-dci-texto-verificado-y-nota-autorizacion.md) | Texto verificado de los formularios DCI (monofásica Anexo II 269/2012, trifásica Planillas A y B, fotovoltaica), error de unidades en la Planilla B (PAT en Ω, no MΩ), normativa de referencia y nota de autorización de Edenor. **Gana sobre la 61** |
 
 ## Avisos sobre temas de `temas.md`
 

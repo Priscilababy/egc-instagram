@@ -209,6 +209,14 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 |---|---|---|---|
 | COPITEC, "Formularios Varios a Utilizar": DCI Trifásico Planillas A y B, DCI Monofásico (Anexo II, ed. 0, 12/10/2012), DCI Distribuida mono y trifásico. https://www.copitec.org.ar/formularios-varios-a-utilizar/ | **PRIMARIA** (formularios de un consejo profesional) | 61 | Leídos por resumen automático del PDF. La DCI monofásica es el Anexo II de la Res. ENRE 269/2012. Planillas A y B = modelo Res. 717/10, igual al del Colegio de Técnicos PBA. |
 
+## Lote 22 · formularios DCI originales y nota de autorización de Edenor (recibido el 2026-11-22)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| COPITEC, PDF originales: DCI Planilla Monofásico, Monofásico actualizado, Trifásico Planillas A y B, Distribuida mono y trifásico | **PRIMARIA** | 62 | Texto verificado. Corrige la lectura automática de la ficha 61. Error del formulario: PAT de la Planilla B en "MΩ" (debe ser Ω). |
+| COPITEC, lista "Normativa de referencia" (links a Res. ENRE 225/11 y 269/12, Res. CTPBA 717/10, Res. SICyM 92/98, AEA vigente) | **PRIMARIA** (índice de fuentes) | 62 | — |
+| Edenor, "Nota de autorización" PSC-1155-A, rev. 2 (ed. 30/05/2023, act. 01/03/2024). https://www.edenor.com/files/2025-07/Nota-Autorizacion.pdf | **PRIMARIA** | 62 | El titular autoriza a un tercero a hacer el trámite; se adjuntan los DNI. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
