@@ -188,3 +188,8 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] CONEXIÓN · Edesur subterráneo en fachada: caja de toma a 0,60 m mín., caja de medidor entre 1,20 y 1,80 m, caños embutidos a 5 cm (ficha 55)
 - [ ] MAL/BIEN · Caja de medidor que se abre con la mano vs. cierre con herramienta especial (Anexo L de Edesur) (ficha 55)
 - [ ] CONEXIÓN · Qué significa IP43 / IK10 en una caja de medidor (Anexo L de Edesur) (ficha 55)
+- [ ] CONEXIÓN · Los 10 requisitos del tablero principal para que Edenor o Edesur te conecten (Res. ENRE 225/2011) (ficha 56)
+- [ ] MAL/BIEN · Fusibles en el tablero principal de una vivienda nueva: prohibidos por la Res. ENRE 225/2011 (ficha 56)
+- [ ] CONEXIÓN · Declaración de Conformidad: qué es, quién la firma y por qué un solo "NO" frena la conexión (ficha 56)
+- [ ] CONEXIÓN · Tablero principal en el pilar: IP 549 a la intemperie, IP 41 en interior (IRAM 2444) (ficha 56)
+- [ ] CONEXIÓN · Cada cuánto revisar una instalación: 5 años vivienda, 3 comercio, 2 pública concurrencia, 1 riesgo de incendio (ficha 56)
