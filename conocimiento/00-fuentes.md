@@ -217,6 +217,12 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 | COPITEC, lista "Normativa de referencia" (links a Res. ENRE 225/11 y 269/12, Res. CTPBA 717/10, Res. SICyM 92/98, AEA vigente) | **PRIMARIA** (índice de fuentes) | 62 | — |
 | Edenor, "Nota de autorización" PSC-1155-A, rev. 2 (ed. 30/05/2023, act. 01/03/2024). https://www.edenor.com/files/2025-07/Nota-Autorizacion.pdf | **PRIMARIA** | 62 | El titular autoriza a un tercero a hacer el trámite; se adjuntan los DNI. |
 
+## Lote 23 · Edesur, DCI para electrodependientes (recibido el 2026-11-22)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| Edesur, "Consideraciones sobre el Certificado DCI", v1, enero 2025 (18 págs.), con facsímil de la Nota ENRE NO-2021-82208385-APN-ENRE#MEC (2/9/2021). https://www.edesur.com.ar/wp-content/uploads/2025/01/Consideraciones-sobre-el-certificado-DCI-V1.pdf | **PRIMARIA** | 63 | DCI para recibir la FAE (electrodependientes): opción toda la vivienda u opción circuito independiente con plano; verificaciones a–g de Edesur (tensión > 95 %, IRAM 2071, PE en tomas, cámara de PAT); desvíos que invalidan la DCI. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:

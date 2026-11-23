@@ -76,6 +76,7 @@ Las armó Claude leyendo los documentos que juntó Fran. Los documentos original
 | [60-colegio-tecnicos-pba-caie-782-11.md](60-colegio-tecnicos-pba-caie-782-11.md) | Colegio de Técnicos PBA, Res. 782/11: Certificados de Aptitud (CAIE) T1R monofásico y Planillas A y B (T1 trifásica, TG, T2, T3). Planilla B de inspección con continuidad, aislación (MΩ) y puesta a tierra (Ω) |
 | [61-copitec-formularios-dci.md](61-copitec-formularios-dci.md) | Formularios DCI del COPITEC: monofásica (Anexo II de la Res. ENRE 269/2012), trifásica Planillas A y B (modelo Res. 717/10, con mediciones) y generación distribuida fotovoltaica. Modelo común de DCI en el área del ENRE |
 | [62-dci-texto-verificado-y-nota-autorizacion.md](62-dci-texto-verificado-y-nota-autorizacion.md) | Texto verificado de los formularios DCI (monofásica Anexo II 269/2012, trifásica Planillas A y B, fotovoltaica), error de unidades en la Planilla B (PAT en Ω, no MΩ), normativa de referencia y nota de autorización de Edenor. **Gana sobre la 61** |
+| [63-edesur-dci-electrodependientes-fae.md](63-edesur-dci-electrodependientes-fae.md) | Edesur: DCI para usuarios electrodependientes (FAE). Opción toda la vivienda u opción circuito independiente (Nota ENRE NO-2021-82208385) con plano; verificaciones de Edesur (tensión > 95 %, tomas IRAM 2071, PE en todos los tomas, cámara de PAT); desvíos que invalidan la DCI |
 
 ## Avisos sobre temas de `temas.md`
 
