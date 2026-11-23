@@ -78,3 +78,6 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] Me rechazaron el pilar: qué dice el reglamento del ENRE sobre la inspección, los plazos y la constancia · fichas: 54, 53
 - [ ] Qué pone el usuario y qué pone la distribuidora en una conexión nueva de Edenor o Edesur · fichas: 54, 53
 - [ ] Anexo L de Edesur: los requisitos de seguridad que revisan en la inspección del pilar · fichas: 55, 53
+- [ ] Res. ENRE 225/2011 explicada: qué tiene que cumplir el tablero principal para conectar un suministro nuevo · fichas: 56, 53
+- [ ] Declaración de Conformidad de instalaciones eléctricas: cómo completarla ítem por ítem · fichas: 56
+- [ ] Inspección periódica de la instalación eléctrica: plazos recomendados por el ENRE según el tipo de inmueble · fichas: 56
