@@ -98,3 +98,4 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] Poder de corte de la termomagnética del tablero principal: por qué Edenor pide 3.000, 4.500 o 6.000 A según el tipo de conexión · fichas: 65, 53
 - [ ] Pilar en zona inundable: la escalinata que pide Edenor y cuándo hace falta un cálculo estructural · fichas: 65, 53
 - [ ] ¿Qué distribuidora te corresponde en el AMBA? Partidos de Edenor, zona de Edesur y la división de CABA · fichas: 66, 53
+- [ ] Medidor en zona inundable del Delta: el pilar de poste de madera con escalera que pide Edenor, paso a paso · fichas: 67, 65

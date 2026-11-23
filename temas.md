@@ -212,3 +212,4 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] MAL/BIEN · Pilar en zona inundable sin escalinata vs. con descanso sobre la cota máxima de inundación (ficha 65)
 - [ ] CONEXIÓN · Gabinete colectivo de medidores de Edenor: alturas, caños y tablero principal integrado (ficha 65)
 - [ ] CONEXIÓN · ¿Edenor o Edesur? Los 20 partidos que atiende Edenor y por qué en CABA tenés que mirar la factura (ficha 66)
+- [ ] CONEXIÓN · Pilar con poste de madera en zona inundable (Tigre y San Fernando): alturas, escalera y cajas estancas según Edenor (ficha 67)

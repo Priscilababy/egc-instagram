@@ -243,6 +243,12 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 | Edenor, página "Nuestra área" (texto copiado por Fran): 20 municipios + zona noroeste de CABA, en 3 regiones | **PRIMARIA** (web oficial) | 66 | Lista completa de partidos de Edenor. |
 | ENRE, mapa de distribución Edenor / Edesur (imagen de argentina.gob.ar) | **PRIMARIA** (imagen) | 66 | Sirve para ver la división de CABA. No alcanza para listar los partidos de Edesur. |
 
+## Lote 27 · Edenor, poste de madera para zona inundable (recibido el 2026-11-22)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| Edenor, ficha T1-AA-SMT-P-ZRI "Octubre 2025" (3 hojas, archivo de nov. 2025). Esquema exclusivo para zona inundable de San Fernando y Tigre | **PRIMARIA** | 67 | Poste de madera de 5,5 m, Ø 150 mm. Retención 4 m mín. Cajas estancas IP549 con TP. Caja a 2 m con escalera o a 1,40 m sin escalera. ICS 4.500 / 6.000 A. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:

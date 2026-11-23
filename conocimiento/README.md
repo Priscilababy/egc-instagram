@@ -80,6 +80,7 @@ Las armó Claude leyendo los documentos que juntó Fran. Los documentos original
 | [64-copime-planilla-dci.md](64-copime-planilla-dci.md) | Planilla DCI del COPIME (A y B): campos, unidades correctas (PAT en Ω), diferencias con COPITEC y Colegio de Técnicos PBA, formulario base configurable para la app |
 | [65-edenor-t1-fichas-completas-agrupados.md](65-edenor-t1-fichas-completas-agrupados.md) | Edenor T1 completo: individual, agrupados (3 y 6 mono, 3M+2T, 3 tri), gabinete colectivo aéreo y subterráneo; poder de corte por ficha; IP419; corrige la ficha 53 |
 | [66-areas-concesion-edenor-edesur.md](66-areas-concesion-edenor-edesur.md) | Qué distribuidora atiende cada partido: lista oficial de Edenor (20 municipios + CABA noroeste); Edesur pendiente; CABA dividida |
+| [67-edenor-poste-madera-zona-inundable.md](67-edenor-poste-madera-zona-inundable.md) | Edenor, pilar con poste de madera para zona rural o inundable (San Fernando y Tigre): poste, retención, cajas estancas, alturas con y sin escalera, maderas |
 
 ## Avisos sobre temas de `temas.md`
 
