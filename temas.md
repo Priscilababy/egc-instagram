@@ -205,3 +205,4 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] MAL/BIEN · Toma que acepta fichas redondas vs. toma IRAM 2071: un desvío que invalida la Declaración de Conformidad (ficha 63)
 - [ ] CONEXIÓN · Circuito independiente para electrodependientes: tablero propio, diferencial, PAT y un solo toma (Nota ENRE 2021) (ficha 63)
 - [ ] MAL/BIEN · 9 desvíos que hacen rechazar una Declaración de Conformidad según Edesur (ficha 63)
+- [ ] CONEXIÓN · Planilla de inspección de la Declaración de Conformidad: los 26 controles que pide tu consejo profesional (ficha 64)
