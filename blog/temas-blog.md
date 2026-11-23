@@ -81,3 +81,4 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] Res. ENRE 225/2011 explicada: qué tiene que cumplir el tablero principal para conectar un suministro nuevo · fichas: 56, 53
 - [ ] Declaración de Conformidad de instalaciones eléctricas: cómo completarla ítem por ítem · fichas: 56
 - [ ] Inspección periódica de la instalación eléctrica: plazos recomendados por el ENRE según el tipo de inmueble · fichas: 56
+- [ ] Aumento de potencia o cambio de tarifa: cuándo Edenor y Edesur te piden la Declaración de Conformidad · fichas: 57, 56
