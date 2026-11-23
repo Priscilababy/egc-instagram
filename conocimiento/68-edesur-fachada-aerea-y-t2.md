@@ -61,6 +61,14 @@ Relación con la ficha 53: suma la conexión en fachada y aclara la altura de la
 | Caño entre gabinetes | PVC Ø 50 mm interior mín. | Igual |
 | Montaje | Sobre muro o en pilar de 1.000 × 500 mm, fundación 600 mm | Igual |
 
+## Datos de la web de Edesur (página "Nuevo suministro pymes", texto copiado por Fran el 22/11/2026)
+- **T1G (Clientes Generales):** uso distinto de vivienda, **hasta 9,9 kW**.
+- **T2 (Pymes):** uso distinto de vivienda, **de 10 kW a 49,9 kW**. Pide, entre otros papeles, habilitación electromecánica o eléctrica municipal.
+- Los planos T2 vigentes están publicados en marzo de 2026 (URL .../uploads/2026/03/T2-Subterranea.pdf y T2-Aerea.pdf).
+- La misma página publica un **"Pilar T2 semisubterráneo"** y una versión de marzo de 2026 del **Anexo L** ("aplica a todas las tarifas"). No recibidos.
+- Inmueble nuevo: cumplir la Res. ENRE 225/2011 (fichas 56 y 57).
+- Inquilino: depósito de garantía equivalente a una facturación, o garante.
+
 ## Para la app (EGC Pilar)
 - **Edesur T1 aérea en fachada:** pasa a disponible (mono y tri).
 - **Edesur T2** (aérea y subterránea, directa e indirecta hasta 100 kW): datos listos para la fase de T2.
@@ -68,5 +76,6 @@ Relación con la ficha 53: suma la conexión en fachada y aclara la altura de la
 - Lista de materiales: usar las matrículas de Edesur cuando el plano las trae.
 
 ## Pendiente
-- Fecha y código de los planos T2 de Edesur (los PDF no los traen).
+- Código de los planos T2 de Edesur (los PDF no lo traen; publicados en marzo de 2026).
+- Pilar T2 semisubterráneo y Anexo L de marzo de 2026 (no recibidos).
 - Límite de potencia entre medición directa e indirecta en T2 (los planos solo dicen "indirecta hasta 100 kW").
