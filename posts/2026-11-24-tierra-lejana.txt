@@ -1,0 +1,22 @@
+La jabalina de la casa no va pegada a la tierra del neutro de la red.
+
+En esquema TT la vivienda tiene su propia toma de tierra de protección, eléctricamente independiente de la tierra de servicio de la distribuidora. "Tierra lejana" quiere decir que el potencial de tu toma no cambia en forma apreciable por las corrientes que circulan por otros electrodos. El neutro de la red está a tierra en muchos puntos y, durante una falla, puede subir de potencial: no es una tierra de protección.
+
+Cómo se conecta:
+- Toma de protección dentro de los límites del inmueble, unida a las masas por el conductor PE.
+- Distancia a la toma de servicio más cercana: más de 10 veces el radio equivalente (Re) de la jabalina más larga, medida en cualquier dirección.
+- Jabalina de 1,5 m: más de 3,2 a 3,4 m. De 3 m: más de 5,4 a 5,8 m. De 6 m: más de 9,8 a 10,2 m (según el diámetro, de 1/2" a 3/4").
+- Ninguna unión entre el PE de la casa y el neutro de la red.
+- Si hay varios electrodos de protección, se unen entre sí y a la barra principal de tierra.
+
+Detalles que se olvidan en obra:
+- La puesta a tierra suplementaria que algunas distribuidoras piden unir al neutro en la entrada es un refuerzo de la tierra de servicio. No es la tierra de protección: tu jabalina va lejos de ella también.
+- Re depende de la forma y las medidas del electrodo. Cuanto más larga la jabalina, más lejos tiene que quedar.
+- La resistencia se mide sobre el conjunto de electrodos desconectado de todo lo que tiene vinculado. Por eso la unión va en una cámara de inspección, con barra y puentes removibles.
+
+Marco: reglamentación AEA 90364 (AEA 90364-7-770 edición 2017, Tabla 770.3.I; AEA 90364-7-771, Tabla 771.3.II). Esquema TT, diferencial de 30 mA en todos los circuitos terminales y resistencia de puesta a tierra de 100 Ω como máximo según la AEA 90364-7-770 edición 2026. Todas las masas a tierra.
+
+Guardalo para la próxima instalación.
+¿A qué distancia de la toma de servicio solés clavar la jabalina?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #puestaatierra #jabalina #tierralejana
