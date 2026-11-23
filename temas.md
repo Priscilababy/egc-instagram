@@ -194,3 +194,8 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] CONEXIÓN · Tablero principal en el pilar: IP 549 a la intemperie, IP 41 en interior (IRAM 2444) (ficha 56)
 - [ ] CONEXIÓN · Cada cuánto revisar una instalación: 5 años vivienda, 3 comercio, 2 pública concurrencia, 1 riesgo de incendio (ficha 56)
 - [ ] CONEXIÓN · Aumento de potencia o pase a trifásica en Edenor y Edesur: también piden la Declaración de Conformidad (Res. ENRE 269/2012) (ficha 57)
+- [ ] CONEXIÓN · Quién puede firmar la Declaración de Conformidad en CABA desde 2026 (Res. COPIME 95/2026) (ficha 58)
+- [ ] MAL/BIEN · Material eléctrico sin sello S vs. con sello S: qué exige la Res. SICyM 92/98 y por qué rechaza la inspección (ficha 58)
+- [ ] CONEXIÓN · Pilar de obra en Edenor y Edesur: los 12 requisitos del ENRE y la inspección anual obligatoria (ficha 59)
+- [ ] MAL/BIEN · Pilar de obra sin renovar la inspección anual vs. con comprobante al día (ficha 59)
+- [ ] CONEXIÓN · Qué se mide en una inspección de instalación: continuidad, aislación en MΩ y puesta a tierra en Ω (Planilla B del Colegio de Técnicos PBA) (ficha 60)
