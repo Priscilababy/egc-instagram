@@ -74,6 +74,7 @@ Las armó Claude leyendo los documentos que juntó Fran. Los documentos original
 | [58-copime-95-2026-y-sicym-92-98.md](58-copime-95-2026-y-sicym-92-98.md) | Quién puede firmar la DCI: Res. COPIME 95/2026 (idóneos con cursos no homologados excluidos de firmar DCI al inscribirse o reinscribirse). Sello S: Res. SICyM 92/98 (certificación obligatoria por organismo OAA, IRAM/IEC, clases 0 y 0I prohibidas) |
 | [59-enre-pilar-de-obra-t1g-2024.md](59-enre-pilar-de-obra-t1g-2024.md) | Reglamento ENRE de pilares de obra (T1G, edición 2024): cierre con herramienta, doble aislación, IP 41/549, TT, termomagnética y diferencial ≤ 30 mA bipolar o tetrapolar en el TP, acometida sin empalmes, sello S, inspección anual obligatoria para mantener el suministro |
 | [60-colegio-tecnicos-pba-caie-782-11.md](60-colegio-tecnicos-pba-caie-782-11.md) | Colegio de Técnicos PBA, Res. 782/11: Certificados de Aptitud (CAIE) T1R monofásico y Planillas A y B (T1 trifásica, TG, T2, T3). Planilla B de inspección con continuidad, aislación (MΩ) y puesta a tierra (Ω) |
+| [61-copitec-formularios-dci.md](61-copitec-formularios-dci.md) | Formularios DCI del COPITEC: monofásica (Anexo II de la Res. ENRE 269/2012), trifásica Planillas A y B (modelo Res. 717/10, con mediciones) y generación distribuida fotovoltaica. Modelo común de DCI en el área del ENRE |
 
 ## Avisos sobre temas de `temas.md`
 

@@ -203,6 +203,12 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 | ENRE, "Reglamento para la Conexión de Pilares de Obra", edición 2024 (4 págs.) | **PRIMARIA** (regulación) | 59 | T1G mono y trifásico, Edenor y Edesur: requisitos 3.1 a 3.12, inspección inicial, inspección anual obligatoria, final de obra con Res. 225/2011 y 269/2012. |
 | Colegio de Técnicos de la Provincia de Buenos Aires, Res. N° 782/11 (13/10/2011) con Anexos 1 a 3 (CAIE T1R monofásico, Planillas A y B). PDF escaneado | **SECUNDARIA** (modelo de un colegio) | 60 | Certificados para el visado colegial en Edenor, Edesur y Edelap. Planilla B con mediciones de aislación (MΩ), PAT (Ω) y continuidad. Hojas 5 y 6: ejemplos con datos de prueba, no transcriptos. |
 
+## Lote 21 · formularios DCI del COPITEC (leídos el 2026-11-22)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| COPITEC, "Formularios Varios a Utilizar": DCI Trifásico Planillas A y B, DCI Monofásico (Anexo II, ed. 0, 12/10/2012), DCI Distribuida mono y trifásico. https://www.copitec.org.ar/formularios-varios-a-utilizar/ | **PRIMARIA** (formularios de un consejo profesional) | 61 | Leídos por resumen automático del PDF. La DCI monofásica es el Anexo II de la Res. ENRE 269/2012. Planillas A y B = modelo Res. 717/10, igual al del Colegio de Técnicos PBA. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
