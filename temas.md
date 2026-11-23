@@ -200,3 +200,5 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] MAL/BIEN · Pilar de obra sin renovar la inspección anual vs. con comprobante al día (ficha 59)
 - [ ] CONEXIÓN · Qué se mide en una inspección de instalación: continuidad, aislación en MΩ y puesta a tierra en Ω (Planilla B del Colegio de Técnicos PBA) (ficha 60)
 - [ ] CONEXIÓN · Declaración de Conformidad monofásica vs. trifásica: un formulario de 5 ítems o dos planillas con mediciones (ficha 61)
+- [ ] MAL/BIEN · Resistencia de puesta a tierra en MΩ vs. en Ω: la unidad correcta y por qué importa en la planilla de inspección (ficha 62)
+- [ ] CONEXIÓN · Nota de autorización de Edenor: cómo el electricista hace el trámite del nuevo medidor por su cliente (ficha 62)
