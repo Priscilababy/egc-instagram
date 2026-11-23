@@ -78,6 +78,7 @@ Las armó Claude leyendo los documentos que juntó Fran. Los documentos original
 | [62-dci-texto-verificado-y-nota-autorizacion.md](62-dci-texto-verificado-y-nota-autorizacion.md) | Texto verificado de los formularios DCI (monofásica Anexo II 269/2012, trifásica Planillas A y B, fotovoltaica), error de unidades en la Planilla B (PAT en Ω, no MΩ), normativa de referencia y nota de autorización de Edenor. **Gana sobre la 61** |
 | [63-edesur-dci-electrodependientes-fae.md](63-edesur-dci-electrodependientes-fae.md) | Edesur: DCI para usuarios electrodependientes (FAE). Opción toda la vivienda u opción circuito independiente (Nota ENRE NO-2021-82208385) con plano; verificaciones de Edesur (tensión > 95 %, tomas IRAM 2071, PE en todos los tomas, cámara de PAT); desvíos que invalidan la DCI |
 | [64-copime-planilla-dci.md](64-copime-planilla-dci.md) | Planilla DCI del COPIME (A y B): campos, unidades correctas (PAT en Ω), diferencias con COPITEC y Colegio de Técnicos PBA, formulario base configurable para la app |
+| [65-edenor-t1-fichas-completas-agrupados.md](65-edenor-t1-fichas-completas-agrupados.md) | Edenor T1 completo: individual, agrupados (3 y 6 mono, 3M+2T, 3 tri), gabinete colectivo aéreo y subterráneo; poder de corte por ficha; IP419; corrige la ficha 53 |
 
 ## Avisos sobre temas de `temas.md`
 
@@ -129,3 +130,4 @@ Las fichas 23 a 30 salen de **artículos de revista** (fuente SECUNDARIA). Si ch
 - **Arquitectura (ficha 45):** valores del Código de Edificación de **CABA**. Fuera de CABA, citarlos como "en CABA". Espesores de muros: ver fichas 47 y 48.
 - **Arquitectura (ficha 46):** valores del Código de Edificación de la **ciudad de Córdoba**. Citarlos como "en Córdoba". No mezclar con los de CABA (ficha 45) sin aclarar de dónde es cada uno.
 - **Muros (fichas 47 y 48):** espesores de los Reglamentos Técnicos de **CABA**. Hay valores para medianeras, muros privativos y HCCA. **No** hay valor normativo para tabiques interiores de ladrillo: no afirmarlo.
+- **Pilar Edenor:** el poder de corte de la termomagnética del TP se toma de la ficha de Edenor que corresponde (individual, agrupado o gabinete colectivo), no de "aérea o subterránea". Si la ficha 53 y la 65 difieren, gana la 65.

@@ -206,3 +206,8 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] CONEXIÓN · Circuito independiente para electrodependientes: tablero propio, diferencial, PAT y un solo toma (Nota ENRE 2021) (ficha 63)
 - [ ] MAL/BIEN · 9 desvíos que hacen rechazar una Declaración de Conformidad según Edesur (ficha 63)
 - [ ] CONEXIÓN · Planilla de inspección de la Declaración de Conformidad: los 26 controles que pide tu consejo profesional (ficha 64)
+- [ ] CONEXIÓN · Edenor con varios medidores en el mismo frente: qué ficha usar según cantidad (3, 6, 3 mono + 2 tri, gabinete colectivo) (ficha 65)
+- [ ] MAL/BIEN · Termomagnética del tablero principal con poder de corte menor al que pide Edenor (3.000, 4.500 o 6.000 A según la ficha) (ficha 65)
+- [ ] CONEXIÓN · IP549 afuera, IP419 adentro: el tablero principal según dónde lo pongas (fichas de Edenor) (ficha 65)
+- [ ] MAL/BIEN · Pilar en zona inundable sin escalinata vs. con descanso sobre la cota máxima de inundación (ficha 65)
+- [ ] CONEXIÓN · Gabinete colectivo de medidores de Edenor: alturas, caños y tablero principal integrado (ficha 65)

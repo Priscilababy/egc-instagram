@@ -94,3 +94,6 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] Electrodependientes: cómo hacer la Declaración de Conformidad para recibir la FAE (toda la vivienda o circuito independiente) · fichas: 63, 56, 62
 - [ ] Los desvíos que más rechazan las distribuidoras en una Declaración de Conformidad, con ejemplos reales · fichas: 63, 56
 - [ ] Planillas A y B de la Declaración de Conformidad: COPIME, COPITEC y Colegio de Técnicos comparados · fichas: 64, 62, 60
+- [ ] Medidores agrupados en Edenor: guía de las fichas T1 para 3, 6 y más medidores, con alturas, caños y protecciones · fichas: 65, 53, 56
+- [ ] Poder de corte de la termomagnética del tablero principal: por qué Edenor pide 3.000, 4.500 o 6.000 A según el tipo de conexión · fichas: 65, 53
+- [ ] Pilar en zona inundable: la escalinata que pide Edenor y cuándo hace falta un cálculo estructural · fichas: 65, 53

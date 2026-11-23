@@ -229,6 +229,13 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 |---|---|---|---|
 | COPIME, "Planilla DCI COPIME" (Planillas A y B, 2 hojas, archivo de enero 2022). Pie: "Anexo I - Planilla A - Resolución Nº 1027" | **PRIMARIA** (formulario de un consejo profesional) | 64 | PAT en Ω (correcto). Canalizaciones en mm. Inmueble con piso, nomenclatura y UF. Cierre con texto heredado ("Colegio de Ingenieros de la Prov. de Buenos Aires"). |
 
+## Lote 25 · Edenor, juego completo de fichas T1 (recibido el 2026-11-22)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| Edenor, fichas técnicas T1 "Octubre 2025": T1-AA-SMT-M, T1-AA-SMT-LM, T1-AA-SM-3, T1-AA-SM-6, T1-AA-SMT-3M-2T, T1-AA-ST-3, T1-AA-SMT-GC-6, T1-AS-SMT, T1-AS-SMT-GC-6 (PDF de 2 a 4 hojas cada una) | **PRIMARIA** | 65 | Agrupados y gabinete colectivo. Poder de corte por ficha (corrige la ficha 53). IP419 interior. Cotas 0,30 m (M) y 0,20 m (AS) leídas en el dibujo ampliado. |
+| Edenor, página de nuevo medidor (texto e imágenes copiados por Fran) | **PRIMARIA** (web oficial) | 65 | 7 medidores o más: consultar a Edenor. Canales del trámite. Esquema de poste de madera para zona inundable de San Fernando y Tigre: **no recibido**. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
