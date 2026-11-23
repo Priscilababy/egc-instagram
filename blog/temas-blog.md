@@ -97,3 +97,4 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] Medidores agrupados en Edenor: guía de las fichas T1 para 3, 6 y más medidores, con alturas, caños y protecciones · fichas: 65, 53, 56
 - [ ] Poder de corte de la termomagnética del tablero principal: por qué Edenor pide 3.000, 4.500 o 6.000 A según el tipo de conexión · fichas: 65, 53
 - [ ] Pilar en zona inundable: la escalinata que pide Edenor y cuándo hace falta un cálculo estructural · fichas: 65, 53
+- [ ] ¿Qué distribuidora te corresponde en el AMBA? Partidos de Edenor, zona de Edesur y la división de CABA · fichas: 66, 53

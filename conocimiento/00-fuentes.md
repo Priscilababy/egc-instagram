@@ -236,6 +236,13 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 | Edenor, fichas técnicas T1 "Octubre 2025": T1-AA-SMT-M, T1-AA-SMT-LM, T1-AA-SM-3, T1-AA-SM-6, T1-AA-SMT-3M-2T, T1-AA-ST-3, T1-AA-SMT-GC-6, T1-AS-SMT, T1-AS-SMT-GC-6 (PDF de 2 a 4 hojas cada una) | **PRIMARIA** | 65 | Agrupados y gabinete colectivo. Poder de corte por ficha (corrige la ficha 53). IP419 interior. Cotas 0,30 m (M) y 0,20 m (AS) leídas en el dibujo ampliado. |
 | Edenor, página de nuevo medidor (texto e imágenes copiados por Fran) | **PRIMARIA** (web oficial) | 65 | 7 medidores o más: consultar a Edenor. Canales del trámite. Esquema de poste de madera para zona inundable de San Fernando y Tigre: **no recibido**. |
 
+## Lote 26 · Áreas de concesión Edenor y Edesur (recibido el 2026-11-22)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| Edenor, página "Nuestra área" (texto copiado por Fran): 20 municipios + zona noroeste de CABA, en 3 regiones | **PRIMARIA** (web oficial) | 66 | Lista completa de partidos de Edenor. |
+| ENRE, mapa de distribución Edenor / Edesur (imagen de argentina.gob.ar) | **PRIMARIA** (imagen) | 66 | Sirve para ver la división de CABA. No alcanza para listar los partidos de Edesur. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:

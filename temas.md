@@ -211,3 +211,4 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] CONEXIÓN · IP549 afuera, IP419 adentro: el tablero principal según dónde lo pongas (fichas de Edenor) (ficha 65)
 - [ ] MAL/BIEN · Pilar en zona inundable sin escalinata vs. con descanso sobre la cota máxima de inundación (ficha 65)
 - [ ] CONEXIÓN · Gabinete colectivo de medidores de Edenor: alturas, caños y tablero principal integrado (ficha 65)
+- [ ] CONEXIÓN · ¿Edenor o Edesur? Los 20 partidos que atiende Edenor y por qué en CABA tenés que mirar la factura (ficha 66)
