@@ -93,3 +93,4 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] Del pilar a la conexión: los pasos y papeles para que Edenor o Edesur te pongan el medidor · fichas: 54, 56, 57, 62
 - [ ] Electrodependientes: cómo hacer la Declaración de Conformidad para recibir la FAE (toda la vivienda o circuito independiente) · fichas: 63, 56, 62
 - [ ] Los desvíos que más rechazan las distribuidoras en una Declaración de Conformidad, con ejemplos reales · fichas: 63, 56
+- [ ] Planillas A y B de la Declaración de Conformidad: COPIME, COPITEC y Colegio de Técnicos comparados · fichas: 64, 62, 60
