@@ -174,6 +174,15 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 | Edesur, "Pilar para medidor T1 tipo subterráneo" (pilart1_planos_subterraneo.pdf, 4 hojas, archivo 2015). https://www.edesur.com.ar/wp-content/uploads/2020/06/pilart1_planos_subterraneo.pdf | **PRIMARIA** (área Edesur) | 53, 55 | Hoja 1 en la ficha 53. Hojas 2 a 4 (pilar trifásico, fachada mono y tri) en la ficha 55. |
 | Edesur, "Requisitos de seguridad eléctrica (Anexo L)", 1 hoja (archivo 2015) | **PRIMARIA** (área Edesur) | 55 | Basado en la Res. ENRE 1098/2006: doble aislación, cierre con herramienta, IP43/IK10 ("IP439"), interruptor automático en el TP, normas de cables y protecciones, señalización. |
 
+## Lote 17 · Res. ENRE 225/2011 y Declaración de Conformidad (recibido el 2026-11-22)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| Resolución ENRE N° 225/2011 (15/6/2011), texto de la resolución, 6 págs. | **PRIMARIA** (regulación) | 56 | Aprueba el Reglamento para la Conexión de Nuevos Suministros (Edenor, Edesur, Edelap). Deroga Res. 336/2009 y Nota 92.639. |
+| Anexo I de la Res. ENRE 225/2011, texto copiado de la web del ENRE | **PRIMARIA** (regulación) | 56 | Definiciones, requisitos T1R monofásica (puntos 3.1 a 3.10), inspección inicial, inspección periódica; T1R trifásica, T1G, T2 y T3 BT. Modificado por la Res. 269/2012 (no recibida). |
+| ENRE, formulario "Declaración de Conformidad de Instalaciones Eléctricas" T1R monofásico, edición 0 (2018). https://www.argentina.gob.ar/sites/default/files/conexiondomiciliaria_formulariodci_feb2018.pdf | **PRIMARIA** (formulario oficial) | 56 | Ítems a–e, variantes de protección con y sin tablero seccional. Cita la AEA versión 2006 (desactualizado). |
+| Res. ENRE 336/2009 (y 184/2009, 264/2009) | **DEROGADA** | — | No usar. Derogada por la Res. 225/2011, Art. 3°. |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
