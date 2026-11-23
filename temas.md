@@ -193,3 +193,4 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] CONEXIÓN · Declaración de Conformidad: qué es, quién la firma y por qué un solo "NO" frena la conexión (ficha 56)
 - [ ] CONEXIÓN · Tablero principal en el pilar: IP 549 a la intemperie, IP 41 en interior (IRAM 2444) (ficha 56)
 - [ ] CONEXIÓN · Cada cuánto revisar una instalación: 5 años vivienda, 3 comercio, 2 pública concurrencia, 1 riesgo de incendio (ficha 56)
+- [ ] CONEXIÓN · Aumento de potencia o pase a trifásica en Edenor y Edesur: también piden la Declaración de Conformidad (Res. ENRE 269/2012) (ficha 57)
