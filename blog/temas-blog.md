@@ -86,3 +86,4 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] Sello S en materiales eléctricos: qué es, qué norma lo exige y cómo reconocerlo · fichas: 58, 56
 - [ ] Pilar de obra: requisitos del ENRE para conectarlo y por qué hay que inspeccionarlo cada año · fichas: 59, 56
 - [ ] Certificado de Aptitud del Colegio de Técnicos PBA: cómo completar el T1R y las planillas A y B · fichas: 60, 56
+- [ ] Declaración de Conformidad trifásica: cómo completar las Planillas A y B y qué mediciones piden · fichas: 61, 60
