@@ -26,10 +26,11 @@ Superficie: 4.637 km². Población estimada: 9 millones (dato de Edenor).
 
 ## Para la app (EGC Pilar, paso 1)
 - Partido de la lista de Edenor → **Edenor**, con la región.
-- CABA → pregunta: "Mirá tu factura de luz o el mapa del ENRE". Sin elección automática.
+- CABA → pregunta: "¿Qué empresa figura en la factura de luz?". Sin elección automática.
+- Obra nueva sin factura propia: "Mirá la factura de un vecino de la misma cuadra o consultá a la distribuidora".
 - Otro partido → "Edesur u otra distribuidora: confirmalo en tu factura" hasta tener la lista oficial de Edesur.
 - Fuera del AMBA (OCEBA, cooperativas, EPEC, EPE): "Próximamente".
 
 ## Pendiente
 - Lista oficial de partidos de Edesur (página "Nuestra área" o equivalente).
-- Enlace al mapa interactivo del ENRE, si permite buscar por dirección.
+- El mapa del ENRE es una imagen fija: no permite buscar por dirección. No hay fuente pública con el límite exacto en CABA (Fran, 22/11/2026).
