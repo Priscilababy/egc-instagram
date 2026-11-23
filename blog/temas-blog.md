@@ -88,3 +88,8 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] Certificado de Aptitud del Colegio de Técnicos PBA: cómo completar el T1R y las planillas A y B · fichas: 60, 56
 - [ ] Declaración de Conformidad trifásica: cómo completar las Planillas A y B y qué mediciones piden · fichas: 61, 60
 - [ ] El electricista hace el trámite del medidor: nota de autorización de Edenor y Declaración de Conformidad paso a paso · fichas: 62, 56
+- [ ] Error en la Planilla B de la Declaración de Conformidad: la puesta a tierra se mide en Ω, no en MΩ (y por qué importa en la inspección) · fichas: 62, 60, 06
+- [ ] Pilar T1 para Edenor vs. Edesur: guía completa con medidas, caños, tablero y requisitos de la inspección · fichas: 53, 55, 56, 54
+- [ ] Del pilar a la conexión: los pasos y papeles para que Edenor o Edesur te pongan el medidor · fichas: 54, 56, 57, 62
+- [ ] Electrodependientes: cómo hacer la Declaración de Conformidad para recibir la FAE (toda la vivienda o circuito independiente) · fichas: 63, 56, 62
+- [ ] Los desvíos que más rechazan las distribuidoras en una Declaración de Conformidad, con ejemplos reales · fichas: 63, 56
