@@ -75,3 +75,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-11-21 · NO PROGRAMADO · fin de semana
 - 2026-11-22 · NO PROGRAMADO · fin de semana
 - 2026-11-23 · Jabalinas en paralelo: separación entre ellas · CONEXIÓN · posts/2026-11-23-jabalinas-paralelo.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-5030732278396992281
+- 2026-11-24 · Tierra lejana: la toma de protección separada de la tierra de servicio · CONEXIÓN · posts/2026-11-24-tierra-lejana.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=5446575723919524741

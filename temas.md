@@ -59,7 +59,7 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [x] CONEXIÓN · Resistividad del suelo: método Wenner con 4 picas en línea (ficha 32; sin fórmulas fuera de ámbito)
 - [x] AIRE · MAL/BIEN · Cargar refrigerante "a ojo" vs. por peso con balanza (ficha 17)
 - [x] CONEXIÓN · Jabalinas en paralelo: separación entre ellas (ficha 31, 771-C.2.2, Nota 2)
-- [ ] CONEXIÓN · Tierra lejana: por qué la puesta a tierra de la vivienda va separada de otras tierras (fichas 06 y 33)
+- [x] CONEXIÓN · Tierra lejana: por qué la puesta a tierra de la vivienda va separada de otras tierras (fichas 06 y 33)
 - [ ] MAL/BIEN · Cables que no se pueden embutir (cordón, cable tipo taller) vs. unipolar IRAM NM 247-3 en caño (ficha 07, 770.10.1)
 - [ ] CONEXIÓN · Sección del conductor PE según la sección de fase (ficha 06, Tabla 770.14.I)
 - [ ] AIRE · CONEXIÓN · Diámetros de cañería, largo máximo y desnivel de un split (ficha 17; confirmar en el manual del modelo)
