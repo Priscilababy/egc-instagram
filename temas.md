@@ -199,3 +199,4 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [ ] CONEXIÓN · Pilar de obra en Edenor y Edesur: los 12 requisitos del ENRE y la inspección anual obligatoria (ficha 59)
 - [ ] MAL/BIEN · Pilar de obra sin renovar la inspección anual vs. con comprobante al día (ficha 59)
 - [ ] CONEXIÓN · Qué se mide en una inspección de instalación: continuidad, aislación en MΩ y puesta a tierra en Ω (Planilla B del Colegio de Técnicos PBA) (ficha 60)
+- [ ] CONEXIÓN · Declaración de Conformidad monofásica vs. trifásica: un formulario de 5 ítems o dos planillas con mediciones (ficha 61)
