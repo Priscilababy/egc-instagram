@@ -1,0 +1,21 @@
+Si sobró un rollo de cordón tipo taller, no lo metas en el caño de la pared.
+
+En instalación fija no va cualquier cable. La reglamentación define qué conductores se pueden pasar por cañería embutida o a la vista, y hay dos que se siguen viendo en obra y están prohibidos: el cordón flexible tipo taller y el cable de alambre macizo.
+
+Cómo se hace bien:
+- Dentro del caño, unipolar sin envoltura IRAM NM 247-3 (PVC) o IRAM 62267 (libre de halógenos).
+- Cable no propagante de la llama y de 450/750 V como mínimo.
+- Conductor de varios alambres, nunca de un solo alambre (macizo).
+- Fase, neutro y PE del circuito en la misma canalización.
+- Respetá las secciones mínimas: 1,5 mm² en iluminación, 2,5 mm² en tomas y en el PE.
+
+Lo que se olvida en obra:
+- El cordón tipo taller (y los cables IRAM NM 247-5, IRAM 2039 e IRAM 2188) es para aparatos portátiles o que se desenchufan. En la instalación fija está prohibido, aunque "aguante" la corriente.
+- El unipolar sin envoltura va siempre dentro de caño o cablecanal: no se embute directo en la pared ni se fija sobre la mampostería.
+- Si hace falta un cable con envoltura (el llamado "subterráneo"), es IRAM 2178 o IRAM 62266, y también va en caño, cablecanal o enterrado.
+
+Marco: reglamentación AEA 90364-7-770 (770.10 y 770.10.1). Todos los circuitos con diferencial de 30 mA y todas las masas a tierra.
+
+Guardalo para la próxima instalación. ¿Te tocó sacar cordón tipo taller de adentro de un caño en alguna reforma?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #cables #canalizaciones
