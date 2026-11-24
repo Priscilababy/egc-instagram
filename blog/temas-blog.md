@@ -32,7 +32,7 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [x] Circuitos ACU, APM y OCE: qué son y cuándo se usan · fichas: 14 → circuitos-acu-apm-y-oce-que-son-y-cuando-se-usan
 - [x] Monofásico o trifásico: cuándo conviene pasar a trifásico · fichas: 02 → monofasico-o-trifasico-cuando-conviene-pasar-a-trifasico
 - [x] Motores en una instalación: sección del cable y protección de sobrecarga · fichas: 05, 25 → motores-en-una-instalacion-seccion-del-cable-y-proteccion-de-sobrecarga
-- [ ] Poder de corte de una termomagnética: qué es y cómo se elige · fichas: 26
+- [x] Poder de corte de una termomagnética: qué es y cómo se elige · fichas: 26 → poder-de-corte-de-una-termomagnetica-que-es-y-como-se-elige
 - [ ] Tablero de bombas en edificios: alternancia, flotantes y puesta a tierra · fichas: 27
 - [ ] Protocolo SRT 900/15: qué se mide y qué se entrega · fichas: 29
 - [ ] Extractor de baño: dónde se conecta y qué caudal necesita · fichas: 08, 21
