@@ -1,0 +1,23 @@
+El PE no se elige "a ojo": sale de la sección de la fase.
+
+La reglamentación fija la sección mínima del conductor de protección (PE) en función de la sección de los conductores de fase del circuito.
+
+Cómo se elige (Tabla 770.14.I):
+- Fase hasta 16 mm²: el PE es igual a la fase.
+- Fase de más de 16 hasta 35 mm²: PE de 16 mm².
+- Fase de más de 35 mm²: el PE es la mitad de la fase.
+- Siempre con el mínimo: el PE nunca baja de 2,5 mm².
+- La misma tabla rige para el cable de puesta a tierra (de la toma de tierra a la barra principal de tierra), con mínimo de 4 mm².
+
+Ejemplos: fase 4 mm² lleva PE 4 mm². Fase 25 mm² lleva PE 16 mm². Fase 50 mm² lleva PE 25 mm².
+
+Lo que se olvida en obra:
+- En un circuito de iluminación de 1,5 mm² el PE no es de 1,5: es de 2,5 mm², porque manda el mínimo.
+- El PE va en la misma canalización que los demás cables de su circuito y recorre todas las cajas y bocas, también las que no tienen tomacorriente. Las masas se conectan por derivación, nunca en serie ("guirnalda").
+- El cable de puesta a tierra va independiente del PE, aunque compartan canalización. Y un caño metálico no reemplaza al PE.
+
+Marco: reglamentación AEA 90364 (AEA 90364-7-770, Tabla 770.14.I, edición 2017; la edición 2026 mantiene el PE mínimo de 2,5 mm²). Todos los circuitos con diferencial de 30 mA y todas las masas a tierra.
+
+Guardalo para la próxima instalación. ¿Qué sección de PE estás usando en la línea al tablero seccional?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #puestaatierra #conductordeproteccion
