@@ -77,3 +77,4 @@ La rutina lee esta lista para no repetir temas.
 - 2026-11-23 · Jabalinas en paralelo: separación entre ellas · CONEXIÓN · posts/2026-11-23-jabalinas-paralelo.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=-5030732278396992281
 - 2026-11-24 · Tierra lejana: la toma de protección separada de la tierra de servicio · CONEXIÓN · posts/2026-11-24-tierra-lejana.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=5446575723919524741
 - 2026-11-25 · Cables que no se pueden embutir (cordón tipo taller, macizo) vs. unipolar IRAM NM 247-3 en caño · MAL/BIEN · posts/2026-11-25-cables-no-embutir.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=4447173058847460163
+- 2026-11-26 · Sección del conductor PE según la sección de fase · CONEXIÓN · posts/2026-11-26-seccion-pe.png · https://app.metricool.com/planner/calendar?blogId=7073274&openWithPostUuid=4004219087390592854
