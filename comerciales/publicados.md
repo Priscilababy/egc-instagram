@@ -7,3 +7,4 @@
 - 2026-11-12 19:39 · PUBLICADO · `2026-11-12-1900-com-protocolo-srt` · https://www.instagram.com/p/DfqJksBk8k5/
 - 2026-11-14 10:18 · PUBLICADO · `2026-11-14-1000-com-calculadora-aea` · https://www.instagram.com/p/DfuS7uqGPJI/
 - 2026-11-17 23:18 · PUBLICADO · `2026-11-17-1900-com-precios-ipc` · https://www.instagram.com/p/Df3aoV8DYJs/
+- 2026-11-24 23:14 · PUBLICADO · `2026-11-24-1900-com-aire-olvidos` · https://www.instagram.com/p/DgJbuIZmiLb/
