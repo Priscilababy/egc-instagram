@@ -53,7 +53,7 @@ La rutina toma el primer `[ ]` de la lista. Podés reordenar, agregar o borrar t
 - [x] MAL/BIEN · Dos cables en un mismo borne de la termomagnética vs. un cable por borne (fichas 09 y 26)
 - [x] CONEXIÓN · Alturas y ubicación de tomacorrientes y llaves (ficha 08)
 - [x] AIRE · CONEXIÓN · Mantenimiento preventivo de un split: rutina y qué medir y anotar (ficha 20)
-- [ ] CONEXIÓN · Medición de resistencia de aislación: cómo se hace y valores mínimos (fichas 70 y 12; usar ≥ 1 MΩ a 500 V CC de la AEA 90364-6, tabla 613.I)
+- [x] CONEXIÓN · Medición de resistencia de aislación: cómo se hace y valores mínimos (fichas 70 y 12; usar ≥ 1 MΩ a 500 V CC de la AEA 90364-6, tabla 613.I)
 - [x] CONEXIÓN · Método del 62 %: las tres lecturas para medir la puesta a tierra (fichas 06 y 34)
 - [x] MAL/BIEN · Medir la tierra de una vivienda TT con pinza vs. con el método del 62 % (ficha 34: la pinza necesita un lazo cerrado)
 - [x] CONEXIÓN · Resistividad del suelo: método Wenner con 4 picas en línea (ficha 32; sin fórmulas fuera de ámbito)
