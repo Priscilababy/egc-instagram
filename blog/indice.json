@@ -308,6 +308,20 @@
         "65"
       ],
       "palabras": 1248
+    },
+    {
+      "slug": "mediciones-antes-de-entregar-una-instalacion-electrica",
+      "titulo": "Verificaciones y mediciones antes de entregar una instalación eléctrica",
+      "descripcion": "Qué se revisa y qué se mide antes de dar tensión: continuidad del PE, aislación de 1 MΩ, puesta a tierra, diferenciales e informe.",
+      "imagen": "blog/img/mediciones-antes-de-entregar-una-instalacion-electrica.png",
+      "creada": "2026-11-26T19:17:34-03:00",
+      "publicar": "2026-11-27T19:00:00-03:00",
+      "fichas": [
+        "70",
+        "12",
+        "49"
+      ],
+      "palabras": 1289
     }
   ]
 }
