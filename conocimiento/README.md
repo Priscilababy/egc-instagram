@@ -83,6 +83,7 @@ Las armó Claude leyendo los documentos que juntó Fran. Los documentos original
 | [67-edenor-poste-madera-zona-inundable.md](67-edenor-poste-madera-zona-inundable.md) | Edenor, pilar con poste de madera para zona rural o inundable (San Fernando y Tigre): poste, retención, cajas estancas, alturas con y sin escalera, maderas |
 | [68-edesur-fachada-aerea-y-t2.md](68-edesur-fachada-aerea-y-t2.md) | Edesur T1 aérea sobre fachada (mono y tri) y Tarifa 2 aérea y subterránea (medición directa e indirecta hasta 100 kW); altura de la caja de medidor |
 | [69-enre-pilar-de-obra-380-2015-y-dci.md](69-enre-pilar-de-obra-380-2015-y-dci.md) | Pilar de obra: página del ENRE, Res. ENRE 380/2015, formulario DCI de pilar de obra (inicial o anual) y criterio de medidas |
+| [70-aea-90364-6-verificacion-inicial-y-periodica.md](70-aea-90364-6-verificacion-inicial-y-periodica.md) | AEA 90364-6 (2025): orden de pruebas, continuidad y muestreo IRAM 15-1, aislación ≥ 1 MΩ, tiempos del diferencial, medición de la jabalina, frecuencia de revisión por tipo de inmueble, informes y manual de operaciones |
 
 ## Avisos sobre temas de `temas.md`
 
@@ -137,3 +138,4 @@ Las fichas 23 a 30 salen de **artículos de revista** (fuente SECUNDARIA). Si ch
 - **Pilar Edenor:** el poder de corte de la termomagnética del TP se toma de la ficha de Edenor que corresponde (individual, agrupado o gabinete colectivo), no de "aérea o subterránea". Si la ficha 53 y la 65 difieren, gana la 65.
 - **Caja de medidor Edesur:** base a 1,20 m o más y borde superior a 1,80 m o menos (ficha 68). No decir "entre 1,20 y 1,80 m" sin aclarar a qué borde se mide.
 - **Pilar de obra:** no afirmar que es "igual al pilar definitivo". El ENRE remite a los requisitos constructivos de cada distribuidora (ficha 69). Diferencial en el tablero principal (reglamento 2024, ficha 59).
+- **Verificaciones y mediciones (ficha 70):** la AEA 90364-6 (2025) ya está en la biblioteca. Aislación de 220 V: ensayo a 500 V CC y **≥ 1 MΩ** (la ficha 12, 770 ed. 2017, dice 0,5 MΩ: si se cita, aclarar la edición). Frecuencias: decir "plazo máximo". En TT el tiempo de corte del diferencial se **recomienda** medir; en TN **se debe**. El botón de prueba no reemplaza la medición con instrumento.

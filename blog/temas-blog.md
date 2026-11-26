@@ -26,8 +26,8 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [x] Flotante de tanque de agua: por qué el comando va en muy baja tensión de seguridad · fichas: 10 → flotante-de-tanque-de-agua-por-que-el-comando-va-en-mbts
 - [x] Tiras LED y fuentes de 12 V: cómo se instalan bien · fichas: 01, 07, 10 → tiras-led-y-fuentes-de-12-v-como-se-instalan-segun-la-aea
 - [x] Cables enterrados dentro del terreno: profundidad y protección · fichas: 11 → cables-enterrados-en-una-vivienda-profundidad-y-proteccion
-- [?] Verificaciones y mediciones antes de entregar una instalación eléctrica · fichas: 12 · Motivo (2026-11-16): la ficha 12 es de la edición 2017; la 2026 renumeró la cláusula 770.19 y no hay texto para confirmar los mínimos de aislación (0,5 MΩ en 2017; la IEC 60364-6 actual pide 1 MΩ).
-- [?] Inspección periódica de la instalación eléctrica: cada cuánto y qué revisar · fichas: 12 · Motivo (2026-11-16): la ficha 12 es de la edición 2017; no se pudo confirmar la periodicidad (5 años) en la edición 2026.
+- [ ] Verificaciones y mediciones antes de entregar una instalación eléctrica · fichas: 70, 12
+- [ ] Inspección periódica de la instalación eléctrica: cada cuánto y qué revisar · fichas: 70, 12
 - [x] Oficinas y locales: cuándo se aplica la AEA 90364-7-771 · fichas: 14 → oficinas-y-locales-cuando-se-aplica-la-aea-90364-7-771
 - [x] Circuitos ACU, APM y OCE: qué son y cuándo se usan · fichas: 14 → circuitos-acu-apm-y-oce-que-son-y-cuando-se-usan
 - [x] Monofásico o trifásico: cuándo conviene pasar a trifásico · fichas: 02 → monofasico-o-trifasico-cuando-conviene-pasar-a-trifasico
@@ -56,6 +56,13 @@ Ya publicadas a mano (no repetir): 4 protecciones de una vivienda · curvas B, C
 - [ ] Medidas mínimas de una vivienda en CABA que todo electricista debería conocer: locales, pasillos, puertas y baños · fichas: 45
 - [ ] Medidas mínimas de una vivienda: Córdoba vs. CABA, qué cambia para el plano eléctrico · fichas: 46, 45
 - [ ] Dónde se puede canalizar y dónde no: medianeras, muros privativos, pilares y tabiques de HCCA en CABA · fichas: 48, 47
+- [ ] Resistencia de aislación: cómo se mide y cuál es el mínimo según la AEA · fichas: 70, 12
+- [ ] Tiempos de disparo del interruptor diferencial: qué dice la tabla 613.II · fichas: 70, 05
+- [ ] Revisión periódica de la instalación eléctrica en consorcios: cada 3 años y quién responde · fichas: 70
+- [ ] Manual de operaciones: qué documentación se le entrega al cliente al terminar la obra · fichas: 70
+- [ ] Cómo medir la puesta a tierra: telurímetro, medidor de lazo y pinza · fichas: 70, 06, 34
+- [ ] Ampliaciones y modificaciones: qué exige la AEA 90364-6 antes de energizar la parte nueva · fichas: 70
+- [ ] Continuidad del conductor de protección: cómo se mide y qué valor esperar · fichas: 70, 12
 
 ## Aire acondicionado
 - [ ] Instalación de un split: distancias, ménsulas y desagote bien hechos · fichas: 16

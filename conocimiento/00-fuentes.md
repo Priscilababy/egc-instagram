@@ -264,10 +264,16 @@ Códigos usados en las fichas 14 a 22 entre paréntesis.
 | ENRE, formulario DCI "Pilar de Obra" T1G (pilarobra_formulariodci_mar2018.pdf) | **PRIMARIA** (leído por resumen automático) | 69 | Verifica el Anexo I de la Res. ENRE 380/2015. Inicial o anual. Ítems a–e. Nota (2) admite diferencial en el seccional: el reglamento 2024 lo pide en el principal. |
 | Textos de Google, Variplast, cooperativa sin nombre e imagen de kit (pasados por Fran) | **NO USAR** | — | Fuentes no oficiales o de otra jurisdicción. Variplast contradice a Edenor (tablero a 1 m, termomagnética de 32 A máx.). |
 
+## Lote 30 · AEA 90364-6, verificaciones (leído el 2026-11-26)
+
+| Documento | Estado | Ficha | Notas |
+|---|---|---|---|
+| AEA 90364-6, 3.ª edición 2025 (ISBN 978-987-1975-88-4), PDF pasado por Fran | **PRIMARIA** | 70 | Verificación inicial y periódica, tablas 613.I (aislación) y 613.II (diferenciales), muestreo IRAM 15-1, frecuencias (622), informes, mantenimiento y manual de operaciones. Desde este lote, la AEA 90364-6 **sí** está en la biblioteca. Aislación ≥ 1 MΩ: difiere de la ficha 12 (770 ed. 2017, 0,5 MΩ). |
+
 ## Normas citadas que **no** están en esta biblioteca
 
 Si un tema depende de ellas, verificar en fuente oficial antes de afirmar:
-- AEA 90364 partes 1 a 6 (reglas generales; por ejemplo, dónde va la llave unipolar y la prueba de polaridad 613.8).
+- AEA 90364 partes 1 a 5 (reglas generales; por ejemplo, dónde va la llave unipolar). La Parte 6 (verificaciones, incluida la prueba de polaridad 613.8) **ya está incorporada** en la ficha 70 (Lote 30).
 - AEA 90364-7-701: **ya incorporada** completa en la ficha 37 (edición 2012, Lote 5).
 - AEA 95150 (acometida, pilar y medición). Las fichas de Edenor y Edesur (ficha 53) cubren el pilar T1 de cada distribuidora, no la AEA 95150.
 - AEA 92305 (protección contra rayos).
