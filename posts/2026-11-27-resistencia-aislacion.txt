@@ -1,0 +1,22 @@
+Antes de dar tensión a una instalación nueva, ¿medís la aislación o confiás en que "anda"?
+
+La resistencia de aislación muestra si algún cable está dañado, pellizcado o húmedo antes de que haya una falla. Se mide en la verificación inicial, después de cada ampliación y en cada revisión periódica.
+
+Cómo se conecta:
+- Instrumento: megóhmetro con ensayo a 500 V de continua (circuitos de 220 V).
+- Medición 1: fase contra neutro.
+- Medición 2: fase y neutro unidos con un puente, contra el PE.
+- Se mide cada circuito y se anota el valor en MΩ.
+- Valor mínimo: 1 MΩ por circuito (AEA 90364-6, edición 2025, tabla 613.I).
+
+Detalles que se olvidan en obra:
+- Cortá la alimentación y desconectá todos los aparatos. Las llaves y las termomagnéticas quedan cerradas para que el ensayo llegue a todo el circuito.
+- Desconectá los DPS. Si hay un equipo que no se puede desconectar (por ejemplo, un toma con descargador), el ensayo se hace a 250 V de continua y el mínimo sigue siendo 1 MΩ.
+- Si la medición general da bajo, dividí: medí por grupos de circuitos y después cada circuito, hasta encontrar el tramo con falla.
+- Ojo con la edición: la AEA 90364-7-770 de 2017 pedía 0,5 MΩ. La AEA 90364-6 de 2025 pide 1 MΩ.
+
+Marco: reglamentación AEA 90364 (AEA 90364-6, verificación inicial y periódica). Todos los circuitos con diferencial de 30 mA y todas las masas a tierra.
+
+Guardalo para la próxima instalación. ¿Medís aislación antes de entregar cada obra o solo cuando salta el diferencial?
+
+#electricistas #instalacioneselectricas #AEA90364 #electricidad #oficioelectrico #megometro #verificacion
