@@ -8,3 +8,4 @@
 - 2026-11-14 10:18 · PUBLICADO · `2026-11-14-1000-com-calculadora-aea` · https://www.instagram.com/p/DfuS7uqGPJI/
 - 2026-11-17 23:18 · PUBLICADO · `2026-11-17-1900-com-precios-ipc` · https://www.instagram.com/p/Df3aoV8DYJs/
 - 2026-11-24 23:14 · PUBLICADO · `2026-11-24-1900-com-aire-olvidos` · https://www.instagram.com/p/DgJbuIZmiLb/
+- 2026-11-26 19:12 · PUBLICADO · `2026-11-26-1900-com-computo-materiales` · https://www.instagram.com/p/DgOJl7vDbJS/
