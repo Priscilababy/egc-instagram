@@ -12,8 +12,8 @@ No prometer nada que la landing no diga. No usar la palabra AAIERIC.
 - [x] Precios al día por IPC con el dato oficial del INDEC, en un toque
 - [x] Aire acondicionado: lo que siempre se olvida cobrar (metro extra de cañería, gas adicional, altura, ménsula, pasamuros, desagote)
 - [x] Cómputo de materiales: la lista para el corralón, con tildado de lo comprado
-- [ ] Aceptación online: el cliente acepta desde un link y el presupuesto pasa solo a Aceptado
-- [ ] Cobros y saldos: anticipos, pagos parciales y lo que falta cobrar, a la vista
+- [x] Aceptación online: el cliente acepta desde un link y el presupuesto pasa solo a Aceptado
+- [x] Cobros y saldos: anticipos, pagos parciales y lo que falta cobrar, a la vista
 - [ ] Funciona sin conexión: en la obra sin señal, se sincroniza solo después
 - [ ] Constancia de garantía por escrito: 6 meses, 1 año o 2 años por trabajo
 - [ ] "El presupuesto que tardás dos días en mandar, ya lo ganó otro"
