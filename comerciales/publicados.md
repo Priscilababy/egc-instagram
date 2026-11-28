@@ -9,3 +9,4 @@
 - 2026-11-17 23:18 · PUBLICADO · `2026-11-17-1900-com-precios-ipc` · https://www.instagram.com/p/Df3aoV8DYJs/
 - 2026-11-24 23:14 · PUBLICADO · `2026-11-24-1900-com-aire-olvidos` · https://www.instagram.com/p/DgJbuIZmiLb/
 - 2026-11-26 19:12 · PUBLICADO · `2026-11-26-1900-com-computo-materiales` · https://www.instagram.com/p/DgOJl7vDbJS/
+- 2026-11-28 10:39 · ERROR · `2026-11-28-1000-com-aceptacion-online` · 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","fbtrace_id":"AsI2T0yUm1MxfmwsSBa91l_"}}
